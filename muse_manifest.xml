@@ -1,71 +1,71 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tomorrowwillbesunny.com" resolutions="1x,2x" timestamp="1516665333122">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tomorrowwillbesunny.com" resolutions="1x,2x" timestamp="1516669574156">
   <folder name="css">
     <file name="site_global.css" crc="3980088982"/>
-    <file name="master_a-master-copy-2.css" crc="406104995" ref="design:ux---code:terminus-of-reverie:adverator:index:ibm-watson:authorimpression:smt:adobe-creative-cloud:tom-s:discovery-doors:illustration:character-devlopment:nesquik:nintendogs-vr:guardians:about:sparky-ux:clash-of-fates:jnto-kimono:gates-of-design:reapers:boss-inc"/>
-    <file name="nomq_preview_master_a-master-copy-2.css" crc="3768121961" ref="design:ux---code:terminus-of-reverie:adverator:index:ibm-watson:authorimpression:smt:adobe-creative-cloud:tom-s:discovery-doors:illustration:character-devlopment:nesquik:nintendogs-vr:guardians:about:sparky-ux:clash-of-fates:jnto-kimono:gates-of-design:reapers:boss-inc"/>
-    <file name="design.css" crc="4142779876" ref="design"/>
-    <file name="nomq_design.css" crc="464663830" ref="design"/>
-    <file name="ux---code.css" crc="28297507" ref="ux---code"/>
-    <file name="nomq_ux---code.css" crc="424342228" ref="ux---code"/>
-    <file name="terminus-of-reverie.css" crc="3882742332" ref="terminus-of-reverie"/>
-    <file name="nomq_terminus-of-reverie.css" crc="510274499" ref="terminus-of-reverie"/>
-    <file name="adverator.css" crc="3777470682" ref="adverator"/>
-    <file name="nomq_adverator.css" crc="3848163140" ref="adverator"/>
-    <file name="index.css" crc="254168066" ref="index"/>
-    <file name="nomq_index.css" crc="193927534" ref="index"/>
-    <file name="ibm-watson.css" crc="474113981" ref="ibm-watson"/>
-    <file name="nomq_ibm-watson.css" crc="367662767" ref="ibm-watson"/>
-    <file name="authorimpression.css" crc="177949832" ref="authorimpression"/>
-    <file name="nomq_authorimpression.css" crc="358483731" ref="authorimpression"/>
-    <file name="smt.css" crc="282630550" ref="smt"/>
-    <file name="nomq_smt.css" crc="101852350" ref="smt"/>
-    <file name="adobe-creative-cloud.css" crc="185575990" ref="adobe-creative-cloud"/>
-    <file name="nomq_adobe-creative-cloud.css" crc="172762329" ref="adobe-creative-cloud"/>
-    <file name="tom-s.css" crc="150152413" ref="tom-s"/>
-    <file name="nomq_tom-s.css" crc="4010054022" ref="tom-s"/>
-    <file name="discovery-doors.css" crc="4219588070" ref="discovery-doors"/>
-    <file name="nomq_discovery-doors.css" crc="3993686645" ref="discovery-doors"/>
-    <file name="illustration.css" crc="289258484" ref="illustration"/>
-    <file name="nomq_illustration.css" crc="106773979" ref="illustration"/>
-    <file name="character-devlopment.css" crc="139122864" ref="character-devlopment"/>
-    <file name="nomq_character-devlopment.css" crc="3897474670" ref="character-devlopment"/>
-    <file name="nesquik.css" crc="337668234" ref="nesquik"/>
-    <file name="nomq_nesquik.css" crc="87701473" ref="nesquik"/>
-    <file name="nintendogs-vr.css" crc="4101583387" ref="nintendogs-vr"/>
-    <file name="nomq_nintendogs-vr.css" crc="214135142" ref="nintendogs-vr"/>
-    <file name="guardians.css" crc="4163344894" ref="guardians"/>
-    <file name="nomq_guardians.css" crc="122608988" ref="guardians"/>
-    <file name="about.css" crc="3906193930" ref="about"/>
-    <file name="nomq_about.css" crc="4073421611" ref="about"/>
-    <file name="sparky-ux.css" crc="143309093" ref="sparky-ux"/>
-    <file name="nomq_sparky-ux.css" crc="4046843649" ref="sparky-ux"/>
-    <file name="clash-of-fates.css" crc="4065705971" ref="clash-of-fates"/>
-    <file name="nomq_clash-of-fates.css" crc="3901119660" ref="clash-of-fates"/>
-    <file name="jnto-kimono.css" crc="4216325078" ref="jnto-kimono"/>
-    <file name="nomq_jnto-kimono.css" crc="4062442804" ref="jnto-kimono"/>
-    <file name="gates-of-design.css" crc="4212130074" ref="gates-of-design"/>
-    <file name="nomq_gates-of-design.css" crc="4284458904" ref="gates-of-design"/>
-    <file name="reapers.css" crc="4055867078" ref="reapers"/>
-    <file name="nomq_reapers.css" crc="4049245438" ref="reapers"/>
-    <file name="boss-inc.css" crc="3867914380" ref="boss-inc"/>
-    <file name="nomq_boss-inc.css" crc="393953572" ref="boss-inc"/>
+    <file name="master_a-master-copy-2.css" crc="367503278" ref="digital:ux---code:terminus-of-reverie:adverator:index:ibm-watson:authorimpression:smt:adobe-creative-cloud:tom-s:discovery-doors:illustration:character-devlopment:nesquik:nintendogs-vr:guardians:about:sparky-ux:clash-of-fates:jnto-kimono:gates-of-design:reapers:boss-inc"/>
+    <file name="nomq_preview_master_a-master-copy-2.css" crc="3768121961" ref="digital:ux---code:terminus-of-reverie:adverator:index:ibm-watson:authorimpression:smt:adobe-creative-cloud:tom-s:discovery-doors:illustration:character-devlopment:nesquik:nintendogs-vr:guardians:about:sparky-ux:clash-of-fates:jnto-kimono:gates-of-design:reapers:boss-inc"/>
+    <file name="digital.css" crc="59030368" ref="digital"/>
+    <file name="nomq_digital.css" crc="3942080318" ref="digital"/>
+    <file name="ux---code.css" crc="243721585" ref="ux---code"/>
+    <file name="nomq_ux---code.css" crc="271143763" ref="ux---code"/>
+    <file name="terminus-of-reverie.css" crc="4116835949" ref="terminus-of-reverie"/>
+    <file name="nomq_terminus-of-reverie.css" crc="445932399" ref="terminus-of-reverie"/>
+    <file name="adverator.css" crc="344588224" ref="adverator"/>
+    <file name="nomq_adverator.css" crc="144143569" ref="adverator"/>
+    <file name="index.css" crc="399389705" ref="index"/>
+    <file name="nomq_index.css" crc="4245038952" ref="index"/>
+    <file name="ibm-watson.css" crc="3981642632" ref="ibm-watson"/>
+    <file name="nomq_ibm-watson.css" crc="395247807" ref="ibm-watson"/>
+    <file name="authorimpression.css" crc="423665739" ref="authorimpression"/>
+    <file name="nomq_authorimpression.css" crc="3804436306" ref="authorimpression"/>
+    <file name="smt.css" crc="3851328183" ref="smt"/>
+    <file name="nomq_smt.css" crc="114574807" ref="smt"/>
+    <file name="adobe-creative-cloud.css" crc="528858592" ref="adobe-creative-cloud"/>
+    <file name="nomq_adobe-creative-cloud.css" crc="4147247990" ref="adobe-creative-cloud"/>
+    <file name="tom-s.css" crc="4034836299" ref="tom-s"/>
+    <file name="nomq_tom-s.css" crc="315653587" ref="tom-s"/>
+    <file name="discovery-doors.css" crc="3899132017" ref="discovery-doors"/>
+    <file name="nomq_discovery-doors.css" crc="174647533" ref="discovery-doors"/>
+    <file name="illustration.css" crc="320351792" ref="illustration"/>
+    <file name="nomq_illustration.css" crc="3930192128" ref="illustration"/>
+    <file name="character-devlopment.css" crc="183997438" ref="character-devlopment"/>
+    <file name="nomq_character-devlopment.css" crc="4200008131" ref="character-devlopment"/>
+    <file name="nesquik.css" crc="377900973" ref="nesquik"/>
+    <file name="nomq_nesquik.css" crc="4020616687" ref="nesquik"/>
+    <file name="nintendogs-vr.css" crc="115900355" ref="nintendogs-vr"/>
+    <file name="nomq_nintendogs-vr.css" crc="365181715" ref="nintendogs-vr"/>
+    <file name="guardians.css" crc="322128093" ref="guardians"/>
+    <file name="nomq_guardians.css" crc="228890684" ref="guardians"/>
+    <file name="about.css" crc="4227650825" ref="about"/>
+    <file name="nomq_about.css" crc="354564222" ref="about"/>
+    <file name="sparky-ux.css" crc="4015680879" ref="sparky-ux"/>
+    <file name="nomq_sparky-ux.css" crc="446833910" ref="sparky-ux"/>
+    <file name="clash-of-fates.css" crc="453540709" ref="clash-of-fates"/>
+    <file name="nomq_clash-of-fates.css" crc="142735367" ref="clash-of-fates"/>
+    <file name="jnto-kimono.css" crc="4114125251" ref="jnto-kimono"/>
+    <file name="nomq_jnto-kimono.css" crc="193847498" ref="jnto-kimono"/>
+    <file name="gates-of-design.css" crc="65415341" ref="gates-of-design"/>
+    <file name="nomq_gates-of-design.css" crc="70636996" ref="gates-of-design"/>
+    <file name="reapers.css" crc="390573661" ref="reapers"/>
+    <file name="nomq_reapers.css" crc="3966912468" ref="reapers"/>
+    <file name="boss-inc.css" crc="5505355" ref="boss-inc"/>
+    <file name="nomq_boss-inc.css" crc="531119754" ref="boss-inc"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>jnto-kimono:phone>shin-megami-tensei:phone>adobe-creative-cloud:phone>illustration:phone>ux---code:phone>design:phone>character-development:phone>terminus-of-reverie:phone>discovery:phone>ibm-watson:phone>tom-s:phone>nesquik:phone>authorimpression:phone>sparky-ux:phone>adverator:phone>nintendogs-vr:phone>about:index:jnto-kimono:smt:adobe-creative-cloud:illustration:character-devlopment:guardians:clash-of-fates:gates-of-design:reapers:boss-inc:design:terminus-of-reverie:ibm-watson:discovery-doors:tom-s:nesquik:about:ux---code:adverator:authorimpression:nintendogs-vr:sparky-ux"/>
-    <file name="museutils.js" crc="3803043152" ref="phone>index:phone>jnto-kimono:phone>shin-megami-tensei:phone>adobe-creative-cloud:phone>illustration:phone>ux---code:phone>design:phone>character-development:phone>terminus-of-reverie:phone>discovery:phone>ibm-watson:phone>tom-s:phone>nesquik:phone>authorimpression:phone>sparky-ux:phone>adverator:phone>nintendogs-vr:phone>about:index:jnto-kimono:smt:adobe-creative-cloud:illustration:character-devlopment:guardians:clash-of-fates:gates-of-design:reapers:boss-inc:design:terminus-of-reverie:ibm-watson:discovery-doors:tom-s:nesquik:about:ux---code:adverator:authorimpression:nintendogs-vr:sparky-ux"/>
-    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>jnto-kimono:phone>shin-megami-tensei:phone>adobe-creative-cloud:phone>illustration:phone>ux---code:phone>design:phone>character-development:phone>terminus-of-reverie:phone>discovery:phone>ibm-watson:phone>tom-s:phone>nesquik:phone>authorimpression:phone>sparky-ux:phone>adverator:phone>nintendogs-vr:phone>about:index:jnto-kimono:smt:adobe-creative-cloud:illustration:character-devlopment:guardians:clash-of-fates:gates-of-design:reapers:boss-inc:design:terminus-of-reverie:ibm-watson:discovery-doors:tom-s:nesquik:about:ux---code:adverator:authorimpression:nintendogs-vr:sparky-ux"/>
-    <file name="museconfig.js" crc="4153641093" ref="phone>index:phone>jnto-kimono:phone>shin-megami-tensei:phone>adobe-creative-cloud:phone>illustration:phone>ux---code:phone>design:phone>character-development:phone>terminus-of-reverie:phone>discovery:phone>ibm-watson:phone>tom-s:phone>nesquik:phone>authorimpression:phone>sparky-ux:phone>adverator:phone>nintendogs-vr:phone>about:index:jnto-kimono:smt:adobe-creative-cloud:illustration:character-devlopment:guardians:clash-of-fates:gates-of-design:reapers:boss-inc:design:terminus-of-reverie:ibm-watson:discovery-doors:tom-s:nesquik:about:ux---code:adverator:authorimpression:nintendogs-vr:sparky-ux"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>jnto-kimono:phone>shin-megami-tensei:phone>adobe-creative-cloud:phone>illustration:phone>ux---code:phone>design:phone>character-development:phone>terminus-of-reverie:phone>discovery:phone>ibm-watson:phone>tom-s:phone>nesquik:phone>authorimpression:phone>sparky-ux:phone>adverator:phone>nintendogs-vr:phone>about:index:jnto-kimono:smt:adobe-creative-cloud:illustration:character-devlopment:guardians:clash-of-fates:gates-of-design:reapers:boss-inc:digital:terminus-of-reverie:ibm-watson:discovery-doors:tom-s:nesquik:about:ux---code:adverator:authorimpression:nintendogs-vr:sparky-ux"/>
+    <file name="museutils.js" crc="3803043152" ref="phone>index:phone>jnto-kimono:phone>shin-megami-tensei:phone>adobe-creative-cloud:phone>illustration:phone>ux---code:phone>design:phone>character-development:phone>terminus-of-reverie:phone>discovery:phone>ibm-watson:phone>tom-s:phone>nesquik:phone>authorimpression:phone>sparky-ux:phone>adverator:phone>nintendogs-vr:phone>about:index:jnto-kimono:smt:adobe-creative-cloud:illustration:character-devlopment:guardians:clash-of-fates:gates-of-design:reapers:boss-inc:digital:terminus-of-reverie:ibm-watson:discovery-doors:tom-s:nesquik:about:ux---code:adverator:authorimpression:nintendogs-vr:sparky-ux"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>jnto-kimono:phone>shin-megami-tensei:phone>adobe-creative-cloud:phone>illustration:phone>ux---code:phone>design:phone>character-development:phone>terminus-of-reverie:phone>discovery:phone>ibm-watson:phone>tom-s:phone>nesquik:phone>authorimpression:phone>sparky-ux:phone>adverator:phone>nintendogs-vr:phone>about:index:jnto-kimono:smt:adobe-creative-cloud:illustration:character-devlopment:guardians:clash-of-fates:gates-of-design:reapers:boss-inc:digital:terminus-of-reverie:ibm-watson:discovery-doors:tom-s:nesquik:about:ux---code:adverator:authorimpression:nintendogs-vr:sparky-ux"/>
+    <file name="museconfig.js" crc="4153641093" ref="phone>index:phone>jnto-kimono:phone>shin-megami-tensei:phone>adobe-creative-cloud:phone>illustration:phone>ux---code:phone>design:phone>character-development:phone>terminus-of-reverie:phone>discovery:phone>ibm-watson:phone>tom-s:phone>nesquik:phone>authorimpression:phone>sparky-ux:phone>adverator:phone>nintendogs-vr:phone>about:index:jnto-kimono:smt:adobe-creative-cloud:illustration:character-devlopment:guardians:clash-of-fates:gates-of-design:reapers:boss-inc:digital:terminus-of-reverie:ibm-watson:discovery-doors:tom-s:nesquik:about:ux---code:adverator:authorimpression:nintendogs-vr:sparky-ux"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="phone>index:phone>discovery:index:illustration:clash-of-fates:reapers:boss-inc:terminus-of-reverie:discovery-doors"/>
-    <file name="jquery.musemenu.js" crc="3784699396" ref="phone>index:phone>jnto-kimono:phone>shin-megami-tensei:phone>adobe-creative-cloud:phone>illustration:phone>ux---code:phone>design:phone>character-development:phone>terminus-of-reverie:phone>discovery:phone>ibm-watson:phone>tom-s:phone>nesquik:phone>authorimpression:phone>sparky-ux:phone>adverator:phone>nintendogs-vr:phone>about:index:jnto-kimono:smt:adobe-creative-cloud:illustration:character-devlopment:guardians:clash-of-fates:gates-of-design:reapers:boss-inc:design:terminus-of-reverie:ibm-watson:discovery-doors:tom-s:nesquik:about:ux---code:adverator:authorimpression:nintendogs-vr:sparky-ux"/>
-    <file name="webpro.js" crc="242022427" ref="phone>index:phone>jnto-kimono:phone>shin-megami-tensei:phone>adobe-creative-cloud:phone>illustration:phone>ux---code:phone>design:phone>character-development:phone>terminus-of-reverie:phone>discovery:phone>ibm-watson:phone>tom-s:phone>nesquik:phone>authorimpression:phone>sparky-ux:phone>adverator:phone>nintendogs-vr:phone>about:index:jnto-kimono:smt:adobe-creative-cloud:illustration:character-devlopment:guardians:clash-of-fates:gates-of-design:reapers:boss-inc:design:terminus-of-reverie:ibm-watson:discovery-doors:tom-s:nesquik:about:ux---code:adverator:authorimpression:nintendogs-vr:sparky-ux"/>
-    <file name="musewpdisclosure.js" crc="119288625" ref="phone>index:phone>jnto-kimono:phone>shin-megami-tensei:phone>adobe-creative-cloud:phone>illustration:phone>ux---code:phone>design:phone>character-development:phone>terminus-of-reverie:phone>discovery:phone>ibm-watson:phone>tom-s:phone>nesquik:phone>authorimpression:phone>sparky-ux:phone>adverator:phone>nintendogs-vr:phone>about:index:jnto-kimono:smt:adobe-creative-cloud:illustration:character-devlopment:guardians:clash-of-fates:gates-of-design:reapers:boss-inc:design:terminus-of-reverie:ibm-watson:discovery-doors:tom-s:nesquik:about:ux---code:adverator:authorimpression:nintendogs-vr:sparky-ux"/>
-    <file name="jquery.watch.js" crc="99325471" ref="phone>index:phone>jnto-kimono:phone>shin-megami-tensei:phone>adobe-creative-cloud:phone>illustration:phone>ux---code:phone>design:phone>character-development:phone>terminus-of-reverie:phone>discovery:phone>ibm-watson:phone>tom-s:phone>nesquik:phone>authorimpression:phone>sparky-ux:phone>adverator:phone>nintendogs-vr:phone>about:index:jnto-kimono:smt:adobe-creative-cloud:illustration:character-devlopment:guardians:clash-of-fates:gates-of-design:reapers:boss-inc:design:terminus-of-reverie:ibm-watson:discovery-doors:tom-s:nesquik:about:ux---code:adverator:authorimpression:nintendogs-vr:sparky-ux"/>
-    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>jnto-kimono:phone>shin-megami-tensei:phone>adobe-creative-cloud:phone>illustration:phone>ux---code:phone>design:phone>character-development:phone>terminus-of-reverie:phone>discovery:phone>ibm-watson:phone>tom-s:phone>nesquik:phone>authorimpression:phone>sparky-ux:phone>adverator:phone>nintendogs-vr:phone>about:index:jnto-kimono:smt:adobe-creative-cloud:illustration:character-devlopment:guardians:clash-of-fates:gates-of-design:reapers:boss-inc:design:terminus-of-reverie:ibm-watson:discovery-doors:tom-s:nesquik:about:ux---code:adverator:authorimpression:nintendogs-vr:sparky-ux"/>
-    <file name="require.js" crc="4157109226" ref="phone>index:phone>jnto-kimono:phone>shin-megami-tensei:phone>adobe-creative-cloud:phone>illustration:phone>ux---code:phone>design:phone>character-development:phone>terminus-of-reverie:phone>discovery:phone>ibm-watson:phone>tom-s:phone>nesquik:phone>authorimpression:phone>sparky-ux:phone>adverator:phone>nintendogs-vr:phone>about:index:jnto-kimono:smt:adobe-creative-cloud:illustration:character-devlopment:guardians:clash-of-fates:gates-of-design:reapers:boss-inc:design:terminus-of-reverie:ibm-watson:discovery-doors:tom-s:nesquik:about:ux---code:adverator:authorimpression:nintendogs-vr:sparky-ux"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="phone>index:phone>jnto-kimono:phone>shin-megami-tensei:phone>adobe-creative-cloud:phone>illustration:phone>ux---code:phone>design:phone>character-development:phone>terminus-of-reverie:phone>discovery:phone>ibm-watson:phone>tom-s:phone>nesquik:phone>authorimpression:phone>sparky-ux:phone>adverator:phone>nintendogs-vr:phone>about:index:jnto-kimono:smt:adobe-creative-cloud:illustration:character-devlopment:guardians:clash-of-fates:gates-of-design:reapers:boss-inc:digital:terminus-of-reverie:ibm-watson:discovery-doors:tom-s:nesquik:about:ux---code:adverator:authorimpression:nintendogs-vr:sparky-ux"/>
+    <file name="webpro.js" crc="242022427" ref="phone>index:phone>jnto-kimono:phone>shin-megami-tensei:phone>adobe-creative-cloud:phone>illustration:phone>ux---code:phone>design:phone>character-development:phone>terminus-of-reverie:phone>discovery:phone>ibm-watson:phone>tom-s:phone>nesquik:phone>authorimpression:phone>sparky-ux:phone>adverator:phone>nintendogs-vr:phone>about:index:jnto-kimono:smt:adobe-creative-cloud:illustration:character-devlopment:guardians:clash-of-fates:gates-of-design:reapers:boss-inc:digital:terminus-of-reverie:ibm-watson:discovery-doors:tom-s:nesquik:about:ux---code:adverator:authorimpression:nintendogs-vr:sparky-ux"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="phone>index:phone>jnto-kimono:phone>shin-megami-tensei:phone>adobe-creative-cloud:phone>illustration:phone>ux---code:phone>design:phone>character-development:phone>terminus-of-reverie:phone>discovery:phone>ibm-watson:phone>tom-s:phone>nesquik:phone>authorimpression:phone>sparky-ux:phone>adverator:phone>nintendogs-vr:phone>about:index:jnto-kimono:smt:adobe-creative-cloud:illustration:character-devlopment:guardians:clash-of-fates:gates-of-design:reapers:boss-inc:digital:terminus-of-reverie:ibm-watson:discovery-doors:tom-s:nesquik:about:ux---code:adverator:authorimpression:nintendogs-vr:sparky-ux"/>
+    <file name="jquery.watch.js" crc="99325471" ref="phone>index:phone>jnto-kimono:phone>shin-megami-tensei:phone>adobe-creative-cloud:phone>illustration:phone>ux---code:phone>design:phone>character-development:phone>terminus-of-reverie:phone>discovery:phone>ibm-watson:phone>tom-s:phone>nesquik:phone>authorimpression:phone>sparky-ux:phone>adverator:phone>nintendogs-vr:phone>about:index:jnto-kimono:smt:adobe-creative-cloud:illustration:character-devlopment:guardians:clash-of-fates:gates-of-design:reapers:boss-inc:digital:terminus-of-reverie:ibm-watson:discovery-doors:tom-s:nesquik:about:ux---code:adverator:authorimpression:nintendogs-vr:sparky-ux"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>jnto-kimono:phone>shin-megami-tensei:phone>adobe-creative-cloud:phone>illustration:phone>ux---code:phone>design:phone>character-development:phone>terminus-of-reverie:phone>discovery:phone>ibm-watson:phone>tom-s:phone>nesquik:phone>authorimpression:phone>sparky-ux:phone>adverator:phone>nintendogs-vr:phone>about:index:jnto-kimono:smt:adobe-creative-cloud:illustration:character-devlopment:guardians:clash-of-fates:gates-of-design:reapers:boss-inc:digital:terminus-of-reverie:ibm-watson:discovery-doors:tom-s:nesquik:about:ux---code:adverator:authorimpression:nintendogs-vr:sparky-ux"/>
+    <file name="require.js" crc="4157109226" ref="phone>index:phone>jnto-kimono:phone>shin-megami-tensei:phone>adobe-creative-cloud:phone>illustration:phone>ux---code:phone>design:phone>character-development:phone>terminus-of-reverie:phone>discovery:phone>ibm-watson:phone>tom-s:phone>nesquik:phone>authorimpression:phone>sparky-ux:phone>adverator:phone>nintendogs-vr:phone>about:index:jnto-kimono:smt:adobe-creative-cloud:illustration:character-devlopment:guardians:clash-of-fates:gates-of-design:reapers:boss-inc:digital:terminus-of-reverie:ibm-watson:discovery-doors:tom-s:nesquik:about:ux---code:adverator:authorimpression:nintendogs-vr:sparky-ux"/>
     <file name="musewpslideshow.js" crc="457073769" ref="phone>jnto-kimono:jnto-kimono:illustration:clash-of-fates:gates-of-design:reapers:boss-inc:terminus-of-reverie"/>
     <file name="jquery.museoverlay.js" crc="483674903" ref="phone>jnto-kimono:jnto-kimono:illustration:clash-of-fates:gates-of-design:reapers:boss-inc:terminus-of-reverie"/>
     <file name="touchswipe.js" crc="4066113679" ref="phone>jnto-kimono:jnto-kimono:illustration:clash-of-fates:gates-of-design:reapers:boss-inc:terminus-of-reverie"/>
-    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:jnto-kimono:smt:adobe-creative-cloud:illustration:character-devlopment:guardians:clash-of-fates:gates-of-design:reapers:boss-inc:design:terminus-of-reverie:ibm-watson:discovery-doors:tom-s:nesquik:about:ux---code:adverator:authorimpression:nintendogs-vr:sparky-ux"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:jnto-kimono:smt:adobe-creative-cloud:illustration:character-devlopment:guardians:clash-of-fates:gates-of-design:reapers:boss-inc:digital:terminus-of-reverie:ibm-watson:discovery-doors:tom-s:nesquik:about:ux---code:adverator:authorimpression:nintendogs-vr:sparky-ux"/>
   </folder>
   <folder name="images">
     <file name="discovery_thumb546x169.png" crc="3864171144" seo="true" ref="phone>index">
@@ -130,6 +130,12 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="youtube_2x.png" crc="362842926" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="itchio_logo54x54.png" crc="175916966" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="itchio_logo_2x.png" crc="4041443891" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="kimono type-crop-u43265.png" crc="58791194" seo="true" ref="phone>jnto-kimono">
@@ -251,7 +257,7 @@
       <caption webpage="jnto-kimono" alt=""/>
       <caption webpage="jnto-kimono" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="phone>jnto-kimono:index:jnto-kimono:smt:adobe-creative-cloud:illustration:character-devlopment:guardians:clash-of-fates:gates-of-design:reapers:boss-inc:design:terminus-of-reverie:ibm-watson:discovery-doors:tom-s:nesquik:about:ux---code:adverator:authorimpression:nintendogs-vr:sparky-ux"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>jnto-kimono:index:jnto-kimono:smt:adobe-creative-cloud:illustration:character-devlopment:guardians:clash-of-fates:gates-of-design:reapers:boss-inc:digital:terminus-of-reverie:ibm-watson:discovery-doors:tom-s:nesquik:about:ux---code:adverator:authorimpression:nintendogs-vr:sparky-ux"/>
     <file name="a_posters 02.jpg" crc="4083064069" seo="true" ref="phone>jnto-kimono:jnto-kimono">
       <caption webpage="jnto-kimono" alt=""/>
       <caption webpage="jnto-kimono" alt=""/>
@@ -575,53 +581,53 @@
     <file name="a_posters 01185x278_2x.jpg" crc="85891207" seo="true" ref="phone>design">
       <caption webpage="design" alt=""/>
     </file>
-    <file name="iromujihira.png" crc="4088817026" seo="true" ref="phone>design:design">
+    <file name="iromujihira.png" crc="4088817026" seo="true" ref="phone>design:digital">
       <caption webpage="design" alt=""/>
-      <caption webpage="design" alt=""/>
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="iromujihira_2x.png" crc="4277524578" seo="true" ref="phone>design:design">
+    <file name="iromujihira_2x.png" crc="4277524578" seo="true" ref="phone>design:digital">
       <caption webpage="design" alt=""/>
-      <caption webpage="design" alt=""/>
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="komonhira.png" crc="237741732" seo="true" ref="phone>design:design">
+    <file name="komonhira.png" crc="237741732" seo="true" ref="phone>design:digital">
       <caption webpage="design" alt=""/>
-      <caption webpage="design" alt=""/>
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="komonhira_2x.png" crc="210359106" seo="true" ref="phone>design:design">
+    <file name="komonhira_2x.png" crc="210359106" seo="true" ref="phone>design:digital">
       <caption webpage="design" alt=""/>
-      <caption webpage="design" alt=""/>
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="titles.gif" crc="3794282812" seo="true" ref="phone>design:design">
+    <file name="titles.gif" crc="3794282812" seo="true" ref="phone>design:digital">
       <caption webpage="design" alt=""/>
-      <caption webpage="design" alt=""/>
-      <caption webpage="design" alt=""/>
-      <caption webpage="design" alt=""/>
-      <caption webpage="design" alt=""/>
-      <caption webpage="design" alt=""/>
+      <caption webpage="digital" alt=""/>
+      <caption webpage="digital" alt=""/>
+      <caption webpage="digital" alt=""/>
+      <caption webpage="digital" alt=""/>
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="titles_2x.gif" crc="3794282812" seo="true" ref="phone>design:design">
+    <file name="titles_2x.gif" crc="3794282812" seo="true" ref="phone>design:digital">
       <caption webpage="design" alt=""/>
-      <caption webpage="design" alt=""/>
-      <caption webpage="design" alt=""/>
-      <caption webpage="design" alt=""/>
-      <caption webpage="design" alt=""/>
-      <caption webpage="design" alt=""/>
+      <caption webpage="digital" alt=""/>
+      <caption webpage="digital" alt=""/>
+      <caption webpage="digital" alt=""/>
+      <caption webpage="digital" alt=""/>
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="iromuji.png" crc="220196137" seo="true" ref="phone>design:design">
+    <file name="iromuji.png" crc="220196137" seo="true" ref="phone>design:digital">
       <caption webpage="design" alt=""/>
-      <caption webpage="design" alt=""/>
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="iromuji_2x.png" crc="274776085" seo="true" ref="phone>design:design">
+    <file name="iromuji_2x.png" crc="274776085" seo="true" ref="phone>design:digital">
       <caption webpage="design" alt=""/>
-      <caption webpage="design" alt=""/>
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="komon2.png" crc="147574308" seo="true" ref="phone>design:design">
+    <file name="komon2.png" crc="147574308" seo="true" ref="phone>design:digital">
       <caption webpage="design" alt=""/>
-      <caption webpage="design" alt=""/>
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="komon_2x2.png" crc="3761006072" seo="true" ref="phone>design:design">
+    <file name="komon_2x2.png" crc="3761006072" seo="true" ref="phone>design:digital">
       <caption webpage="design" alt=""/>
-      <caption webpage="design" alt=""/>
+      <caption webpage="digital" alt=""/>
     </file>
     <file name="print book5 copy381x254.jpg" crc="4219790909" seo="true" ref="phone>design">
       <caption webpage="design" alt=""/>
@@ -635,29 +641,29 @@
     <file name="symbols copy-crop-u491496_2x.png" crc="3773010668" seo="true" ref="phone>design">
       <caption webpage="design" alt=""/>
     </file>
-    <file name="icon apple.png" crc="4044203956" seo="true" ref="phone>design:design">
+    <file name="icon apple.png" crc="4044203956" seo="true" ref="phone>design:digital">
       <caption webpage="design" alt=""/>
-      <caption webpage="design" alt=""/>
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="icon apple_2x.png" crc="3863697812" seo="true" ref="phone>design:design">
+    <file name="icon apple_2x.png" crc="3863697812" seo="true" ref="phone>design:digital">
       <caption webpage="design" alt=""/>
-      <caption webpage="design" alt=""/>
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="icon windows.png" crc="3768116111" seo="true" ref="phone>design:design">
+    <file name="icon windows.png" crc="3768116111" seo="true" ref="phone>design:digital">
       <caption webpage="design" alt=""/>
-      <caption webpage="design" alt=""/>
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="icon windows_2x.png" crc="206909391" seo="true" ref="phone>design:design">
+    <file name="icon windows_2x.png" crc="206909391" seo="true" ref="phone>design:digital">
       <caption webpage="design" alt=""/>
-      <caption webpage="design" alt=""/>
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="icon android.png" crc="3830967177" seo="true" ref="phone>design:design">
+    <file name="icon android.png" crc="3830967177" seo="true" ref="phone>design:digital">
       <caption webpage="design" alt=""/>
-      <caption webpage="design" alt=""/>
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="icon android_2x.png" crc="416896885" seo="true" ref="phone>design:design">
+    <file name="icon android_2x.png" crc="416896885" seo="true" ref="phone>design:digital">
       <caption webpage="design" alt=""/>
-      <caption webpage="design" alt=""/>
+      <caption webpage="digital" alt=""/>
     </file>
     <file name="tor-stationary-crop-u491490.png" crc="471297999" seo="true" ref="phone>design">
       <caption webpage="design" alt=""/>
@@ -686,13 +692,13 @@
     <file name="symbols_dog-crop-u491534_2x.png" crc="61035455" seo="true" ref="phone>design">
       <caption webpage="design" alt=""/>
     </file>
-    <file name="ginger cat.png" crc="4287018858" seo="true" ref="phone>design:design">
+    <file name="ginger cat.png" crc="4287018858" seo="true" ref="phone>design:digital">
       <caption webpage="design" alt=""/>
-      <caption webpage="design" alt=""/>
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="ginger cat_2x.png" crc="4228181003" seo="true" ref="phone>design:design">
+    <file name="ginger cat_2x.png" crc="4228181003" seo="true" ref="phone>design:digital">
       <caption webpage="design" alt=""/>
-      <caption webpage="design" alt=""/>
+      <caption webpage="digital" alt=""/>
     </file>
     <file name="symbols stawberry77x103.png" crc="408937463" seo="true" ref="phone>design">
       <caption webpage="design" alt=""/>
@@ -706,13 +712,13 @@
     <file name="symbols chocolate69x110_2x.png" crc="3948014703" seo="true" ref="phone>design">
       <caption webpage="design" alt=""/>
     </file>
-    <file name="symbols vanilla.png" crc="243700576" seo="true" ref="phone>design:design">
+    <file name="symbols vanilla.png" crc="243700576" seo="true" ref="phone>design:digital">
       <caption webpage="design" alt=""/>
-      <caption webpage="design" alt=""/>
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="symbols vanilla_2x.png" crc="225904591" seo="true" ref="phone>design:design">
+    <file name="symbols vanilla_2x.png" crc="225904591" seo="true" ref="phone>design:digital">
       <caption webpage="design" alt=""/>
-      <caption webpage="design" alt=""/>
+      <caption webpage="digital" alt=""/>
     </file>
     <file name="poster 02190x288.png" crc="4164025485" seo="true" ref="phone>design">
       <caption webpage="design" alt=""/>
@@ -720,39 +726,39 @@
     <file name="poster 02190x288_2x.png" crc="485798507" seo="true" ref="phone>design">
       <caption webpage="design" alt=""/>
     </file>
-    <file name="vending-machine.gif" crc="322205428" seo="true" ref="phone>design:phone>nesquik:design">
+    <file name="vending-machine.gif" crc="322205428" seo="true" ref="phone>design:phone>nesquik:digital">
+      <caption webpage="design" alt=""/>
       <caption webpage="nesquik" alt=""/>
-      <caption webpage="design" alt=""/>
-      <caption webpage="design" alt=""/>
-      <caption webpage="design" alt=""/>
-      <caption webpage="design" alt=""/>
-      <caption webpage="design" alt=""/>
-      <caption webpage="design" alt=""/>
+      <caption webpage="digital" alt=""/>
+      <caption webpage="digital" alt=""/>
+      <caption webpage="digital" alt=""/>
+      <caption webpage="digital" alt=""/>
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="vending-machine_2x.gif" crc="322205428" seo="true" ref="phone>design:phone>nesquik:design">
+    <file name="vending-machine_2x.gif" crc="322205428" seo="true" ref="phone>design:phone>nesquik:digital">
+      <caption webpage="design" alt=""/>
       <caption webpage="nesquik" alt=""/>
-      <caption webpage="design" alt=""/>
-      <caption webpage="design" alt=""/>
-      <caption webpage="design" alt=""/>
-      <caption webpage="design" alt=""/>
-      <caption webpage="design" alt=""/>
-      <caption webpage="design" alt=""/>
+      <caption webpage="digital" alt=""/>
+      <caption webpage="digital" alt=""/>
+      <caption webpage="digital" alt=""/>
+      <caption webpage="digital" alt=""/>
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="website-02.png" crc="3783007330" seo="true" ref="phone>design:design">
+    <file name="website-02.png" crc="3783007330" seo="true" ref="phone>design:digital">
       <caption webpage="design" alt=""/>
-      <caption webpage="design" alt=""/>
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="website-02_2x.png" crc="393945997" seo="true" ref="phone>design:design">
+    <file name="website-02_2x.png" crc="393945997" seo="true" ref="phone>design:digital">
       <caption webpage="design" alt=""/>
-      <caption webpage="design" alt=""/>
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="tattly-small-ad.gif" crc="3877741659" seo="true" ref="phone>design:design">
+    <file name="tattly-small-ad.gif" crc="3877741659" seo="true" ref="phone>design:digital">
       <caption webpage="design" alt=""/>
-      <caption webpage="design" alt=""/>
-      <caption webpage="design" alt=""/>
-      <caption webpage="design" alt=""/>
-      <caption webpage="design" alt=""/>
-      <caption webpage="design" alt=""/>
+      <caption webpage="digital" alt=""/>
+      <caption webpage="digital" alt=""/>
+      <caption webpage="digital" alt=""/>
+      <caption webpage="digital" alt=""/>
+      <caption webpage="digital" alt=""/>
     </file>
     <file name="dsc04669.jpg" crc="80980602" seo="true" ref="phone>design">
       <caption webpage="design" alt=""/>
@@ -780,10 +786,8 @@
     </file>
     <file name="icon android6x5.png" crc="4107593969" seo="true" ref="phone>design">
       <caption webpage="design" alt=""/>
-      <caption webpage="design" alt=""/>
     </file>
     <file name="icon android6x5_2x.png" crc="4168508512" seo="true" ref="phone>design">
-      <caption webpage="design" alt=""/>
       <caption webpage="design" alt=""/>
     </file>
     <file name="sandra 02-crop-u115556.png" crc="378786226" seo="true" ref="phone>character-development">
@@ -793,27 +797,27 @@
       <caption webpage="character-development" alt=""/>
     </file>
     <file name="cooper 02.gif" crc="281444982" seo="true" ref="phone>character-development:phone>terminus-of-reverie:boss-inc:terminus-of-reverie">
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="character-development" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
     </file>
     <file name="cooper 02_2x.gif" crc="281444982" seo="true" ref="phone>character-development:phone>terminus-of-reverie:terminus-of-reverie">
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="character-development" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
     </file>
     <file name="tyche174x236.png" crc="4664934" seo="true" ref="phone>character-development">
       <caption webpage="character-development" alt=""/>
@@ -894,17 +898,17 @@
       <caption webpage="terminus-of-reverie" alt=""/>
     </file>
     <file name="sandra 02.gif" crc="345650752" seo="true" ref="phone>terminus-of-reverie:boss-inc:terminus-of-reverie">
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="boss-inc" alt=""/>
       <caption webpage="boss-inc" alt=""/>
       <caption webpage="boss-inc" alt=""/>
       <caption webpage="boss-inc" alt=""/>
       <caption webpage="boss-inc" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
     </file>
     <file name="sandra 02_2x.gif" crc="345650752" seo="true" ref="phone>terminus-of-reverie:terminus-of-reverie">
       <caption webpage="terminus-of-reverie" alt=""/>
@@ -915,17 +919,17 @@
       <caption webpage="terminus-of-reverie" alt=""/>
     </file>
     <file name="catarina_anim.gif" crc="324885866" seo="true" ref="phone>terminus-of-reverie:boss-inc:terminus-of-reverie">
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="boss-inc" alt=""/>
       <caption webpage="boss-inc" alt=""/>
       <caption webpage="boss-inc" alt=""/>
       <caption webpage="boss-inc" alt=""/>
       <caption webpage="boss-inc" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
     </file>
     <file name="catarina_anim_2x.gif" crc="324885866" seo="true" ref="phone>terminus-of-reverie:terminus-of-reverie">
       <caption webpage="terminus-of-reverie" alt=""/>
@@ -936,17 +940,17 @@
       <caption webpage="terminus-of-reverie" alt=""/>
     </file>
     <file name="copper 04.gif" crc="67318864" seo="true" ref="phone>terminus-of-reverie:boss-inc:terminus-of-reverie">
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="boss-inc" alt=""/>
       <caption webpage="boss-inc" alt=""/>
       <caption webpage="boss-inc" alt=""/>
       <caption webpage="boss-inc" alt=""/>
       <caption webpage="boss-inc" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
     </file>
     <file name="copper 04_2x.gif" crc="67318864" seo="true" ref="phone>terminus-of-reverie:terminus-of-reverie">
       <caption webpage="terminus-of-reverie" alt=""/>
@@ -957,17 +961,17 @@
       <caption webpage="terminus-of-reverie" alt=""/>
     </file>
     <file name="catalin_anim.gif" crc="3760951130" seo="true" ref="phone>terminus-of-reverie:boss-inc:terminus-of-reverie">
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="boss-inc" alt=""/>
       <caption webpage="boss-inc" alt=""/>
       <caption webpage="boss-inc" alt=""/>
       <caption webpage="boss-inc" alt=""/>
       <caption webpage="boss-inc" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
     </file>
     <file name="catalin_anim_2x.gif" crc="3760951130" seo="true" ref="phone>terminus-of-reverie:terminus-of-reverie">
       <caption webpage="terminus-of-reverie" alt=""/>
@@ -978,17 +982,17 @@
       <caption webpage="terminus-of-reverie" alt=""/>
     </file>
     <file name="sparky-main_00000.gif" crc="484828514" seo="true" ref="phone>terminus-of-reverie:boss-inc:terminus-of-reverie">
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="boss-inc" alt=""/>
       <caption webpage="boss-inc" alt=""/>
       <caption webpage="boss-inc" alt=""/>
       <caption webpage="boss-inc" alt=""/>
       <caption webpage="boss-inc" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
     </file>
     <file name="sparky-main_00000_2x.gif" crc="484828514" seo="true" ref="phone>terminus-of-reverie">
       <caption webpage="terminus-of-reverie" alt=""/>
@@ -1504,6 +1508,12 @@
       <caption webpage="about" alt=""/>
     </file>
     <file name="favicon.ico" crc="487397795" ref="index"/>
+    <file name="itchio_logo21x21.png" crc="3845021618" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="itchio_logo21x21_2x.png" crc="4291158580" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="instagram21x21.png" crc="3856551951" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -1579,28 +1589,44 @@
     <file name="oneshowlogo-crop-u508505_2x.png" crc="359247078" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="itchio_logo18x18.png" crc="245324916" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="itchio_logo18x18_2x.png" crc="287310300" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="instagram18x18.png" crc="4072660618" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="instagram18x18_2x.png" crc="205423209" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="linkedin18x18.png" crc="146980815" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="linkedin18x18_2x.png" crc="4140081381" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="twitter21x21.png" crc="4273806482" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="twitter21x21_2x.png" crc="206741530" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="youtube21x15.png" crc="322177871" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="youtube21x15_2x.png" crc="116561617" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="poster 02-crop-u3001942.png" crc="4084625508" seo="true" ref="index">
@@ -1654,22 +1680,36 @@
     <file name="oneshowlogo-crop-u508505_2x2.png" crc="3758315862" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="itchio_logo14x14.png" crc="3933484843" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="itchio_logo14x14_2x.png" crc="36075761" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="instagram14x14.png" crc="186353946" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="instagram14x14_2x.png" crc="128923194" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="linkedin14x14.png" crc="3804174270" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="linkedin14x14_2x.png" crc="4065988169" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="twitter17x17.png" crc="4292316143" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="twitter17x17_2x.png" crc="479310539" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="youtube17x12.png" crc="484599330" seo="true" ref="index">
@@ -1729,28 +1769,10 @@
     <file name="oneshowlogo-crop-u508505_2x3.png" crc="161951617" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="instagram12x12.png" crc="444165915" seo="true" ref="index">
+    <file name="youtube16x12.png" crc="444128688" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="instagram12x12_2x.png" crc="536156403" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="linkedin12x12.png" crc="57757268" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="linkedin12x12_2x.png" crc="4212467393" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="twitter14x14.png" crc="4101733601" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="twitter14x14_2x.png" crc="4276391870" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="youtube14x10.png" crc="3835355999" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="youtube14x10_2x.png" crc="430270234" seo="true" ref="index">
+    <file name="youtube16x12_2x.png" crc="105285828" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="poster 02-crop-u3001944.png" crc="312447516" seo="true" ref="index">
@@ -1806,28 +1828,34 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="instagram10x10.png" crc="4092841739" seo="true" ref="index">
+    <file name="itchio_logo12x12.png" crc="4116957945" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="instagram10x10_2x.png" crc="3856551951" seo="true" ref="index">
+    <file name="itchio_logo12x12_2x.png" crc="54250641" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="linkedin10x10.png" crc="399335527" seo="true" ref="index">
+    <file name="instagram12x12.png" crc="4003252170" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="linkedin10x10_2x.png" crc="204403261" seo="true" ref="index">
+    <file name="instagram12x12_2x.png" crc="4278165917" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="twitter12x13.png" crc="4005123744" seo="true" ref="index">
+    <file name="linkedin12x12.png" crc="24611238" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="twitter12x13_2x.png" crc="3915575116" seo="true" ref="index">
+    <file name="linkedin12x12_2x.png" crc="4132874182" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="youtube12x9.png" crc="229834252" seo="true" ref="index">
+    <file name="twitter15x15.png" crc="245491307" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="youtube12x9_2x.png" crc="65035652" seo="true" ref="index">
+    <file name="twitter15x15_2x.png" crc="232120446" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="youtube15x10.png" crc="4239468724" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="youtube15x10_2x.png" crc="3869570088" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="poster 02-crop-u3001945.png" crc="3856895799" seo="true" ref="index">
@@ -1881,30 +1909,6 @@
     <file name="creative-cloud-cc-vector-crop-u156255_2x5.png" crc="485331955" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="instagram15x15.png" crc="234143295" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="instagram15x15_2x.png" crc="4186077259" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="linkedin15x15.png" crc="4099978691" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="linkedin15x15_2x.png" crc="3895446083" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="twitter19x19.png" crc="3904641085" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="twitter19x19_2x.png" crc="3798638708" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="youtube18x13.png" crc="4133470883" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="youtube18x13_2x.png" crc="164592284" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="toms_thumb-crop-u4000336.png" crc="3867242110" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -1949,6 +1953,12 @@
     </file>
     <file name="creative-cloud-cc-vector-crop-u156255_2x6.png" crc="185827727" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+    </file>
+    <file name="itchio_logo20x20.png" crc="55810443" seo="true" ref="jnto-kimono">
+      <caption webpage="jnto-kimono" alt=""/>
+    </file>
+    <file name="itchio_logo20x20_2x.png" crc="3791864721" seo="true" ref="jnto-kimono">
+      <caption webpage="jnto-kimono" alt=""/>
     </file>
     <file name="instagram20x20.png" crc="4016526199" seo="true" ref="jnto-kimono">
       <caption webpage="jnto-kimono" alt=""/>
@@ -2071,6 +2081,12 @@
       <caption webpage="jnto-kimono" alt=""/>
     </file>
     <file name="print book6 copy_2x.jpg" crc="3806905213" seo="true" ref="jnto-kimono">
+      <caption webpage="jnto-kimono" alt=""/>
+    </file>
+    <file name="itchio_logo19x19.png" crc="55810443" seo="true" ref="jnto-kimono">
+      <caption webpage="jnto-kimono" alt=""/>
+    </file>
+    <file name="itchio_logo19x19_2x.png" crc="4030587381" seo="true" ref="jnto-kimono">
       <caption webpage="jnto-kimono" alt=""/>
     </file>
     <file name="instagram19x19.png" crc="4016526199" seo="true" ref="jnto-kimono">
@@ -2446,6 +2462,18 @@
       <caption webpage="jnto-kimono" alt=""/>
     </file>
     <file name="print book6 copy378x252_2x.jpg" crc="24485504" seo="true" ref="jnto-kimono">
+      <caption webpage="jnto-kimono" alt=""/>
+    </file>
+    <file name="twitter14x14.png" crc="245491307" seo="true" ref="jnto-kimono">
+      <caption webpage="jnto-kimono" alt=""/>
+    </file>
+    <file name="twitter14x14_2x.png" crc="4276391870" seo="true" ref="jnto-kimono">
+      <caption webpage="jnto-kimono" alt=""/>
+    </file>
+    <file name="youtube14x10.png" crc="3835355999" seo="true" ref="jnto-kimono">
+      <caption webpage="jnto-kimono" alt=""/>
+    </file>
+    <file name="youtube14x10_2x.png" crc="430955765" seo="true" ref="jnto-kimono">
       <caption webpage="jnto-kimono" alt=""/>
     </file>
     <file name="dsc08391299x286.jpg" crc="351978381" seo="true" ref="jnto-kimono">
@@ -3033,6 +3061,12 @@
     <file name="map249x187_2x.png" crc="3764907085" seo="true" ref="smt">
       <caption webpage="smt" alt=""/>
     </file>
+    <file name="itchio_logo16x16.png" crc="446410237" seo="true" ref="adobe-creative-cloud">
+      <caption webpage="adobe-creative-cloud" alt=""/>
+    </file>
+    <file name="itchio_logo16x16_2x.png" crc="4173111263" seo="true" ref="adobe-creative-cloud">
+      <caption webpage="adobe-creative-cloud" alt=""/>
+    </file>
     <file name="instagram16x16.png" crc="234143295" seo="true" ref="adobe-creative-cloud">
       <caption webpage="adobe-creative-cloud" alt=""/>
     </file>
@@ -3045,11 +3079,23 @@
     <file name="linkedin16x16_2x.png" crc="3813049965" seo="true" ref="adobe-creative-cloud">
       <caption webpage="adobe-creative-cloud" alt=""/>
     </file>
+    <file name="twitter19x19.png" crc="4025147473" seo="true" ref="adobe-creative-cloud">
+      <caption webpage="adobe-creative-cloud" alt=""/>
+    </file>
+    <file name="twitter19x19_2x.png" crc="100576620" seo="true" ref="adobe-creative-cloud">
+      <caption webpage="adobe-creative-cloud" alt=""/>
+    </file>
     <file name="youtube19x13.png" crc="199207868" seo="true" ref="adobe-creative-cloud">
       <caption webpage="adobe-creative-cloud" alt=""/>
     </file>
     <file name="youtube19x13_2x.png" crc="236909993" seo="true" ref="adobe-creative-cloud">
       <caption webpage="adobe-creative-cloud" alt=""/>
+    </file>
+    <file name="itchio_logo26x26.png" crc="3873021171" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="itchio_logo26x26_2x.png" crc="4209686272" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
     </file>
     <file name="instagram26x26.png" crc="82450269" seo="true" ref="illustration">
       <caption webpage="illustration" alt=""/>
@@ -3121,6 +3167,14 @@
     <file name="lulu-u51460-fr_2x.png" crc="4286653157" ref="illustration"/>
     <file name="oksana-u51474-fr.png" crc="4002907817" ref="illustration"/>
     <file name="empire of spirit-u55243-fr.png" crc="3935713437" ref="illustration"/>
+    <file name="itchio_logo25x25.png" crc="3873021171" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="itchio_logo25x25_2x.png" crc="131120053" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="illustration" alt=""/>
+    </file>
     <file name="instagram25x25.png" crc="82450269" seo="true" ref="illustration">
       <caption webpage="illustration" alt=""/>
       <caption webpage="illustration" alt=""/>
@@ -3237,22 +3291,28 @@
     <file name="playground-u51215-fr3.png" crc="4226655266" ref="illustration"/>
     <file name="your boy guzma-u51398-fr3.png" crc="511074748" ref="illustration"/>
     <file name="your boy guzma-u51398-fr_2x3.png" crc="509820426" ref="illustration"/>
-    <file name="instagram11x11.png" crc="4092841739" seo="true" ref="illustration">
+    <file name="itchio_logo13x13.png" crc="4116957945" seo="true" ref="illustration">
       <caption webpage="illustration" alt=""/>
     </file>
-    <file name="instagram11x11_2x.png" crc="3856551951" seo="true" ref="illustration">
+    <file name="itchio_logo13x13_2x.png" crc="54250641" seo="true" ref="illustration">
       <caption webpage="illustration" alt=""/>
     </file>
-    <file name="linkedin11x11.png" crc="399335527" seo="true" ref="illustration">
+    <file name="instagram13x13.png" crc="4003252170" seo="true" ref="illustration">
       <caption webpage="illustration" alt=""/>
     </file>
-    <file name="linkedin11x11_2x.png" crc="204403261" seo="true" ref="illustration">
+    <file name="instagram13x13_2x.png" crc="4278165917" seo="true" ref="illustration">
       <caption webpage="illustration" alt=""/>
     </file>
-    <file name="twitter13x13.png" crc="4005123744" seo="true" ref="illustration">
+    <file name="linkedin13x13.png" crc="24611238" seo="true" ref="illustration">
       <caption webpage="illustration" alt=""/>
     </file>
-    <file name="twitter13x13_2x.png" crc="3915575116" seo="true" ref="illustration">
+    <file name="linkedin13x13_2x.png" crc="4132874182" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="youtube15x11.png" crc="4239468724" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="youtube15x11_2x.png" crc="385059282" seo="true" ref="illustration">
       <caption webpage="illustration" alt=""/>
     </file>
     <file name="cast-crop-u368181.png" crc="3979081308" seo="true" ref="character-devlopment">
@@ -6683,1036 +6743,1036 @@
     <file name="tyche-crop-u316891_2x5.png" crc="369654232" seo="true" ref="boss-inc">
       <caption webpage="boss-inc" alt=""/>
     </file>
-    <file name="c-wordsmith-crop-u490251.png" crc="363826929" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="c-wordsmith-crop-u490251.png" crc="363826929" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="c-wordsmith-crop-u490251_2x.png" crc="3995151982" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="c-wordsmith-crop-u490251_2x.png" crc="3995151982" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="kimonowebthumb-crop-u490285.png" crc="3813908126" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="kimonowebthumb-crop-u490285.png" crc="3813908126" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="kimonowebthumb-crop-u490285_2x.png" crc="3954066095" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="kimonowebthumb-crop-u490285_2x.png" crc="3954066095" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="bossincsite-crop-u490263.png" crc="3801868068" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="bossincsite-crop-u490263.png" crc="3801868068" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="bossincsite-crop-u490263_2x.png" crc="4215227849" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="bossincsite-crop-u490263_2x.png" crc="4215227849" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="atluswebthumb-crop-u490295.png" crc="3888865924" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="atluswebthumb-crop-u490295.png" crc="3888865924" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="atluswebthumb-crop-u490295_2x.png" crc="3796125289" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="atluswebthumb-crop-u490295_2x.png" crc="3796125289" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="dsc08391-crop-u488842.png" crc="386240129" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="dsc08391-crop-u488842.png" crc="386240129" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="dsc08391-crop-u488842_2x.png" crc="440592990" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="dsc08391-crop-u488842_2x.png" crc="440592990" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="brochure final22.jpg" crc="3884473656" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="brochure final22.jpg" crc="3884473656" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="brochure final2_2x2.jpg" crc="3938520392" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="brochure final2_2x2.jpg" crc="3938520392" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="print book5 copy398x266.jpg" crc="4040619107" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="print book5 copy398x266.jpg" crc="4040619107" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="print book5 copy398x266_2x.jpg" crc="3773680943" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="print book5 copy398x266_2x.jpg" crc="3773680943" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="a_posters 042.jpg" crc="4059536402" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="a_posters 042.jpg" crc="4059536402" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="a_posters 04_2x2.jpg" crc="67587309" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="a_posters 04_2x2.jpg" crc="67587309" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="a_posters 012.jpg" crc="227234881" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="a_posters 012.jpg" crc="227234881" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="a_posters 01_2x2.jpg" crc="174414833" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="a_posters 01_2x2.jpg" crc="174414833" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="a_posters 022.jpg" crc="361925055" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="a_posters 022.jpg" crc="361925055" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="a_posters 02_2x2.jpg" crc="485899332" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="a_posters 02_2x2.jpg" crc="485899332" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="tor-symbols-4-crop-u488787.png" crc="367973663" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="tor-symbols-4-crop-u488787.png" crc="367973663" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="tor-symbols-4-crop-u488787_2x.png" crc="4078780766" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="tor-symbols-4-crop-u488787_2x.png" crc="4078780766" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="tor-stationary.png" crc="229121203" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="tor-stationary.png" crc="229121203" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="tor-stationary_2x.png" crc="494237565" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="tor-stationary_2x.png" crc="494237565" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="tor-stationary-2.png" crc="3850025635" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="tor-stationary-2.png" crc="3850025635" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="tor-stationary-2_2x.png" crc="390194072" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="tor-stationary-2_2x.png" crc="390194072" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="symbols copy-crop-u488811.png" crc="3970611236" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="symbols copy-crop-u488811.png" crc="3970611236" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="symbols copy-crop-u488811_2x.png" crc="4001404210" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="symbols copy-crop-u488811_2x.png" crc="4001404210" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="vanish-01.png" crc="430822335" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="vanish-01.png" crc="430822335" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="vanish-01_2x.png" crc="374288101" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="vanish-01_2x.png" crc="374288101" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="wcs_twitter.jpg" crc="263014913" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="wcs_twitter.jpg" crc="263014913" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="wcs_twitter_2x.jpg" crc="4014799658" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="wcs_twitter_2x.jpg" crc="4014799658" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="poster 02.png" crc="4261791126" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="poster 02.png" crc="4261791126" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="poster 02_2x.png" crc="485798507" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="poster 02_2x.png" crc="485798507" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="symbols_cat-crop-u489771.png" crc="4245732098" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="symbols_cat-crop-u489771.png" crc="4245732098" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="symbols_cat-crop-u489771_2x.png" crc="4063073497" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="symbols_cat-crop-u489771_2x.png" crc="4063073497" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="symbols_dog-crop-u489779.png" crc="99205113" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="symbols_dog-crop-u489779.png" crc="99205113" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="symbols_dog-crop-u489779_2x.png" crc="61035455" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="symbols_dog-crop-u489779_2x.png" crc="61035455" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="symbols chocolate.png" crc="4047062160" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="symbols chocolate.png" crc="4047062160" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="symbols chocolate_2x.png" crc="3859729930" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="symbols chocolate_2x.png" crc="3859729930" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="symbols stawberry.png" crc="139600503" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="symbols stawberry.png" crc="139600503" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="symbols stawberry_2x.png" crc="4136808005" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="symbols stawberry_2x.png" crc="4136808005" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="dsc04669295x197.jpg" crc="506155884" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="dsc04669295x197.jpg" crc="506155884" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="dsc04669295x197_2x.jpg" crc="3989603798" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="dsc04669295x197_2x.jpg" crc="3989603798" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="dsc04589.jpg" crc="178857060" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="dsc04589.jpg" crc="178857060" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="dsc04589_2x.jpg" crc="3827714363" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="dsc04589_2x.jpg" crc="3827714363" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="album_one.jpg" crc="4129877398" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="album_one.jpg" crc="4129877398" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="album_one_2x.jpg" crc="151466157" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="album_one_2x.jpg" crc="151466157" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="amtrakcover-crop-u491862.png" crc="4174541127" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="amtrakcover-crop-u491862.png" crc="4174541127" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="amtrakcover-crop-u491862_2x.png" crc="458543923" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="amtrakcover-crop-u491862_2x.png" crc="458543923" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="amtrakexterior-u491870.png" crc="329096937" ref="design"/>
-    <file name="amtrakexterior-u491870_2x.png" crc="3896172743" ref="design"/>
-    <file name="amtrakinterior-u491877.png" crc="4047089848" ref="design"/>
-    <file name="amtrakinterior-u491877_2x.png" crc="4039777079" ref="design"/>
-    <file name="kimonowebthumb-crop-u4902852.png" crc="49475975" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="amtrakexterior-u491870.png" crc="329096937" ref="digital"/>
+    <file name="amtrakexterior-u491870_2x.png" crc="3896172743" ref="digital"/>
+    <file name="amtrakinterior-u491877.png" crc="4047089848" ref="digital"/>
+    <file name="amtrakinterior-u491877_2x.png" crc="4039777079" ref="digital"/>
+    <file name="kimonowebthumb-crop-u4902852.png" crc="49475975" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="kimonowebthumb-crop-u490285_2x2.png" crc="189234687" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="kimonowebthumb-crop-u490285_2x2.png" crc="189234687" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="c-wordsmith-crop-u4902512.png" crc="3836150709" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="c-wordsmith-crop-u4902512.png" crc="3836150709" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="c-wordsmith-crop-u490251_2x2.png" crc="218178430" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="c-wordsmith-crop-u490251_2x2.png" crc="218178430" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="bossincsite-crop-u4902632.png" crc="151022922" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="bossincsite-crop-u4902632.png" crc="151022922" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="bossincsite-crop-u490263_2x2.png" crc="72036264" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="bossincsite-crop-u490263_2x2.png" crc="72036264" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="atluswebthumb-crop-u4902952.png" crc="4090405939" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="atluswebthumb-crop-u4902952.png" crc="4090405939" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="atluswebthumb-crop-u490295_2x2.png" crc="18696299" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="atluswebthumb-crop-u490295_2x2.png" crc="18696299" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="dsc08391-crop-u4888422.png" crc="207641803" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="dsc08391-crop-u4888422.png" crc="207641803" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="dsc08391-crop-u488842_2x2.png" crc="70242437" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="dsc08391-crop-u488842_2x2.png" crc="70242437" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="brochure final2250x285.jpg" crc="3812695073" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="brochure final2250x285.jpg" crc="3812695073" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="brochure final2250x285_2x.jpg" crc="4126264484" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="brochure final2250x285_2x.jpg" crc="4126264484" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="print book5 copy337x225.jpg" crc="415876057" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="print book5 copy337x225.jpg" crc="415876057" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="print book5 copy337x225_2x.jpg" crc="4292775917" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="print book5 copy337x225_2x.jpg" crc="4292775917" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="a_posters 04163x244.jpg" crc="88606426" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="a_posters 04163x244.jpg" crc="88606426" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="a_posters 04163x244_2x.jpg" crc="149095356" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="a_posters 04163x244_2x.jpg" crc="149095356" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="a_posters 01163x244.jpg" crc="122009986" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="a_posters 01163x244.jpg" crc="122009986" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="a_posters 01163x244_2x.jpg" crc="369891909" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="a_posters 01163x244_2x.jpg" crc="369891909" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="a_posters 02163x244.jpg" crc="388123562" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="a_posters 02163x244.jpg" crc="388123562" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="a_posters 02163x244_2x.jpg" crc="490071296" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="a_posters 02163x244_2x.jpg" crc="490071296" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="iromuji76x142.png" crc="506597008" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="iromuji76x142.png" crc="506597008" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="iromuji76x142_2x.png" crc="432202312" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="iromuji76x142_2x.png" crc="432202312" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="komon76x99.png" crc="3912229012" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="komon76x99.png" crc="3912229012" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="komon76x99_2x.png" crc="4287881557" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="komon76x99_2x.png" crc="4287881557" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="iromujihira76x142.png" crc="3975280622" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="iromujihira76x142.png" crc="3975280622" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="iromujihira76x142_2x.png" crc="3949935301" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="iromujihira76x142_2x.png" crc="3949935301" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="komonhira76x99.png" crc="3814818218" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="komonhira76x99.png" crc="3814818218" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="komonhira76x99_2x.png" crc="4065002803" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="komonhira76x99_2x.png" crc="4065002803" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="icon apple76x76.png" crc="383737008" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="icon apple76x76.png" crc="383737008" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="icon apple76x76_2x.png" crc="166721446" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="icon apple76x76_2x.png" crc="166721446" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="icon windows76x76.png" crc="3804533380" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="icon windows76x76.png" crc="3804533380" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="icon windows76x76_2x.png" crc="4087861033" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="icon windows76x76_2x.png" crc="4087861033" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="icon android76x76.png" crc="195665335" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="icon android76x76.png" crc="195665335" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="icon android76x76_2x.png" crc="4128210087" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="icon android76x76_2x.png" crc="4128210087" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="icon android5x5.png" crc="387498742" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="icon android5x5.png" crc="387498742" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="icon android5x5_2x.png" crc="358884433" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="icon android5x5_2x.png" crc="358884433" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="tor-symbols-4-crop-u4887872.png" crc="530215541" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="tor-symbols-4-crop-u4887872.png" crc="530215541" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="tor-symbols-4-crop-u488787_2x2.png" crc="218982536" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="tor-symbols-4-crop-u488787_2x2.png" crc="218982536" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="tor-stationary250x250.png" crc="46174429" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="tor-stationary250x250.png" crc="46174429" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="tor-stationary250x250_2x.png" crc="3966125640" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="tor-stationary250x250_2x.png" crc="3966125640" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="tor-stationary-2250x250.png" crc="125919125" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="tor-stationary-2250x250.png" crc="125919125" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="tor-stationary-2250x250_2x.png" crc="4008139020" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="tor-stationary-2250x250_2x.png" crc="4008139020" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="symbols_cat-crop-u4897712.png" crc="403419616" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="symbols_cat-crop-u4897712.png" crc="403419616" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="symbols_cat-crop-u489771_2x2.png" crc="335345100" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="symbols_cat-crop-u489771_2x2.png" crc="335345100" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="symbols stawberry76x101.png" crc="3893972649" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="symbols stawberry76x101.png" crc="3893972649" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="symbols stawberry76x101_2x.png" crc="3846262728" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="symbols stawberry76x101_2x.png" crc="3846262728" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="symbols_dog-crop-u4897792.png" crc="4115916333" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="symbols_dog-crop-u4897792.png" crc="4115916333" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="symbols_dog-crop-u489779_2x2.png" crc="481562427" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="symbols_dog-crop-u489779_2x2.png" crc="481562427" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="symbols chocolate77x122.png" crc="20089537" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="symbols chocolate77x122.png" crc="20089537" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="symbols chocolate77x122_2x.png" crc="254641349" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="symbols chocolate77x122_2x.png" crc="254641349" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="ginger cat76x65.png" crc="398449845" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="ginger cat76x65.png" crc="398449845" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="ginger cat76x65_2x.png" crc="424316254" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="ginger cat76x65_2x.png" crc="424316254" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="symbols vanilla76x74.png" crc="42256028" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="symbols vanilla76x74.png" crc="42256028" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="symbols vanilla76x74_2x.png" crc="82347764" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="symbols vanilla76x74_2x.png" crc="82347764" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="poster 02163x247.png" crc="422735192" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="poster 02163x247.png" crc="422735192" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="poster 02163x247_2x.png" crc="4256397883" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="poster 02163x247_2x.png" crc="4256397883" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="website-02163x290.png" crc="29259398" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="website-02163x290.png" crc="29259398" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="website-02163x290_2x.png" crc="213887537" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="website-02163x290_2x.png" crc="213887537" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="symbols copy-crop-u4888112.png" crc="364622320" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="symbols copy-crop-u4888112.png" crc="364622320" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="symbols copy-crop-u488811_2x2.png" crc="338937815" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="symbols copy-crop-u488811_2x2.png" crc="338937815" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="wcs_twitter513x257.jpg" crc="249692621" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="wcs_twitter513x257.jpg" crc="249692621" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="wcs_twitter513x257_2x.jpg" crc="3937132569" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="wcs_twitter513x257_2x.jpg" crc="3937132569" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="dsc04589251x222.jpg" crc="247866922" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="dsc04589251x222.jpg" crc="247866922" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="dsc04589251x222_2x.jpg" crc="4075942966" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="dsc04589251x222_2x.jpg" crc="4075942966" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="album_one252x252.jpg" crc="126951380" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="album_one252x252.jpg" crc="126951380" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="album_one252x252_2x.jpg" crc="4264591577" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="album_one252x252_2x.jpg" crc="4264591577" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="vanish-01250x354.png" crc="3771901989" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="vanish-01250x354.png" crc="3771901989" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="vanish-01250x354_2x.png" crc="374288101" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="vanish-01250x354_2x.png" crc="374288101" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="dsc04669250x167.jpg" crc="4008920583" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="dsc04669250x167.jpg" crc="4008920583" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="dsc04669250x167_2x.jpg" crc="3989603798" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="dsc04669250x167_2x.jpg" crc="3989603798" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="amtrakcover-crop-u4918622.png" crc="3883216220" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="amtrakcover-crop-u4918622.png" crc="3883216220" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="amtrakcover-crop-u491862_2x2.png" crc="4034778345" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="amtrakcover-crop-u491862_2x2.png" crc="4034778345" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="amtrakexterior-u4918702.png" crc="101245361" ref="design"/>
-    <file name="amtrakexterior-u491870_2x2.png" crc="387774561" ref="design"/>
-    <file name="amtrakinterior-u4918772.png" crc="48477752" ref="design"/>
-    <file name="amtrakinterior-u491877_2x2.png" crc="899416" ref="design"/>
-    <file name="kimonowebthumb-crop-u4902853.png" crc="3842670857" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="amtrakexterior-u4918702.png" crc="101245361" ref="digital"/>
+    <file name="amtrakexterior-u491870_2x2.png" crc="387774561" ref="digital"/>
+    <file name="amtrakinterior-u4918772.png" crc="48477752" ref="digital"/>
+    <file name="amtrakinterior-u491877_2x2.png" crc="899416" ref="digital"/>
+    <file name="kimonowebthumb-crop-u4902853.png" crc="3842670857" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="kimonowebthumb-crop-u490285_2x3.png" crc="534499451" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="kimonowebthumb-crop-u490285_2x3.png" crc="534499451" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="c-wordsmith-crop-u4902513.png" crc="506687594" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="c-wordsmith-crop-u4902513.png" crc="506687594" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="c-wordsmith-crop-u490251_2x3.png" crc="3963398109" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="c-wordsmith-crop-u490251_2x3.png" crc="3963398109" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="bossincsite-crop-u4902633.png" crc="3896466356" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="bossincsite-crop-u4902633.png" crc="3896466356" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="bossincsite-crop-u490263_2x3.png" crc="4119305650" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="bossincsite-crop-u490263_2x3.png" crc="4119305650" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="atluswebthumb-crop-u4902953.png" crc="4026203139" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="atluswebthumb-crop-u4902953.png" crc="4026203139" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="atluswebthumb-crop-u490295_2x3.png" crc="311723252" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="atluswebthumb-crop-u490295_2x3.png" crc="311723252" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="dsc08391-crop-u4888423.png" crc="480872871" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="dsc08391-crop-u4888423.png" crc="480872871" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="dsc08391-crop-u488842_2x3.png" crc="4038376733" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="dsc08391-crop-u488842_2x3.png" crc="4038376733" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="brochure final2224x256.jpg" crc="265095702" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="brochure final2224x256.jpg" crc="265095702" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="brochure final2224x256_2x.jpg" crc="321890079" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="brochure final2224x256_2x.jpg" crc="321890079" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="print book5 copy303x202.jpg" crc="3826633007" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="print book5 copy303x202.jpg" crc="3826633007" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="print book5 copy303x202_2x.jpg" crc="176171661" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="print book5 copy303x202_2x.jpg" crc="176171661" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="a_posters 04146x219.jpg" crc="4070708705" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="a_posters 04146x219.jpg" crc="4070708705" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="a_posters 04146x219_2x.jpg" crc="421469999" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="a_posters 04146x219_2x.jpg" crc="421469999" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="a_posters 01146x219.jpg" crc="4064665900" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="a_posters 01146x219.jpg" crc="4064665900" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="a_posters 01146x219_2x.jpg" crc="32077900" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="a_posters 01146x219_2x.jpg" crc="32077900" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="a_posters 02146x219.jpg" crc="153015948" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="a_posters 02146x219.jpg" crc="153015948" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="a_posters 02146x219_2x.jpg" crc="4109128508" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="a_posters 02146x219_2x.jpg" crc="4109128508" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="iromuji68x127.png" crc="313309451" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="iromuji68x127.png" crc="313309451" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="iromuji68x127_2x.png" crc="96065460" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="iromuji68x127_2x.png" crc="96065460" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="komon68x89.png" crc="3963668180" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="komon68x89.png" crc="3963668180" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="komon68x89_2x.png" crc="4021058642" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="komon68x89_2x.png" crc="4021058642" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="iromujihira68x127.png" crc="4000203265" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="iromujihira68x127.png" crc="4000203265" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="iromujihira68x127_2x.png" crc="431128141" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="iromujihira68x127_2x.png" crc="431128141" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="komonhira68x89.png" crc="254316009" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="komonhira68x89.png" crc="254316009" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="komonhira68x89_2x.png" crc="233423215" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="komonhira68x89_2x.png" crc="233423215" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="icon apple68x68.png" crc="131435091" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="icon apple68x68.png" crc="131435091" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="icon apple68x68_2x.png" crc="205113824" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="icon apple68x68_2x.png" crc="205113824" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="icon windows68x68.png" crc="4234343607" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="icon windows68x68.png" crc="4234343607" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="icon windows68x68_2x.png" crc="275101426" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="icon windows68x68_2x.png" crc="275101426" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="icon android68x68.png" crc="527655869" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="icon android68x68.png" crc="527655869" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="icon android68x68_2x.png" crc="342810798" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="icon android68x68_2x.png" crc="342810798" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="icon android4x4.png" crc="387498742" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
-      <caption webpage="design" alt=""/>
+    <file name="icon android4x4.png" crc="387498742" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="icon android4x4_2x.png" crc="4132873113" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
-      <caption webpage="design" alt=""/>
+    <file name="icon android4x4_2x.png" crc="4132873113" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="tor-symbols-4-crop-u4887873.png" crc="75901550" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="tor-symbols-4-crop-u4887873.png" crc="75901550" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="tor-symbols-4-crop-u488787_2x3.png" crc="4203199548" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="tor-symbols-4-crop-u488787_2x3.png" crc="4203199548" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="tor-stationary224x224.png" crc="8220909" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="tor-stationary224x224.png" crc="8220909" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="tor-stationary224x224_2x.png" crc="152890246" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="tor-stationary224x224_2x.png" crc="152890246" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="tor-stationary-2224x224.png" crc="432540908" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="tor-stationary-2224x224.png" crc="432540908" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="tor-stationary-2224x224_2x.png" crc="294739751" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="tor-stationary-2224x224_2x.png" crc="294739751" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="symbols_cat-crop-u4897713.png" crc="481739146" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="symbols_cat-crop-u4897713.png" crc="481739146" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="symbols_cat-crop-u489771_2x3.png" crc="495011727" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="symbols_cat-crop-u489771_2x3.png" crc="495011727" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="symbols stawberry68x91.png" crc="399706651" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="symbols stawberry68x91.png" crc="399706651" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="symbols stawberry68x91_2x.png" crc="4181461966" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="symbols stawberry68x91_2x.png" crc="4181461966" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="symbols_dog-crop-u4897793.png" crc="4193088486" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="symbols_dog-crop-u4897793.png" crc="4193088486" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="symbols_dog-crop-u489779_2x3.png" crc="392472598" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="symbols_dog-crop-u489779_2x3.png" crc="392472598" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="symbols chocolate69x109.png" crc="4162478968" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="symbols chocolate69x109.png" crc="4162478968" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="symbols chocolate69x109_2x.png" crc="3948014703" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="symbols chocolate69x109_2x.png" crc="3948014703" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="ginger cat68x59.png" crc="3868634665" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="ginger cat68x59.png" crc="3868634665" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="ginger cat68x59_2x.png" crc="213702606" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="ginger cat68x59_2x.png" crc="213702606" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="symbols vanilla68x67.png" crc="122460329" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="symbols vanilla68x67.png" crc="122460329" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="symbols vanilla68x67_2x.png" crc="415728244" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="symbols vanilla68x67_2x.png" crc="415728244" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="poster 02146x221.png" crc="3887710478" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="poster 02146x221.png" crc="3887710478" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="poster 02146x221_2x.png" crc="68074899" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="poster 02146x221_2x.png" crc="68074899" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="website-02146x260.png" crc="184026854" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="website-02146x260.png" crc="184026854" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="website-02146x260_2x.png" crc="102421548" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="website-02146x260_2x.png" crc="102421548" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="symbols copy-crop-u4888113.png" crc="3886605991" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="symbols copy-crop-u4888113.png" crc="3886605991" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="symbols copy-crop-u488811_2x3.png" crc="4277786499" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="symbols copy-crop-u488811_2x3.png" crc="4277786499" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="wcs_twitter460x231.jpg" crc="323245985" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="wcs_twitter460x231.jpg" crc="323245985" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="wcs_twitter460x231_2x.jpg" crc="4184435549" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="wcs_twitter460x231_2x.jpg" crc="4184435549" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="dsc04589225x199.jpg" crc="3856332139" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="dsc04589225x199.jpg" crc="3856332139" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="dsc04589225x199_2x.jpg" crc="3803963478" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="dsc04589225x199_2x.jpg" crc="3803963478" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="album_one226x226.jpg" crc="3870919837" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="album_one226x226.jpg" crc="3870919837" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="album_one226x226_2x.jpg" crc="72816274" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="album_one226x226_2x.jpg" crc="72816274" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="vanish-01224x317.png" crc="4270127260" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="vanish-01224x317.png" crc="4270127260" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="vanish-01224x317_2x.png" crc="274023544" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="vanish-01224x317_2x.png" crc="274023544" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="dsc04669224x150.jpg" crc="3783250438" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="dsc04669224x150.jpg" crc="3783250438" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="dsc04669224x150_2x.jpg" crc="3158804" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="dsc04669224x150_2x.jpg" crc="3158804" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="amtrakcover-crop-u4918623.png" crc="266285052" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="amtrakcover-crop-u4918623.png" crc="266285052" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="amtrakcover-crop-u491862_2x3.png" crc="3809220815" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="amtrakcover-crop-u491862_2x3.png" crc="3809220815" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="amtrakexterior-u4918703.png" crc="379307574" ref="design"/>
-    <file name="amtrakexterior-u491870_2x3.png" crc="391398510" ref="design"/>
-    <file name="amtrakinterior-u4918773.png" crc="215565051" ref="design"/>
-    <file name="amtrakinterior-u491877_2x3.png" crc="450577842" ref="design"/>
-    <file name="kimonowebthumb-crop-u4902854.png" crc="28935137" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="amtrakexterior-u4918703.png" crc="379307574" ref="digital"/>
+    <file name="amtrakexterior-u491870_2x3.png" crc="391398510" ref="digital"/>
+    <file name="amtrakinterior-u4918773.png" crc="215565051" ref="digital"/>
+    <file name="amtrakinterior-u491877_2x3.png" crc="450577842" ref="digital"/>
+    <file name="kimonowebthumb-crop-u4902854.png" crc="28935137" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="kimonowebthumb-crop-u490285_2x4.png" crc="4183045511" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="kimonowebthumb-crop-u490285_2x4.png" crc="4183045511" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="c-wordsmith-crop-u4902514.png" crc="532282693" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="c-wordsmith-crop-u4902514.png" crc="532282693" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="c-wordsmith-crop-u490251_2x4.png" crc="238355867" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="c-wordsmith-crop-u490251_2x4.png" crc="238355867" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="bossincsite-crop-u4902634.png" crc="4265712239" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="bossincsite-crop-u4902634.png" crc="4265712239" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="bossincsite-crop-u490263_2x4.png" crc="3790953047" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="bossincsite-crop-u490263_2x4.png" crc="3790953047" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="atluswebthumb-crop-u4902954.png" crc="329262980" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="atluswebthumb-crop-u4902954.png" crc="329262980" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="atluswebthumb-crop-u490295_2x4.png" crc="4255292655" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="atluswebthumb-crop-u490295_2x4.png" crc="4255292655" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="dsc08391-crop-u4888424.png" crc="4035911192" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="dsc08391-crop-u4888424.png" crc="4035911192" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="dsc08391-crop-u488842_2x4.png" crc="4038757503" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="dsc08391-crop-u488842_2x4.png" crc="4038757503" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="brochure final2181x206.jpg" crc="333909896" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="brochure final2181x206.jpg" crc="333909896" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="brochure final2181x206_2x.jpg" crc="461323860" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="brochure final2181x206_2x.jpg" crc="461323860" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="print book5 copy244x163.jpg" crc="3919010886" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="print book5 copy244x163.jpg" crc="3919010886" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="print book5 copy244x163_2x.jpg" crc="4084093632" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="print book5 copy244x163_2x.jpg" crc="4084093632" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="a_posters 04118x177.jpg" crc="4003356124" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="a_posters 04118x177.jpg" crc="4003356124" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="a_posters 04118x177_2x.jpg" crc="412047140" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="a_posters 04118x177_2x.jpg" crc="412047140" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="a_posters 01118x177.jpg" crc="208721907" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="a_posters 01118x177.jpg" crc="208721907" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="a_posters 01118x177_2x.jpg" crc="318573956" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="a_posters 01118x177_2x.jpg" crc="318573956" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="a_posters 02118x177.jpg" crc="4156451356" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="a_posters 02118x177.jpg" crc="4156451356" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="a_posters 02118x177_2x.jpg" crc="152743802" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="a_posters 02118x177_2x.jpg" crc="152743802" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="iromuji55x103.png" crc="4280961012" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="iromuji55x103.png" crc="4280961012" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="iromuji55x103_2x.png" crc="4166272365" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="iromuji55x103_2x.png" crc="4166272365" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="komon55x72.png" crc="310914975" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="komon55x72.png" crc="310914975" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="komon55x72_2x.png" crc="4162716033" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="komon55x72_2x.png" crc="4162716033" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="iromujihira55x103.png" crc="4219234846" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="iromujihira55x103.png" crc="4219234846" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="iromujihira55x103_2x.png" crc="4146459984" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="iromujihira55x103_2x.png" crc="4146459984" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="komonhira55x72.png" crc="498516275" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="komonhira55x72.png" crc="498516275" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="komonhira55x72_2x.png" crc="3818341158" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="komonhira55x72_2x.png" crc="3818341158" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="icon apple55x55.png" crc="3983418071" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="icon apple55x55.png" crc="3983418071" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="icon apple55x55_2x.png" crc="3869152889" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="icon apple55x55_2x.png" crc="3869152889" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="icon windows55x55.png" crc="3952811223" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="icon windows55x55.png" crc="3952811223" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="icon windows55x55_2x.png" crc="4058258062" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="icon windows55x55_2x.png" crc="4058258062" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="icon android55x55.png" crc="453308654" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="icon android55x55.png" crc="453308654" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="icon android55x55_2x.png" crc="250173459" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="icon android55x55_2x.png" crc="250173459" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="tor-symbols-4-crop-u4887874.png" crc="198286839" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="tor-symbols-4-crop-u4887874.png" crc="198286839" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="tor-symbols-4-crop-u488787_2x4.png" crc="27273176" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="tor-symbols-4-crop-u488787_2x4.png" crc="27273176" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="tor-stationary181x181.png" crc="24007023" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="tor-stationary181x181.png" crc="24007023" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="tor-stationary181x181_2x.png" crc="384240595" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="tor-stationary181x181_2x.png" crc="384240595" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="tor-stationary-2181x181.png" crc="512310966" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="tor-stationary-2181x181.png" crc="512310966" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="tor-stationary-2181x181_2x.png" crc="4162794669" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="tor-stationary-2181x181_2x.png" crc="4162794669" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="symbols_cat-crop-u4897714.png" crc="4158776811" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="symbols_cat-crop-u4897714.png" crc="4158776811" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="symbols_cat-crop-u489771_2x4.png" crc="3877070799" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="symbols_cat-crop-u489771_2x4.png" crc="3877070799" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="symbols stawberry55x73.png" crc="449292734" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="symbols stawberry55x73.png" crc="449292734" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="symbols stawberry55x73_2x.png" crc="3803847782" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="symbols stawberry55x73_2x.png" crc="3803847782" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="symbols_dog-crop-u4897794.png" crc="4242322316" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="symbols_dog-crop-u4897794.png" crc="4242322316" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="symbols_dog-crop-u489779_2x4.png" crc="384603322" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="symbols_dog-crop-u489779_2x4.png" crc="384603322" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="symbols chocolate56x88.png" crc="36152442" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="symbols chocolate56x88.png" crc="36152442" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="symbols chocolate56x88_2x.png" crc="379484877" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="symbols chocolate56x88_2x.png" crc="379484877" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="ginger cat55x47.png" crc="4040709183" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="ginger cat55x47.png" crc="4040709183" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="ginger cat55x47_2x.png" crc="434225188" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="ginger cat55x47_2x.png" crc="434225188" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="symbols vanilla55x54.png" crc="4255768932" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="symbols vanilla55x54.png" crc="4255768932" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="symbols vanilla55x54_2x.png" crc="218354332" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="symbols vanilla55x54_2x.png" crc="218354332" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="poster 02118x178.png" crc="199926498" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="poster 02118x178.png" crc="199926498" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="poster 02118x178_2x.png" crc="3936631926" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="poster 02118x178_2x.png" crc="3936631926" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="website-02118x209.png" crc="287476679" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="website-02118x209.png" crc="287476679" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="website-02118x209_2x.png" crc="4152173849" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="website-02118x209_2x.png" crc="4152173849" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="symbols copy-crop-u4888114.png" crc="4102721392" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="symbols copy-crop-u4888114.png" crc="4102721392" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="symbols copy-crop-u488811_2x4.png" crc="126362573" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="symbols copy-crop-u488811_2x4.png" crc="126362573" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="wcs_twitter370x186.jpg" crc="496879833" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="wcs_twitter370x186.jpg" crc="496879833" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="wcs_twitter370x186_2x.jpg" crc="3912642578" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="wcs_twitter370x186_2x.jpg" crc="3912642578" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="vanish-01181x256.png" crc="3883014919" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="vanish-01181x256.png" crc="3883014919" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="vanish-01181x256_2x.png" crc="526367697" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="vanish-01181x256_2x.png" crc="526367697" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="dsc04589181x160.jpg" crc="14361949" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="dsc04589181x160.jpg" crc="14361949" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="dsc04589181x160_2x.jpg" crc="3919415873" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="dsc04589181x160_2x.jpg" crc="3919415873" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="album_one182x182.jpg" crc="3843947444" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="album_one182x182.jpg" crc="3843947444" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="album_one182x182_2x.jpg" crc="4259854536" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="album_one182x182_2x.jpg" crc="4259854536" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="dsc04669181x121.jpg" crc="3759666795" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="dsc04669181x121.jpg" crc="3759666795" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="dsc04669181x121_2x.jpg" crc="4132803155" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="dsc04669181x121_2x.jpg" crc="4132803155" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="amtrakcover-crop-u4918624.png" crc="4273509226" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="amtrakcover-crop-u4918624.png" crc="4273509226" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="amtrakcover-crop-u491862_2x4.png" crc="3954304350" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="amtrakcover-crop-u491862_2x4.png" crc="3954304350" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="amtrakexterior-u4918704.png" crc="4125049130" ref="design"/>
-    <file name="amtrakexterior-u491870_2x4.png" crc="4137914286" ref="design"/>
-    <file name="amtrakinterior-u4918774.png" crc="159435954" ref="design"/>
-    <file name="amtrakinterior-u491877_2x4.png" crc="4009050036" ref="design"/>
-    <file name="kimonowebthumb-crop-u4902855.png" crc="443528292" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="amtrakexterior-u4918704.png" crc="4125049130" ref="digital"/>
+    <file name="amtrakexterior-u491870_2x4.png" crc="4137914286" ref="digital"/>
+    <file name="amtrakinterior-u4918774.png" crc="159435954" ref="digital"/>
+    <file name="amtrakinterior-u491877_2x4.png" crc="4009050036" ref="digital"/>
+    <file name="kimonowebthumb-crop-u4902855.png" crc="443528292" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="kimonowebthumb-crop-u490285_2x5.png" crc="4121865390" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="kimonowebthumb-crop-u490285_2x5.png" crc="4121865390" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="c-wordsmith-crop-u4902515.png" crc="323062587" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="c-wordsmith-crop-u4902515.png" crc="323062587" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="c-wordsmith-crop-u490251_2x5.png" crc="163400812" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="c-wordsmith-crop-u490251_2x5.png" crc="163400812" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="bossincsite-crop-u4902635.png" crc="37428540" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="bossincsite-crop-u4902635.png" crc="37428540" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="bossincsite-crop-u490263_2x5.png" crc="267881912" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="bossincsite-crop-u490263_2x5.png" crc="267881912" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="atluswebthumb-crop-u4902955.png" crc="4133077878" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="atluswebthumb-crop-u4902955.png" crc="4133077878" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="atluswebthumb-crop-u490295_2x5.png" crc="4015997361" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="atluswebthumb-crop-u490295_2x5.png" crc="4015997361" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="dsc08391-crop-u4888425.png" crc="4062995934" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="dsc08391-crop-u4888425.png" crc="4062995934" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="dsc08391-crop-u488842_2x5.png" crc="461503869" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="dsc08391-crop-u488842_2x5.png" crc="461503869" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="brochure final2146x167.jpg" crc="3990343384" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="brochure final2146x167.jpg" crc="3990343384" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="brochure final2146x167_2x.jpg" crc="3948660983" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="brochure final2146x167_2x.jpg" crc="3948660983" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="print book5 copy197x132.jpg" crc="4159357362" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="print book5 copy197x132.jpg" crc="4159357362" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="print book5 copy197x132_2x.jpg" crc="442821232" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="print book5 copy197x132_2x.jpg" crc="442821232" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="a_posters 0496x143.jpg" crc="386986978" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="a_posters 0496x143.jpg" crc="386986978" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="a_posters 0496x143_2x.jpg" crc="3918698767" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="a_posters 0496x143_2x.jpg" crc="3918698767" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="a_posters 0196x143.jpg" crc="3807961708" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="a_posters 0196x143.jpg" crc="3807961708" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="a_posters 0196x143_2x.jpg" crc="3907934443" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="a_posters 0196x143_2x.jpg" crc="3907934443" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="a_posters 0296x143.jpg" crc="271860497" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="a_posters 0296x143.jpg" crc="271860497" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="a_posters 0296x143_2x.jpg" crc="418382484" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="a_posters 0296x143_2x.jpg" crc="418382484" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="iromuji45x83.png" crc="4122981240" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="iromuji45x83.png" crc="4122981240" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="iromuji45x83_2x.png" crc="3993605129" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="iromuji45x83_2x.png" crc="3993605129" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="komon45x58.png" crc="3881660076" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="komon45x58.png" crc="3881660076" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="komon45x58_2x.png" crc="147829111" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="komon45x58_2x.png" crc="147829111" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="iromujihira45x83.png" crc="3763722681" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="iromujihira45x83.png" crc="3763722681" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="iromujihira45x83_2x.png" crc="139234630" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="iromujihira45x83_2x.png" crc="139234630" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="komonhira45x58.png" crc="186481134" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="komonhira45x58.png" crc="186481134" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="komonhira45x58_2x.png" crc="296274781" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="komonhira45x58_2x.png" crc="296274781" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="icon apple45x45.png" crc="259563827" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="icon apple45x45.png" crc="259563827" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="icon apple45x45_2x.png" crc="404726464" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="icon apple45x45_2x.png" crc="404726464" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="icon windows45x45.png" crc="3900751448" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="icon windows45x45.png" crc="3900751448" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="icon windows45x45_2x.png" crc="393515956" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="icon windows45x45_2x.png" crc="393515956" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="icon android45x44.png" crc="4184636690" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="icon android45x44.png" crc="4184636690" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="icon android45x44_2x.png" crc="449956936" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="icon android45x44_2x.png" crc="449956936" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="icon android3x3.png" crc="214040325" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="icon android3x3.png" crc="214040325" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="icon android3x3_2x.png" crc="4107593969" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="icon android3x3_2x.png" crc="4107593969" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="tor-symbols-4-crop-u4887875.png" crc="4216890328" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="tor-symbols-4-crop-u4887875.png" crc="4216890328" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="tor-symbols-4-crop-u488787_2x5.png" crc="4099991721" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="tor-symbols-4-crop-u488787_2x5.png" crc="4099991721" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="tor-stationary146x146.png" crc="267965510" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="tor-stationary146x146.png" crc="267965510" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="tor-stationary146x146_2x.png" crc="4221120546" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="tor-stationary146x146_2x.png" crc="4221120546" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="tor-stationary-2146x146.png" crc="3864522133" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="tor-stationary-2146x146.png" crc="3864522133" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="tor-stationary-2146x146_2x.png" crc="457503146" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="tor-stationary-2146x146_2x.png" crc="457503146" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="symbols_cat-crop-u4897715.png" crc="3907533418" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="symbols_cat-crop-u4897715.png" crc="3907533418" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="symbols_cat-crop-u489771_2x5.png" crc="63457555" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="symbols_cat-crop-u489771_2x5.png" crc="63457555" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="symbols stawberry45x60.png" crc="252160735" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="symbols stawberry45x60.png" crc="252160735" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="symbols stawberry45x60_2x.png" crc="3930115732" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="symbols stawberry45x60_2x.png" crc="3930115732" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="symbols_dog-crop-u4897795.png" crc="34556409" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="symbols_dog-crop-u4897795.png" crc="34556409" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="symbols_dog-crop-u489779_2x5.png" crc="4187793014" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="symbols_dog-crop-u489779_2x5.png" crc="4187793014" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="symbols chocolate45x72.png" crc="4042131183" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="symbols chocolate45x72.png" crc="4042131183" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="symbols chocolate45x72_2x.png" crc="4150845481" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="symbols chocolate45x72_2x.png" crc="4150845481" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="ginger cat45x38.png" crc="4220802963" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="ginger cat45x38.png" crc="4220802963" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="ginger cat45x38_2x.png" crc="3897763162" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="ginger cat45x38_2x.png" crc="3897763162" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="symbols vanilla45x44.png" crc="486458592" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="symbols vanilla45x44.png" crc="486458592" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="symbols vanilla45x44_2x.png" crc="4090833647" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="symbols vanilla45x44_2x.png" crc="4090833647" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="poster 0296x145.png" crc="4248119309" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="poster 0296x145.png" crc="4248119309" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="poster 0296x145_2x.png" crc="4164025485" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="poster 0296x145_2x.png" crc="4164025485" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="website-0296x170.png" crc="4071628940" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="website-0296x170.png" crc="4071628940" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="website-0296x170_2x.png" crc="4029078996" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="website-0296x170_2x.png" crc="4029078996" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="symbols copy-crop-u4888115.png" crc="3843013390" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="symbols copy-crop-u4888115.png" crc="3843013390" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="symbols copy-crop-u488811_2x5.png" crc="3803067112" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="symbols copy-crop-u488811_2x5.png" crc="3803067112" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="vanish-01146x207.png" crc="4023437273" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="vanish-01146x207.png" crc="4023437273" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="vanish-01146x207_2x.png" crc="173853665" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="vanish-01146x207_2x.png" crc="173853665" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="wcs_twitter300x151.jpg" crc="3828208353" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="wcs_twitter300x151.jpg" crc="3828208353" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="wcs_twitter300x151_2x.jpg" crc="317430946" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="wcs_twitter300x151_2x.jpg" crc="317430946" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="dsc04669146x98.jpg" crc="4284279263" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="dsc04669146x98.jpg" crc="4284279263" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="dsc04669146x98_2x.jpg" crc="232604981" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="dsc04669146x98_2x.jpg" crc="232604981" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="dsc04589147x130.jpg" crc="354725213" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="dsc04589147x130.jpg" crc="354725213" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="dsc04589147x130_2x.jpg" crc="4092591510" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="dsc04589147x130_2x.jpg" crc="4092591510" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="album_one147x147.jpg" crc="3762962809" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="album_one147x147.jpg" crc="3762962809" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="album_one147x147_2x.jpg" crc="3854441508" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="album_one147x147_2x.jpg" crc="3854441508" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="amtrakcover-crop-u4918625.png" crc="4278612489" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="amtrakcover-crop-u4918625.png" crc="4278612489" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="amtrakcover-crop-u491862_2x5.png" crc="4248763007" seo="true" ref="design">
-      <caption webpage="design" alt=""/>
+    <file name="amtrakcover-crop-u491862_2x5.png" crc="4248763007" seo="true" ref="digital">
+      <caption webpage="digital" alt=""/>
     </file>
-    <file name="amtrakexterior-u4918705.png" crc="225421723" ref="design"/>
-    <file name="amtrakexterior-u491870_2x5.png" crc="4119364693" ref="design"/>
-    <file name="amtrakinterior-u4918775.png" crc="284156171" ref="design"/>
-    <file name="amtrakinterior-u491877_2x5.png" crc="4261220946" ref="design"/>
+    <file name="amtrakexterior-u4918705.png" crc="225421723" ref="digital"/>
+    <file name="amtrakexterior-u491870_2x5.png" crc="4119364693" ref="digital"/>
+    <file name="amtrakinterior-u4918775.png" crc="284156171" ref="digital"/>
+    <file name="amtrakinterior-u491877_2x5.png" crc="4261220946" ref="digital"/>
     <file name="tyche182x246.png" crc="199523192" seo="true" ref="terminus-of-reverie">
       <caption webpage="terminus-of-reverie" alt=""/>
     </file>
@@ -11228,7 +11288,7 @@
       <file name="discovery.css" crc="375065105" ref="phone>discovery"/>
       <file name="ibm-watson.css" crc="167789277" ref="phone>ibm-watson"/>
       <file name="tom-s.css" crc="536028106" ref="phone>tom-s"/>
-      <file name="index.css" crc="4205718363" ref="phone>index"/>
+      <file name="index.css" crc="4198407287" ref="phone>index"/>
       <file name="nesquik.css" crc="300725998" ref="phone>nesquik"/>
       <file name="jnto-kimono.css" crc="302153213" ref="phone>jnto-kimono"/>
       <file name="authorimpression.css" crc="330368998" ref="phone>authorimpression"/>
@@ -11244,46 +11304,46 @@
       <file name="design.css" crc="4102530195" ref="phone>design"/>
       <file name="character-development.css" crc="329943964" ref="phone>character-development"/>
     </folder>
-    <file name="index.html" crc="4025926277" seo="true" mt="1506724981601" redirect="true"/>
-    <file name="jnto-kimono.html" crc="90372318" seo="true" mt="1506724514967" redirect="true"/>
-    <file name="shin-megami-tensei.html" crc="4006186187" seo="true" mt="1506724514881" redirect="true"/>
-    <file name="adobe-creative-cloud.html" crc="524611558" seo="true" mt="1506724514911" redirect="true"/>
-    <file name="illustration.html" crc="274842707" seo="true" mt="1506724514961" redirect="true"/>
-    <file name="ux---code.html" crc="524359808" seo="true" mt="1506724515245" redirect="true"/>
-    <file name="design.html" crc="425489342" seo="true" mt="1516664486667" redirect="true"/>
-    <file name="character-development.html" crc="4040037802" seo="true" mt="1506724515025" redirect="true"/>
-    <file name="terminus-of-reverie.html" crc="3994411781" seo="true" mt="1506724514943" redirect="true"/>
-    <file name="discovery.html" crc="18980248" seo="true" mt="1506724514955" redirect="true"/>
-    <file name="ibm-watson.html" crc="3910251299" seo="true" mt="1506724514975" redirect="true"/>
-    <file name="tom-s.html" crc="359564692" seo="true" mt="1506724514882" redirect="true"/>
-    <file name="nesquik.html" crc="3813201136" seo="true" mt="1506724514872" redirect="true"/>
-    <file name="authorimpression.html" crc="402221476" seo="true" mt="1506724515298" redirect="true"/>
-    <file name="sparky-ux.html" crc="4058078835" seo="true" mt="1506724514935" redirect="true"/>
-    <file name="adverator.html" crc="277096209" seo="true" mt="1506724514932" redirect="true"/>
-    <file name="nintendogs-vr.html" crc="3923012979" seo="true" mt="1506724515144" redirect="true"/>
-    <file name="about.html" crc="3934034367" seo="true" mt="1506724515291" redirect="true"/>
+    <file name="index.html" crc="302548637" seo="true" mt="1516668740659" redirect="true"/>
+    <file name="jnto-kimono.html" crc="4008098295" seo="true" mt="1506724514967" redirect="true"/>
+    <file name="shin-megami-tensei.html" crc="3889667618" seo="true" mt="1506724514881" redirect="true"/>
+    <file name="adobe-creative-cloud.html" crc="4087457415" seo="true" mt="1506724514911" redirect="true"/>
+    <file name="illustration.html" crc="3806364227" seo="true" mt="1506724514961" redirect="true"/>
+    <file name="ux---code.html" crc="3917740530" seo="true" mt="1506724515245" redirect="true"/>
+    <file name="design.html" crc="132923258" seo="true" mt="1506724515155" redirect="true"/>
+    <file name="character-development.html" crc="376700846" seo="true" mt="1506724515025" redirect="true"/>
+    <file name="terminus-of-reverie.html" crc="3851218332" seo="true" mt="1506724514943" redirect="true"/>
+    <file name="discovery.html" crc="4230198622" seo="true" mt="1506724514955" redirect="true"/>
+    <file name="ibm-watson.html" crc="3804706288" seo="true" mt="1506724514975" redirect="true"/>
+    <file name="tom-s.html" crc="4075682418" seo="true" mt="1506724514882" redirect="true"/>
+    <file name="nesquik.html" crc="3952895654" seo="true" mt="1506724514872" redirect="true"/>
+    <file name="authorimpression.html" crc="4230850307" seo="true" mt="1506724515298" redirect="true"/>
+    <file name="sparky-ux.html" crc="4100010598" seo="true" mt="1506724514935" redirect="true"/>
+    <file name="adverator.html" crc="329462361" seo="true" mt="1506724514932" redirect="true"/>
+    <file name="nintendogs-vr.html" crc="316488811" seo="true" mt="1506724515144" redirect="true"/>
+    <file name="about.html" crc="533210452" seo="true" mt="1506724515291" redirect="true"/>
   </folder>
-  <file name="index.html" crc="38821195" seo="true" mt="1506724514859" redirect="true"/>
-  <file name="jnto-kimono.html" crc="20099754" seo="true" mt="1506724514859" redirect="true"/>
-  <file name="smt.html" crc="459571807" seo="true" mt="1506724514859" redirect="true"/>
-  <file name="adobe-creative-cloud.html" crc="4027624611" seo="true" mt="1506724515005" redirect="true"/>
-  <file name="illustration.html" crc="449792943" seo="true" mt="1508191442792" redirect="true"/>
-  <file name="character-devlopment.html" crc="3978664322" seo="true" mt="1506724514893" redirect="true"/>
-  <file name="guardians.html" crc="4207000972" seo="true" mt="1506724514985" redirect="true"/>
-  <file name="clash-of-fates.html" crc="3858952672" seo="true" mt="1508191434800" redirect="true"/>
-  <file name="gates-of-design.html" crc="57451105" seo="true" mt="1506724514913" redirect="true"/>
-  <file name="reapers.html" crc="4151373932" seo="true" mt="1506724514871" redirect="true"/>
-  <file name="boss-inc.html" crc="4067723888" seo="true" mt="1508191434788" redirect="true"/>
-  <file name="design.html" crc="4249204382" seo="true" mt="1516664486666" redirect="true"/>
-  <file name="terminus-of-reverie.html" crc="3836954191" seo="true" mt="1508191434798" redirect="true"/>
-  <file name="ibm-watson.html" crc="310692005" seo="true" mt="1506724514880" redirect="true"/>
-  <file name="discovery-doors.html" crc="3918449430" seo="true" mt="1506724514859" redirect="true"/>
-  <file name="tom-s.html" crc="170426012" seo="true" mt="1506724515021" redirect="true"/>
-  <file name="nesquik.html" crc="3787732652" seo="true" mt="1506724514953" redirect="true"/>
-  <file name="about.html" crc="4109660253" seo="true" mt="1508191489419" redirect="true"/>
-  <file name="ux---code.html" crc="534449736" seo="true" mt="1506724515160" redirect="true"/>
-  <file name="adverator.html" crc="168550096" seo="true" mt="1506724514884" redirect="true"/>
-  <file name="authorimpression.html" crc="3843077803" seo="true" mt="1506724514859" redirect="true"/>
-  <file name="nintendogs-vr.html" crc="334400334" seo="true" mt="1506724515023" redirect="true"/>
-  <file name="sparky-ux.html" crc="3983149902" seo="true" mt="1506724515029" redirect="true"/>
+  <file name="index.html" crc="4228014783" seo="true" mt="1516668650368" redirect="true"/>
+  <file name="jnto-kimono.html" crc="135695649" seo="true" mt="1516668650368" redirect="true"/>
+  <file name="smt.html" crc="3891016912" seo="true" mt="1516668650368" redirect="true"/>
+  <file name="adobe-creative-cloud.html" crc="3870154666" seo="true" mt="1516668650368" redirect="true"/>
+  <file name="illustration.html" crc="461388879" seo="true" mt="1516668650368" redirect="true"/>
+  <file name="character-devlopment.html" crc="4013457340" seo="true" mt="1516668650368" redirect="true"/>
+  <file name="guardians.html" crc="26210974" seo="true" mt="1516668650368" redirect="true"/>
+  <file name="clash-of-fates.html" crc="4173095229" seo="true" mt="1516668650368" redirect="true"/>
+  <file name="gates-of-design.html" crc="4136588937" seo="true" mt="1516668650368" redirect="true"/>
+  <file name="reapers.html" crc="480896555" seo="true" mt="1516668650368" redirect="true"/>
+  <file name="boss-inc.html" crc="136005972" seo="true" mt="1516668650368" redirect="true"/>
+  <file name="digital.html" crc="3908525957" seo="true" mt="1516668650368" redirect="true"/>
+  <file name="terminus-of-reverie.html" crc="266115706" seo="true" mt="1516668650368" redirect="true"/>
+  <file name="ibm-watson.html" crc="3893376618" seo="true" mt="1516668650368" redirect="true"/>
+  <file name="discovery-doors.html" crc="4145937490" seo="true" mt="1516668650368" redirect="true"/>
+  <file name="tom-s.html" crc="4282538047" seo="true" mt="1516668650368" redirect="true"/>
+  <file name="nesquik.html" crc="4238770863" seo="true" mt="1516668650368" redirect="true"/>
+  <file name="about.html" crc="4180847668" seo="true" mt="1516668650368" redirect="true"/>
+  <file name="ux---code.html" crc="3873421227" seo="true" mt="1516668650368" redirect="true"/>
+  <file name="adverator.html" crc="3261388" seo="true" mt="1516668650368" redirect="true"/>
+  <file name="authorimpression.html" crc="3773903451" seo="true" mt="1516668650368" redirect="true"/>
+  <file name="nintendogs-vr.html" crc="4258108872" seo="true" mt="1516668650368" redirect="true"/>
+  <file name="sparky-ux.html" crc="213246591" seo="true" mt="1516668650368" redirect="true"/>
 </manifest>
