@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://tomorrowwillbesunny.com/index.html</loc>
-    <lastmod>2018-02-20</lastmod>
+    <lastmod>2018-01-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://tomorrowwillbesunny.com/phone/index.html"/>
@@ -435,31 +435,25 @@
   </url>
   <url>
     <loc>http://tomorrowwillbesunny.com/phone/design.html</loc>
-    <lastmod>2018-02-20</lastmod>
+    <lastmod>2017-09-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://tomorrowwillbesunny.com/phone/character-development.html</loc>
-    <lastmod>2018-02-20</lastmod>
+    <lastmod>2017-09-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://tomorrowwillbesunny.com/phone/discovery.html</loc>
-    <lastmod>2018-02-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://tomorrowwillbesunny.com/phone/hourai-teahouse.html</loc>
-    <lastmod>2018-02-20</lastmod>
+    <lastmod>2017-09-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://tomorrowwillbesunny.com/reapers.html</loc>
-    <lastmod>2018-02-20</lastmod>
+    <lastmod>2018-01-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -529,10 +523,10 @@
       <image:loc>http://tomorrowwillbesunny.com/images/concept01-crop-u114529_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/rolette2.png</image:loc>
+      <image:loc>http://tomorrowwillbesunny.com/images/rolette.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/rolette_2x2.png</image:loc>
+      <image:loc>http://tomorrowwillbesunny.com/images/rolette_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://tomorrowwillbesunny.com/images/20161228_110523211x360.jpg</image:loc>
@@ -1068,7 +1062,7 @@
   </url>
   <url>
     <loc>http://tomorrowwillbesunny.com/jnto-kimono.html</loc>
-    <lastmod>2018-02-20</lastmod>
+    <lastmod>2018-01-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://tomorrowwillbesunny.com/phone/jnto-kimono.html"/>
@@ -1984,7 +1978,7 @@
   </url>
   <url>
     <loc>http://tomorrowwillbesunny.com/smt.html</loc>
-    <lastmod>2018-02-20</lastmod>
+    <lastmod>2018-01-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -2224,7 +2218,7 @@
   </url>
   <url>
     <loc>http://tomorrowwillbesunny.com/adobe-creative-cloud.html</loc>
-    <lastmod>2018-02-20</lastmod>
+    <lastmod>2018-01-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://tomorrowwillbesunny.com/phone/adobe-creative-cloud.html"/>
@@ -2261,74 +2255,104 @@
   </url>
   <url>
     <loc>http://tomorrowwillbesunny.com/illustration.html</loc>
-    <lastmod>2018-02-20</lastmod>
+    <lastmod>2018-01-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://tomorrowwillbesunny.com/phone/illustration.html"/>
     <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/doremy%20sweet-crop-u527627.png</image:loc>
+      <image:loc>http://tomorrowwillbesunny.com/images/itchio_logo26x26.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/doremy%20sweet-crop-u527627_2x.png</image:loc>
+      <image:loc>http://tomorrowwillbesunny.com/images/itchio_logo26x26_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/shinki295x251.png</image:loc>
+      <image:loc>http://tomorrowwillbesunny.com/images/instagram26x26.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/shinki295x251_2x.png</image:loc>
+      <image:loc>http://tomorrowwillbesunny.com/images/instagram26x26_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/doremy%20sweet-crop-u5276272.png</image:loc>
+      <image:loc>http://tomorrowwillbesunny.com/images/linkedin26x26.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/doremy%20sweet-crop-u527627_2x2.png</image:loc>
+      <image:loc>http://tomorrowwillbesunny.com/images/linkedin26x26_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/shinki249x212.png</image:loc>
+      <image:loc>http://tomorrowwillbesunny.com/images/twitter31x31.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/shinki249x212_2x.png</image:loc>
+      <image:loc>http://tomorrowwillbesunny.com/images/twitter31x31_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/doremy%20sweet-crop-u5276273.png</image:loc>
+      <image:loc>http://tomorrowwillbesunny.com/images/youtube30x22.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/doremy%20sweet-crop-u527627_2x3.png</image:loc>
+      <image:loc>http://tomorrowwillbesunny.com/images/youtube30x22_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/shinki224x191.png</image:loc>
+      <image:loc>http://tomorrowwillbesunny.com/images/itchio_logo25x25.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/shinki224x191_2x.png</image:loc>
+      <image:loc>http://tomorrowwillbesunny.com/images/itchio_logo25x25_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/doremy%20sweet-crop-u5276274.png</image:loc>
+      <image:loc>http://tomorrowwillbesunny.com/images/instagram25x25.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/doremy%20sweet-crop-u527627_2x4.png</image:loc>
+      <image:loc>http://tomorrowwillbesunny.com/images/instagram25x25_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/shinki180x154.png</image:loc>
+      <image:loc>http://tomorrowwillbesunny.com/images/linkedin25x25.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/shinki180x154_2x.png</image:loc>
+      <image:loc>http://tomorrowwillbesunny.com/images/linkedin25x25_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/doremy%20sweet-crop-u5276275.png</image:loc>
+      <image:loc>http://tomorrowwillbesunny.com/images/youtube30x21.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/doremy%20sweet-crop-u527627_2x5.png</image:loc>
+      <image:loc>http://tomorrowwillbesunny.com/images/youtube30x21_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/shinki146x124.png</image:loc>
+      <image:loc>http://tomorrowwillbesunny.com/images/twitter22x22.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/shinki146x124_2x.png</image:loc>
+      <image:loc>http://tomorrowwillbesunny.com/images/twitter22x22_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tomorrowwillbesunny.com/images/youtube22x15.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tomorrowwillbesunny.com/images/youtube22x15_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tomorrowwillbesunny.com/images/itchio_logo13x13.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tomorrowwillbesunny.com/images/itchio_logo13x13_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tomorrowwillbesunny.com/images/instagram13x13.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tomorrowwillbesunny.com/images/instagram13x13_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tomorrowwillbesunny.com/images/linkedin13x13.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tomorrowwillbesunny.com/images/linkedin13x13_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tomorrowwillbesunny.com/images/youtube15x11.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tomorrowwillbesunny.com/images/youtube15x11_2x.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://tomorrowwillbesunny.com/character-devlopment.html</loc>
-    <lastmod>2018-02-20</lastmod>
+    <lastmod>2018-01-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -2469,7 +2493,7 @@
   </url>
   <url>
     <loc>http://tomorrowwillbesunny.com/guardians.html</loc>
-    <lastmod>2018-02-20</lastmod>
+    <lastmod>2018-01-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -2565,7 +2589,7 @@
   </url>
   <url>
     <loc>http://tomorrowwillbesunny.com/clash-of-fates.html</loc>
-    <lastmod>2018-02-20</lastmod>
+    <lastmod>2018-01-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -3093,7 +3117,7 @@
   </url>
   <url>
     <loc>http://tomorrowwillbesunny.com/gates-of-design.html</loc>
-    <lastmod>2018-02-20</lastmod>
+    <lastmod>2018-01-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -3411,13 +3435,13 @@
   </url>
   <url>
     <loc>http://tomorrowwillbesunny.com/phone/shin-megami-tensei.html</loc>
-    <lastmod>2018-02-20</lastmod>
+    <lastmod>2017-09-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://tomorrowwillbesunny.com/boss-inc.html</loc>
-    <lastmod>2018-02-20</lastmod>
+    <lastmod>2018-01-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -3508,10 +3532,10 @@
       <image:loc>http://tomorrowwillbesunny.com/images/cast%2001_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/void%20shift22.png</image:loc>
+      <image:loc>http://tomorrowwillbesunny.com/images/void%20shift2.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/void%20shift2_2x2.png</image:loc>
+      <image:loc>http://tomorrowwillbesunny.com/images/void%20shift2_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://tomorrowwillbesunny.com/images/cooper%2003.jpg</image:loc>
@@ -4263,7 +4287,7 @@
   </url>
   <url>
     <loc>http://tomorrowwillbesunny.com/digital.html</loc>
-    <lastmod>2018-02-20</lastmod>
+    <lastmod>2018-01-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -5352,7 +5376,7 @@
   </url>
   <url>
     <loc>http://tomorrowwillbesunny.com/terminus-of-reverie.html</loc>
-    <lastmod>2018-02-20</lastmod>
+    <lastmod>2018-01-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://tomorrowwillbesunny.com/phone/terminus-of-reverie.html"/>
@@ -5411,10 +5435,10 @@
       <image:loc>http://tomorrowwillbesunny.com/images/cast%2001_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/void%20shift22.png</image:loc>
+      <image:loc>http://tomorrowwillbesunny.com/images/void%20shift2.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/void%20shift2_2x2.png</image:loc>
+      <image:loc>http://tomorrowwillbesunny.com/images/void%20shift2_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://tomorrowwillbesunny.com/images/cooper%2003.jpg</image:loc>
@@ -6091,7 +6115,7 @@
   </url>
   <url>
     <loc>http://tomorrowwillbesunny.com/ibm-watson.html</loc>
-    <lastmod>2018-02-20</lastmod>
+    <lastmod>2018-01-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://tomorrowwillbesunny.com/phone/ibm-watson.html"/>
@@ -6308,7 +6332,7 @@
   </url>
   <url>
     <loc>http://tomorrowwillbesunny.com/discovery-doors.html</loc>
-    <lastmod>2018-02-20</lastmod>
+    <lastmod>2018-01-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -6629,7 +6653,7 @@
   </url>
   <url>
     <loc>http://tomorrowwillbesunny.com/tom-s.html</loc>
-    <lastmod>2018-02-20</lastmod>
+    <lastmod>2018-01-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://tomorrowwillbesunny.com/phone/tom-s.html"/>
@@ -6999,7 +7023,7 @@
   </url>
   <url>
     <loc>http://tomorrowwillbesunny.com/nesquik.html</loc>
-    <lastmod>2018-02-20</lastmod>
+    <lastmod>2018-01-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://tomorrowwillbesunny.com/phone/nesquik.html"/>
@@ -7354,7 +7378,7 @@
   </url>
   <url>
     <loc>http://tomorrowwillbesunny.com/about.html</loc>
-    <lastmod>2018-02-20</lastmod>
+    <lastmod>2018-01-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://tomorrowwillbesunny.com/phone/about.html"/>
@@ -7391,7 +7415,7 @@
   </url>
   <url>
     <loc>http://tomorrowwillbesunny.com/ux---code.html</loc>
-    <lastmod>2018-02-20</lastmod>
+    <lastmod>2018-01-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://tomorrowwillbesunny.com/phone/ux---code.html"/>
@@ -7426,10 +7450,10 @@
       <image:loc>http://tomorrowwillbesunny.com/images/kimonositepreview-crop-u317051_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/hourai%20teahouse%20ui-crop-u317044.png</image:loc>
+      <image:loc>http://tomorrowwillbesunny.com/images/sparky_thumb-crop-u317044.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/hourai%20teahouse%20ui-crop-u317044_2x.png</image:loc>
+      <image:loc>http://tomorrowwillbesunny.com/images/sparky_thumb-crop-u317044_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://tomorrowwillbesunny.com/images/screenshotcode1-crop-u3169632.png</image:loc>
@@ -7456,10 +7480,10 @@
       <image:loc>http://tomorrowwillbesunny.com/images/kimonositepreview-crop-u317051_2x2.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/hourai%20teahouse%20ui-crop-u3170442.png</image:loc>
+      <image:loc>http://tomorrowwillbesunny.com/images/sparky_thumb-crop-u3170442.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/hourai%20teahouse%20ui-crop-u317044_2x2.png</image:loc>
+      <image:loc>http://tomorrowwillbesunny.com/images/sparky_thumb-crop-u317044_2x2.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://tomorrowwillbesunny.com/images/nintendogs_logosvg257x72.png</image:loc>
@@ -7492,10 +7516,10 @@
       <image:loc>http://tomorrowwillbesunny.com/images/kimonositepreview-crop-u317051_2x3.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/hourai%20teahouse%20ui-crop-u3170443.png</image:loc>
+      <image:loc>http://tomorrowwillbesunny.com/images/sparky_thumb-crop-u3170443.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/hourai%20teahouse%20ui-crop-u317044_2x3.png</image:loc>
+      <image:loc>http://tomorrowwillbesunny.com/images/sparky_thumb-crop-u317044_2x3.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://tomorrowwillbesunny.com/images/nintendogs_logosvg231x65.png</image:loc>
@@ -7522,10 +7546,10 @@
       <image:loc>http://tomorrowwillbesunny.com/images/authorimpressionui-crop-u316989_2x4.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/hourai%20teahouse%20ui-crop-u3170444.png</image:loc>
+      <image:loc>http://tomorrowwillbesunny.com/images/sparky_thumb-crop-u3170444.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/hourai%20teahouse%20ui-crop-u317044_2x4.png</image:loc>
+      <image:loc>http://tomorrowwillbesunny.com/images/sparky_thumb-crop-u317044_2x4.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://tomorrowwillbesunny.com/images/kimonositepreview-crop-u3170514.png</image:loc>
@@ -7552,10 +7576,10 @@
       <image:loc>http://tomorrowwillbesunny.com/images/01-1-crop-u316982_2x5.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/hourai%20teahouse%20ui-crop-u3170445.png</image:loc>
+      <image:loc>http://tomorrowwillbesunny.com/images/sparky_thumb-crop-u3170445.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/hourai%20teahouse%20ui-crop-u317044_2x5.png</image:loc>
+      <image:loc>http://tomorrowwillbesunny.com/images/sparky_thumb-crop-u317044_2x5.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://tomorrowwillbesunny.com/images/authorimpressionui-crop-u3169895.png</image:loc>
@@ -7578,7 +7602,7 @@
   </url>
   <url>
     <loc>http://tomorrowwillbesunny.com/adverator.html</loc>
-    <lastmod>2018-02-20</lastmod>
+    <lastmod>2018-01-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://tomorrowwillbesunny.com/phone/adverator.html"/>
@@ -8140,7 +8164,7 @@
   </url>
   <url>
     <loc>http://tomorrowwillbesunny.com/authorimpression.html</loc>
-    <lastmod>2018-02-20</lastmod>
+    <lastmod>2018-01-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://tomorrowwillbesunny.com/phone/authorimpression.html"/>
@@ -8207,7 +8231,7 @@
   </url>
   <url>
     <loc>http://tomorrowwillbesunny.com/nintendogs-vr.html</loc>
-    <lastmod>2018-02-20</lastmod>
+    <lastmod>2018-01-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://tomorrowwillbesunny.com/phone/nintendogs-vr.html"/>
@@ -8631,7 +8655,7 @@
   </url>
   <url>
     <loc>http://tomorrowwillbesunny.com/sparky-ux.html</loc>
-    <lastmod>2018-02-20</lastmod>
+    <lastmod>2018-01-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://tomorrowwillbesunny.com/phone/sparky-ux.html"/>
@@ -9009,162 +9033,6 @@
     </image:image>
     <image:image>
       <image:loc>http://tomorrowwillbesunny.com/images/background2555x41_2x.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://tomorrowwillbesunny.com/hourai-teahouse-website.html</loc>
-    <lastmod>2018-02-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/hourai%20teahouse%20wireframes%20mobile.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/hourai%20teahouse%20wireframes%20mobile_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/hourai%20teahouse%20wireframes%20desktop-crop-u526229.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/hourai%20teahouse%20wireframes%20desktop-crop-u526229_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/hourai%20teahouse%20ui%20desktop-crop-u526024.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/hourai%20teahouse%20ui%20desktop-crop-u526024_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/hourai%20teahouse%20ui-crop-u526032.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/hourai%20teahouse%20ui-crop-u526032_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/design%20ref-crop-u526298.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/design%20ref-crop-u526298_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/hourai%20teahouse%20wireframes%20mobile425x314.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/hourai%20teahouse%20wireframes%20mobile425x314_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/hourai%20teahouse%20wireframes%20desktop-crop-u5262292.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/hourai%20teahouse%20wireframes%20desktop-crop-u526229_2x2.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/hourai%20teahouse%20ui-crop-u5260322.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/hourai%20teahouse%20ui-crop-u526032_2x2.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/hourai%20teahouse%20ui%20desktop-crop-u5260242.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/hourai%20teahouse%20ui%20desktop-crop-u526024_2x2.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/design%20ref-crop-u5262982.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/design%20ref-crop-u526298_2x2.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/hourai%20teahouse%20wireframes%20mobile382x282.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/hourai%20teahouse%20wireframes%20mobile382x282_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/hourai%20teahouse%20wireframes%20desktop-crop-u5262293.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/hourai%20teahouse%20wireframes%20desktop-crop-u526229_2x3.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/hourai%20teahouse%20ui-crop-u5260323.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/hourai%20teahouse%20ui-crop-u526032_2x3.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/hourai%20teahouse%20ui%20desktop-crop-u5260243.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/hourai%20teahouse%20ui%20desktop-crop-u526024_2x3.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/design%20ref-crop-u5262983.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/design%20ref-crop-u526298_2x3.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/hourai%20teahouse%20wireframes%20mobile307x227.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/hourai%20teahouse%20wireframes%20mobile307x227_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/hourai%20teahouse%20wireframes%20desktop-crop-u5262294.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/hourai%20teahouse%20wireframes%20desktop-crop-u526229_2x4.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/hourai%20teahouse%20ui-crop-u5260324.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/hourai%20teahouse%20ui-crop-u526032_2x4.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/hourai%20teahouse%20ui%20desktop-crop-u5260244.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/hourai%20teahouse%20ui%20desktop-crop-u526024_2x4.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/design%20ref-crop-u5262984.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/design%20ref-crop-u526298_2x4.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/hourai%20teahouse%20wireframes%20desktop-crop-u5262295.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/hourai%20teahouse%20wireframes%20desktop-crop-u526229_2x5.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/hourai%20teahouse%20wireframes%20mobile249x184.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/hourai%20teahouse%20wireframes%20mobile249x184_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/hourai%20teahouse%20ui-crop-u5260325.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/hourai%20teahouse%20ui-crop-u526032_2x5.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/hourai%20teahouse%20ui%20desktop-crop-u5260245.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/hourai%20teahouse%20ui%20desktop-crop-u526024_2x5.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/design%20ref-crop-u5262985.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tomorrowwillbesunny.com/images/design%20ref-crop-u526298_2x5.png</image:loc>
     </image:image>
   </url>
 </urlset>
