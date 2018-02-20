@@ -1,56 +1,56 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tomorrowwillbesunny.com" resolutions="1x,2x" timestamp="1519128704667">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://www.tomorrowwillbesunny.com" resolutions="1x,2x" timestamp="1519130663255">
   <folder name="css">
     <file name="site_global.css" crc="3980088982"/>
-    <file name="master_a-master-copy-2.css" crc="347204486" ref="gates-of-design:about:nintendogs-vr:nesquik:digital:authorimpression:sparky-ux:clash-of-fates:adverator:boss-inc:jnto-kimono:ux---code:reapers:terminus-of-reverie:tom-s:index:guardians:discovery-doors:character-devlopment:illustration:ibm-watson:adobe-creative-cloud:smt:hourai-teahouse-website"/>
-    <file name="nomq_preview_master_a-master-copy-2.css" crc="3768121961" ref="gates-of-design:about:nintendogs-vr:nesquik:digital:authorimpression:sparky-ux:clash-of-fates:adverator:boss-inc:jnto-kimono:ux---code:reapers:terminus-of-reverie:tom-s:index:guardians:discovery-doors:character-devlopment:illustration:ibm-watson:adobe-creative-cloud:smt:hourai-teahouse-website"/>
-    <file name="gates-of-design.css" crc="3759032297" ref="gates-of-design"/>
-    <file name="nomq_gates-of-design.css" crc="310163220" ref="gates-of-design"/>
-    <file name="about.css" crc="4265831099" ref="about"/>
-    <file name="nomq_about.css" crc="265949646" ref="about"/>
-    <file name="nintendogs-vr.css" crc="522841546" ref="nintendogs-vr"/>
-    <file name="nomq_nintendogs-vr.css" crc="249452224" ref="nintendogs-vr"/>
-    <file name="nesquik.css" crc="3946047783" ref="nesquik"/>
-    <file name="nomq_nesquik.css" crc="398293968" ref="nesquik"/>
-    <file name="digital.css" crc="339761379" ref="digital"/>
-    <file name="nomq_digital.css" crc="4242392819" ref="digital"/>
-    <file name="authorimpression.css" crc="55434685" ref="authorimpression"/>
-    <file name="nomq_authorimpression.css" crc="3938020491" ref="authorimpression"/>
-    <file name="sparky-ux.css" crc="75542715" ref="sparky-ux"/>
-    <file name="nomq_sparky-ux.css" crc="4182433403" ref="sparky-ux"/>
-    <file name="clash-of-fates.css" crc="4184532568" ref="clash-of-fates"/>
-    <file name="nomq_clash-of-fates.css" crc="3823359898" ref="clash-of-fates"/>
-    <file name="adverator.css" crc="3814843260" ref="adverator"/>
+    <file name="master_a-master-copy-2.css" crc="4170935157" ref="adverator:adobe-creative-cloud:authorimpression:tom-s:illustration:discovery-doors:character-devlopment:boss-inc:sparky-ux:nintendogs-vr:hourai-teahouse-website:nesquik:about:gates-of-design:guardians:clash-of-fates:digital:reapers:ux---code:index:terminus-of-reverie:jnto-kimono:ibm-watson:smt"/>
+    <file name="nomq_preview_master_a-master-copy-2.css" crc="11297508" ref="adverator:adobe-creative-cloud:authorimpression:tom-s:illustration:discovery-doors:character-devlopment:boss-inc:sparky-ux:nintendogs-vr:hourai-teahouse-website:nesquik:about:gates-of-design:guardians:clash-of-fates:digital:reapers:ux---code:index:terminus-of-reverie:jnto-kimono:ibm-watson:smt"/>
+    <file name="adverator.css" crc="193" ref="adverator"/>
     <file name="nomq_adverator.css" crc="4115005734" ref="adverator"/>
-    <file name="boss-inc.css" crc="192818079" ref="boss-inc"/>
-    <file name="nomq_boss-inc.css" crc="285914602" ref="boss-inc"/>
-    <file name="jnto-kimono.css" crc="2973388" ref="jnto-kimono"/>
-    <file name="nomq_jnto-kimono.css" crc="130919928" ref="jnto-kimono"/>
-    <file name="ux---code.css" crc="4223170711" ref="ux---code"/>
-    <file name="nomq_ux---code.css" crc="3929614603" ref="ux---code"/>
-    <file name="reapers.css" crc="4182832226" ref="reapers"/>
-    <file name="nomq_reapers.css" crc="4109151039" ref="reapers"/>
-    <file name="terminus-of-reverie.css" crc="3884338778" ref="terminus-of-reverie"/>
-    <file name="nomq_terminus-of-reverie.css" crc="4196092446" ref="terminus-of-reverie"/>
-    <file name="tom-s.css" crc="444141395" ref="tom-s"/>
-    <file name="nomq_tom-s.css" crc="223606833" ref="tom-s"/>
-    <file name="index.css" crc="447482934" ref="index"/>
-    <file name="nomq_index.css" crc="425951229" ref="index"/>
-    <file name="guardians.css" crc="158528231" ref="guardians"/>
-    <file name="nomq_guardians.css" crc="251676347" ref="guardians"/>
-    <file name="discovery-doors.css" crc="4153630815" ref="discovery-doors"/>
-    <file name="nomq_discovery-doors.css" crc="335001253" ref="discovery-doors"/>
-    <file name="character-devlopment.css" crc="4265345310" ref="character-devlopment"/>
-    <file name="nomq_character-devlopment.css" crc="4250914204" ref="character-devlopment"/>
-    <file name="illustration.css" crc="305834147" ref="illustration"/>
-    <file name="nomq_illustration.css" crc="4213580072" ref="illustration"/>
-    <file name="ibm-watson.css" crc="497963926" ref="ibm-watson"/>
-    <file name="nomq_ibm-watson.css" crc="4115006843" ref="ibm-watson"/>
-    <file name="adobe-creative-cloud.css" crc="120660063" ref="adobe-creative-cloud"/>
+    <file name="adobe-creative-cloud.css" crc="28504524" ref="adobe-creative-cloud"/>
     <file name="nomq_adobe-creative-cloud.css" crc="32819027" ref="adobe-creative-cloud"/>
-    <file name="smt.css" crc="300154822" ref="smt"/>
-    <file name="nomq_smt.css" crc="3974983155" ref="smt"/>
-    <file name="hourai-teahouse-website.css" crc="4129476955" ref="hourai-teahouse-website"/>
+    <file name="authorimpression.css" crc="3772753148" ref="authorimpression"/>
+    <file name="nomq_authorimpression.css" crc="3938020491" ref="authorimpression"/>
+    <file name="tom-s.css" crc="3922120606" ref="tom-s"/>
+    <file name="nomq_tom-s.css" crc="223606833" ref="tom-s"/>
+    <file name="illustration.css" crc="3837073026" ref="illustration"/>
+    <file name="nomq_illustration.css" crc="4213580072" ref="illustration"/>
+    <file name="discovery-doors.css" crc="3842552057" ref="discovery-doors"/>
+    <file name="nomq_discovery-doors.css" crc="335001253" ref="discovery-doors"/>
+    <file name="character-devlopment.css" crc="4023195092" ref="character-devlopment"/>
+    <file name="nomq_character-devlopment.css" crc="4250914204" ref="character-devlopment"/>
+    <file name="boss-inc.css" crc="4238626999" ref="boss-inc"/>
+    <file name="nomq_boss-inc.css" crc="285914602" ref="boss-inc"/>
+    <file name="sparky-ux.css" crc="3839466886" ref="sparky-ux"/>
+    <file name="nomq_sparky-ux.css" crc="4182433403" ref="sparky-ux"/>
+    <file name="nintendogs-vr.css" crc="280938016" ref="nintendogs-vr"/>
+    <file name="nomq_nintendogs-vr.css" crc="249452224" ref="nintendogs-vr"/>
+    <file name="hourai-teahouse-website.css" crc="3842529400" ref="hourai-teahouse-website"/>
     <file name="nomq_hourai-teahouse-website.css" crc="511542432" ref="hourai-teahouse-website"/>
+    <file name="nesquik.css" crc="372573622" ref="nesquik"/>
+    <file name="nomq_nesquik.css" crc="398293968" ref="nesquik"/>
+    <file name="about.css" crc="346856097" ref="about"/>
+    <file name="nomq_about.css" crc="265949646" ref="about"/>
+    <file name="gates-of-design.css" crc="4272516031" ref="gates-of-design"/>
+    <file name="nomq_gates-of-design.css" crc="310163220" ref="gates-of-design"/>
+    <file name="guardians.css" crc="4245827081" ref="guardians"/>
+    <file name="nomq_guardians.css" crc="251676347" ref="guardians"/>
+    <file name="clash-of-fates.css" crc="3841775348" ref="clash-of-fates"/>
+    <file name="nomq_clash-of-fates.css" crc="3823359898" ref="clash-of-fates"/>
+    <file name="digital.css" crc="4127399552" ref="digital"/>
+    <file name="nomq_digital.css" crc="4242392819" ref="digital"/>
+    <file name="reapers.css" crc="30652017" ref="reapers"/>
+    <file name="nomq_reapers.css" crc="4109151039" ref="reapers"/>
+    <file name="ux---code.css" crc="4062017946" ref="ux---code"/>
+    <file name="nomq_ux---code.css" crc="3929614603" ref="ux---code"/>
+    <file name="index.css" crc="355403188" ref="index"/>
+    <file name="nomq_index.css" crc="425951229" ref="index"/>
+    <file name="terminus-of-reverie.css" crc="3984752396" ref="terminus-of-reverie"/>
+    <file name="nomq_terminus-of-reverie.css" crc="4000024325" ref="terminus-of-reverie"/>
+    <file name="jnto-kimono.css" crc="3862255987" ref="jnto-kimono"/>
+    <file name="nomq_jnto-kimono.css" crc="130919928" ref="jnto-kimono"/>
+    <file name="ibm-watson.css" crc="3932568211" ref="ibm-watson"/>
+    <file name="nomq_ibm-watson.css" crc="4115006843" ref="ibm-watson"/>
+    <file name="smt.css" crc="3941955203" ref="smt"/>
+    <file name="nomq_smt.css" crc="3974983155" ref="smt"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>jnto-kimono:phone>shin-megami-tensei:phone>adobe-creative-cloud:phone>illustration:phone>ux---code:phone>design:phone>character-development:phone>terminus-of-reverie:phone>discovery:phone>ibm-watson:phone>tom-s:phone>nesquik:phone>authorimpression:phone>sparky-ux:phone>adverator:phone>nintendogs-vr:phone>about:phone>hourai-teahouse:index:jnto-kimono:smt:adobe-creative-cloud:illustration:character-devlopment:guardians:clash-of-fates:gates-of-design:reapers:boss-inc:digital:terminus-of-reverie:ibm-watson:discovery-doors:tom-s:nesquik:about:ux---code:adverator:authorimpression:nintendogs-vr:sparky-ux:hourai-teahouse-website"/>
@@ -711,8 +711,8 @@
       <caption webpage="design" alt=""/>
     </file>
     <file name="vending-machine.gif" crc="322205428" seo="true" ref="phone>design:phone>nesquik:digital">
-      <caption webpage="nesquik" alt=""/>
       <caption webpage="design" alt=""/>
+      <caption webpage="nesquik" alt=""/>
       <caption webpage="digital" alt=""/>
       <caption webpage="digital" alt=""/>
       <caption webpage="digital" alt=""/>
@@ -720,8 +720,8 @@
       <caption webpage="digital" alt=""/>
     </file>
     <file name="vending-machine_2x.gif" crc="322205428" seo="true" ref="phone>design:phone>nesquik:digital">
-      <caption webpage="nesquik" alt=""/>
       <caption webpage="design" alt=""/>
+      <caption webpage="nesquik" alt=""/>
       <caption webpage="digital" alt=""/>
       <caption webpage="digital" alt=""/>
       <caption webpage="digital" alt=""/>
@@ -781,12 +781,12 @@
       <caption webpage="character-development" alt=""/>
     </file>
     <file name="cooper 02.gif" crc="281444982" seo="true" ref="phone>character-development:phone>terminus-of-reverie:boss-inc:terminus-of-reverie">
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
       <caption webpage="character-development" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
@@ -4529,16 +4529,16 @@
     <file name="torstone-crop-u114757_2x5.png" crc="259471203" seo="true" ref="gates-of-design">
       <caption webpage="gates-of-design" alt=""/>
     </file>
-    <file name="playable characters flipped-crop-u53834.png" crc="4052468106" seo="true" ref="reapers">
+    <file name="playable characters flipped-crop-u53834.png" crc="8652371" seo="true" ref="reapers">
       <caption webpage="reapers" alt=""/>
     </file>
-    <file name="playable characters flipped-crop-u53834_2x.png" crc="258028954" seo="true" ref="reapers">
+    <file name="playable characters flipped-crop-u53834_2x.png" crc="4162112169" seo="true" ref="reapers">
       <caption webpage="reapers" alt=""/>
     </file>
-    <file name="playable characters-crop-u54914.png" crc="89010606" seo="true" ref="reapers">
+    <file name="playable characters-crop-u54914.png" crc="4073178418" seo="true" ref="reapers">
       <caption webpage="reapers" alt=""/>
     </file>
-    <file name="playable characters-crop-u54914_2x.png" crc="3897648225" seo="true" ref="reapers">
+    <file name="playable characters-crop-u54914_2x.png" crc="3889847939" seo="true" ref="reapers">
       <caption webpage="reapers" alt=""/>
     </file>
     <file name="silhouettes.jpg" crc="4028563905" seo="true" ref="reapers">
@@ -4565,10 +4565,10 @@
     <file name="rrolette sprite copy_2x.png" crc="4165605397" seo="true" ref="reapers">
       <caption webpage="reapers" alt=""/>
     </file>
-    <file name="rust-u54780-3-fr.png" crc="4281906428" ref="reapers"/>
-    <file name="rust-u54780-3-fr_2x.png" crc="3782826345" ref="reapers"/>
-    <file name="casey-u53684-3-fr.png" crc="45735538" ref="reapers"/>
-    <file name="casey-u53684-3-fr_2x.png" crc="283078194" ref="reapers"/>
+    <file name="rust-u54780-3-fr.png" crc="3791864915" ref="reapers"/>
+    <file name="rust-u54780-3-fr_2x.png" crc="6238811" ref="reapers"/>
+    <file name="casey-u53684-3-fr.png" crc="3996482638" ref="reapers"/>
+    <file name="casey-u53684-3-fr_2x.png" crc="3931916808" ref="reapers"/>
     <file name="rolette.png" crc="214469261" ref="reapers">
       <caption webpage="reapers" alt=""/>
     </file>
@@ -4762,16 +4762,16 @@
     <file name="20161228_110536-crop-u123689_2x.png" crc="347801861" seo="true" ref="reapers">
       <caption webpage="reapers" alt=""/>
     </file>
-    <file name="playable characters flipped-crop-u538342.png" crc="4248847568" seo="true" ref="reapers">
+    <file name="playable characters flipped-crop-u538342.png" crc="95136177" seo="true" ref="reapers">
       <caption webpage="reapers" alt=""/>
     </file>
-    <file name="playable characters flipped-crop-u53834_2x2.png" crc="522802122" seo="true" ref="reapers">
+    <file name="playable characters flipped-crop-u53834_2x2.png" crc="176437299" seo="true" ref="reapers">
       <caption webpage="reapers" alt=""/>
     </file>
-    <file name="playable characters-crop-u549142.png" crc="34908848" seo="true" ref="reapers">
+    <file name="playable characters-crop-u549142.png" crc="4107460720" seo="true" ref="reapers">
       <caption webpage="reapers" alt=""/>
     </file>
-    <file name="playable characters-crop-u54914_2x2.png" crc="4113370488" seo="true" ref="reapers">
+    <file name="playable characters-crop-u54914_2x2.png" crc="4161740069" seo="true" ref="reapers">
       <caption webpage="reapers" alt=""/>
     </file>
     <file name="silhouettes867x221.jpg" crc="4136824377" seo="true" ref="reapers">
@@ -4873,16 +4873,16 @@
     <file name="20161228_110536-crop-u123689_2x2.png" crc="347801861" seo="true" ref="reapers">
       <caption webpage="reapers" alt=""/>
     </file>
-    <file name="playable characters flipped-crop-u538343.png" crc="4066591094" seo="true" ref="reapers">
+    <file name="playable characters flipped-crop-u538343.png" crc="4278883910" seo="true" ref="reapers">
       <caption webpage="reapers" alt=""/>
     </file>
-    <file name="playable characters flipped-crop-u53834_2x3.png" crc="342809559" seo="true" ref="reapers">
+    <file name="playable characters flipped-crop-u53834_2x3.png" crc="3899186226" seo="true" ref="reapers">
       <caption webpage="reapers" alt=""/>
     </file>
-    <file name="playable characters-crop-u549143.png" crc="301889505" seo="true" ref="reapers">
+    <file name="playable characters-crop-u549143.png" crc="4846496" seo="true" ref="reapers">
       <caption webpage="reapers" alt=""/>
     </file>
-    <file name="playable characters-crop-u54914_2x3.png" crc="3939531583" seo="true" ref="reapers">
+    <file name="playable characters-crop-u54914_2x3.png" crc="4279926309" seo="true" ref="reapers">
       <caption webpage="reapers" alt=""/>
     </file>
     <file name="silhouettes778x198.jpg" crc="4188614957" seo="true" ref="reapers">
@@ -4984,16 +4984,16 @@
     <file name="20161228_110536-crop-u123689_2x3.png" crc="347801861" seo="true" ref="reapers">
       <caption webpage="reapers" alt=""/>
     </file>
-    <file name="playable characters flipped-crop-u538344.png" crc="3863131657" seo="true" ref="reapers">
+    <file name="playable characters flipped-crop-u538344.png" crc="69326562" seo="true" ref="reapers">
       <caption webpage="reapers" alt=""/>
     </file>
-    <file name="playable characters flipped-crop-u53834_2x4.png" crc="197554910" seo="true" ref="reapers">
+    <file name="playable characters flipped-crop-u53834_2x4.png" crc="73770198" seo="true" ref="reapers">
       <caption webpage="reapers" alt=""/>
     </file>
-    <file name="playable characters-crop-u549144.png" crc="325778081" seo="true" ref="reapers">
+    <file name="playable characters-crop-u549144.png" crc="3765345976" seo="true" ref="reapers">
       <caption webpage="reapers" alt=""/>
     </file>
-    <file name="playable characters-crop-u54914_2x4.png" crc="394283279" seo="true" ref="reapers">
+    <file name="playable characters-crop-u54914_2x4.png" crc="3764660639" seo="true" ref="reapers">
       <caption webpage="reapers" alt=""/>
     </file>
     <file name="silhouettes626x159.jpg" crc="396104890" seo="true" ref="reapers">
@@ -5095,16 +5095,16 @@
     <file name="20161228_110536-crop-u123689_2x4.png" crc="347801861" seo="true" ref="reapers">
       <caption webpage="reapers" alt=""/>
     </file>
-    <file name="playable characters flipped-crop-u538345.png" crc="43024615" seo="true" ref="reapers">
+    <file name="playable characters flipped-crop-u538345.png" crc="405860274" seo="true" ref="reapers">
       <caption webpage="reapers" alt=""/>
     </file>
-    <file name="playable characters flipped-crop-u53834_2x5.png" crc="4231942490" seo="true" ref="reapers">
+    <file name="playable characters flipped-crop-u53834_2x5.png" crc="269135495" seo="true" ref="reapers">
       <caption webpage="reapers" alt=""/>
     </file>
-    <file name="playable characters-crop-u549145.png" crc="3953899130" seo="true" ref="reapers">
+    <file name="playable characters-crop-u549145.png" crc="4164459750" seo="true" ref="reapers">
       <caption webpage="reapers" alt=""/>
     </file>
-    <file name="playable characters-crop-u54914_2x5.png" crc="3945954107" seo="true" ref="reapers">
+    <file name="playable characters-crop-u54914_2x5.png" crc="295354133" seo="true" ref="reapers">
       <caption webpage="reapers" alt=""/>
     </file>
     <file name="silhouettes507x129.jpg" crc="4032333106" seo="true" ref="reapers">
@@ -5254,116 +5254,116 @@
       <caption webpage="boss-inc" alt=""/>
     </file>
     <file name="cooperref.jpg" crc="3764573752" seo="true" ref="boss-inc:terminus-of-reverie">
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
     </file>
     <file name="cooperref_2x.jpg" crc="92640947" seo="true" ref="boss-inc:terminus-of-reverie">
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
     </file>
     <file name="the magician of berserk magic.jpg" crc="3911700983" seo="true" ref="boss-inc:terminus-of-reverie">
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
     </file>
     <file name="the magician of berserk magic_2x.jpg" crc="4245625959" seo="true" ref="boss-inc:terminus-of-reverie">
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
     </file>
     <file name="cooper copper.jpg" crc="4266561550" seo="true" ref="boss-inc:terminus-of-reverie">
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
     </file>
     <file name="cooper copper_2x.jpg" crc="4274715222" seo="true" ref="boss-inc:terminus-of-reverie">
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
     </file>
     <file name="cast 01478x360.png" crc="4025036003" seo="true" ref="boss-inc">
       <caption webpage="boss-inc" alt=""/>
@@ -5383,96 +5383,96 @@
       <caption webpage="boss-inc" alt=""/>
     </file>
     <file name="cast 01_2x.png" crc="3963419073" seo="true" ref="boss-inc:terminus-of-reverie">
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
     </file>
     <file name="void shift22.png" crc="4026475733" seo="true" ref="boss-inc:terminus-of-reverie">
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
     </file>
     <file name="void shift2_2x2.png" crc="4272309396" seo="true" ref="boss-inc:terminus-of-reverie">
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
     </file>
     <file name="cooper 03.jpg" crc="77076563" seo="true" ref="boss-inc:terminus-of-reverie">
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
     </file>
     <file name="cooper 03_2x.jpg" crc="90858422" seo="true" ref="boss-inc:terminus-of-reverie">
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
     </file>
     <file name="copperconcepts.jpg" crc="4163626283" seo="true" ref="boss-inc:terminus-of-reverie">
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
     </file>
     <file name="copper 02-u315715-fr.png" crc="263045964" ref="boss-inc"/>
     <file name="copper 02-u315715-fr_2x.png" crc="3830711527" ref="boss-inc"/>
@@ -5527,182 +5527,182 @@
       <caption webpage="boss-inc" alt=""/>
     </file>
     <file name="sparky.jpg" crc="167884153" seo="true" ref="boss-inc:terminus-of-reverie">
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
     </file>
     <file name="sparky_2x.jpg" crc="465189549" seo="true" ref="boss-inc:terminus-of-reverie">
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
     </file>
     <file name="outside.png" crc="191185014" seo="true" ref="boss-inc:terminus-of-reverie">
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
     </file>
     <file name="outside_2x.png" crc="260020315" seo="true" ref="boss-inc:terminus-of-reverie">
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
     </file>
     <file name="the deep forest.png" crc="253730849" seo="true" ref="boss-inc:terminus-of-reverie">
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
     </file>
     <file name="village front- top view.png" crc="481839213" seo="true" ref="boss-inc:terminus-of-reverie">
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
     </file>
     <file name="village front- top view_2x.png" crc="3796908903" seo="true" ref="boss-inc:terminus-of-reverie">
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
     </file>
     <file name="village ruins.png" crc="518011177" seo="true" ref="boss-inc:terminus-of-reverie">
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
     </file>
     <file name="village shops.png" crc="4009892441" seo="true" ref="boss-inc:terminus-of-reverie">
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
     </file>
     <file name="copper 02-u315420-fr.png" crc="3854990099" ref="boss-inc:terminus-of-reverie"/>
     <file name="copper 02-u315420-fr_2x.png" crc="76467034" ref="boss-inc:terminus-of-reverie"/>
@@ -5949,28 +5949,28 @@
       <caption webpage="boss-inc" alt=""/>
     </file>
     <file name="sparkleconcept.jpg" crc="3901301579" seo="true" ref="boss-inc:terminus-of-reverie">
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
     </file>
     <file name="sparkleconcept_2x.jpg" crc="3911027236" seo="true" ref="boss-inc:terminus-of-reverie">
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
     </file>
     <file name="sparkleconcept-crop-u75702.png" crc="372575711" seo="true" ref="boss-inc">
       <caption webpage="boss-inc" alt=""/>
@@ -6007,52 +6007,52 @@
       <caption webpage="boss-inc" alt=""/>
     </file>
     <file name="witch.jpg" crc="456718248" seo="true" ref="boss-inc:terminus-of-reverie">
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
     </file>
     <file name="witch_2x.jpg" crc="448107822" seo="true" ref="boss-inc:terminus-of-reverie">
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
     </file>
     <file name="sandra 01.jpg" crc="526789424" seo="true" ref="boss-inc:terminus-of-reverie">
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
     </file>
     <file name="sandra 01_2x.jpg" crc="3975305028" seo="true" ref="boss-inc:terminus-of-reverie">
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
     </file>
     <file name="witch-crop-u316551.png" crc="512640267" seo="true" ref="boss-inc">
       <caption webpage="boss-inc" alt=""/>
@@ -6093,64 +6093,64 @@
       <caption webpage="boss-inc" alt=""/>
     </file>
     <file name="copper 08.png" crc="4078812756" seo="true" ref="boss-inc:terminus-of-reverie">
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
     </file>
     <file name="copper 08_2x.png" crc="273633546" seo="true" ref="boss-inc:terminus-of-reverie">
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
     </file>
     <file name="copper 03.png" crc="4172917182" seo="true" ref="boss-inc:terminus-of-reverie">
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
     </file>
     <file name="copper 03_2x.png" crc="323108239" seo="true" ref="boss-inc:terminus-of-reverie">
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
     </file>
     <file name="copper 07.png" crc="41762978" seo="true" ref="boss-inc:terminus-of-reverie">
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
-      <caption webpage="boss-inc" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
+      <caption webpage="boss-inc" alt=""/>
     </file>
     <file name="void shift2116x89.png" crc="3994955871" seo="true" ref="boss-inc">
       <caption webpage="boss-inc" alt=""/>
@@ -11397,71 +11397,71 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="4043228861" ref="phone>illustration:phone>ux---code:phone>authorimpression:phone>adobe-creative-cloud:phone>nesquik:phone>shin-megami-tensei:phone>tom-s:phone>jnto-kimono:phone>index:phone>ibm-watson:phone>discovery:phone>terminus-of-reverie:phone>about:phone>character-development:phone>nintendogs-vr:phone>design:phone>adverator:phone>hourai-teahouse:phone>sparky-ux"/>
-      <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="phone>illustration:phone>ux---code:phone>authorimpression:phone>adobe-creative-cloud:phone>nesquik:phone>shin-megami-tensei:phone>tom-s:phone>jnto-kimono:phone>index:phone>ibm-watson:phone>discovery:phone>terminus-of-reverie:phone>about:phone>character-development:phone>nintendogs-vr:phone>design:phone>adverator:phone>hourai-teahouse:phone>sparky-ux"/>
-      <file name="illustration.css" crc="3910859736" ref="phone>illustration"/>
-      <file name="ux---code.css" crc="10641100" ref="phone>ux---code"/>
-      <file name="authorimpression.css" crc="330368998" ref="phone>authorimpression"/>
-      <file name="adobe-creative-cloud.css" crc="3828893811" ref="phone>adobe-creative-cloud"/>
-      <file name="nesquik.css" crc="300725998" ref="phone>nesquik"/>
-      <file name="shin-megami-tensei.css" crc="3931618205" ref="phone>shin-megami-tensei"/>
+      <file name="master_a-master.css" crc="3809913455" ref="phone>index:phone>tom-s:phone>nesquik:phone>sparky-ux:phone>jnto-kimono:phone>authorimpression:phone>shin-megami-tensei:phone>adverator:phone>adobe-creative-cloud:phone>nintendogs-vr:phone>illustration:phone>ux---code:phone>design:phone>about:phone>character-development:phone>hourai-teahouse:phone>terminus-of-reverie:phone>discovery:phone>ibm-watson"/>
+      <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="phone>index:phone>tom-s:phone>nesquik:phone>sparky-ux:phone>jnto-kimono:phone>authorimpression:phone>shin-megami-tensei:phone>adverator:phone>adobe-creative-cloud:phone>nintendogs-vr:phone>illustration:phone>ux---code:phone>design:phone>about:phone>character-development:phone>hourai-teahouse:phone>terminus-of-reverie:phone>discovery:phone>ibm-watson"/>
+      <file name="index.css" crc="306468934" ref="phone>index"/>
       <file name="tom-s.css" crc="536028106" ref="phone>tom-s"/>
-      <file name="jnto-kimono.css" crc="4222354611" ref="phone>jnto-kimono"/>
-      <file name="index.css" crc="383968343" ref="phone>index"/>
-      <file name="ibm-watson.css" crc="167789277" ref="phone>ibm-watson"/>
-      <file name="discovery.css" crc="375065105" ref="phone>discovery"/>
-      <file name="terminus-of-reverie.css" crc="3928872758" ref="phone>terminus-of-reverie"/>
+      <file name="nesquik.css" crc="300725998" ref="phone>nesquik"/>
+      <file name="sparky-ux.css" crc="3971399800" ref="phone>sparky-ux"/>
+      <file name="jnto-kimono.css" crc="246035821" ref="phone>jnto-kimono"/>
+      <file name="authorimpression.css" crc="3902265821" ref="phone>authorimpression"/>
+      <file name="shin-megami-tensei.css" crc="3931618205" ref="phone>shin-megami-tensei"/>
+      <file name="adverator.css" crc="337585582" ref="phone>adverator"/>
+      <file name="adobe-creative-cloud.css" crc="4278400623" ref="phone>adobe-creative-cloud"/>
+      <file name="nintendogs-vr.css" crc="4038204999" ref="phone>nintendogs-vr"/>
+      <file name="illustration.css" crc="4138912754" ref="phone>illustration"/>
+      <file name="ux---code.css" crc="10641100" ref="phone>ux---code"/>
+      <file name="design.css" crc="109602344" ref="phone>design"/>
       <file name="about.css" crc="3922915512" ref="phone>about"/>
       <file name="character-development.css" crc="329943964" ref="phone>character-development"/>
-      <file name="nintendogs-vr.css" crc="4038204999" ref="phone>nintendogs-vr"/>
-      <file name="design.css" crc="4102530195" ref="phone>design"/>
-      <file name="adverator.css" crc="115515385" ref="phone>adverator"/>
       <file name="hourai-teahouse.css" crc="3763331397" ref="phone>hourai-teahouse"/>
       <file name="nomq_hourai-teahouse.css" crc="3824530138" ref="phone>hourai-teahouse"/>
-      <file name="sparky-ux.css" crc="3971399800" ref="phone>sparky-ux"/>
+      <file name="terminus-of-reverie.css" crc="3965972507" ref="phone>terminus-of-reverie"/>
+      <file name="discovery.css" crc="375065105" ref="phone>discovery"/>
+      <file name="ibm-watson.css" crc="4178499128" ref="phone>ibm-watson"/>
     </folder>
-    <file name="index.html" crc="205119545" seo="true" mt="1519127655716" redirect="true"/>
-    <file name="jnto-kimono.html" crc="400137473" seo="true" mt="1519127655716" redirect="true"/>
-    <file name="shin-megami-tensei.html" crc="3916483577" seo="true" mt="1519127655716" redirect="true"/>
-    <file name="adobe-creative-cloud.html" crc="306707477" seo="true" mt="1519127655716" redirect="true"/>
-    <file name="illustration.html" crc="459746609" seo="true" mt="1519127662506" redirect="true"/>
-    <file name="ux---code.html" crc="35197032" seo="true" mt="1519127655716" redirect="true"/>
-    <file name="design.html" crc="4289123015" seo="true" mt="1519127655716" redirect="true"/>
-    <file name="character-development.html" crc="378763307" seo="true" mt="1519127655716" redirect="true"/>
-    <file name="terminus-of-reverie.html" crc="4063128713" seo="true" mt="1519127655716" redirect="true"/>
-    <file name="discovery.html" crc="462280770" seo="true" mt="1519127655716" redirect="true"/>
-    <file name="ibm-watson.html" crc="4219549609" seo="true" mt="1519127655716" redirect="true"/>
-    <file name="tom-s.html" crc="421238453" seo="true" mt="1519127655716" redirect="true"/>
-    <file name="nesquik.html" crc="521766350" seo="true" mt="1519127655716" redirect="true"/>
-    <file name="authorimpression.html" crc="4166974472" seo="true" mt="1519127655716" redirect="true"/>
-    <file name="sparky-ux.html" crc="3841614174" seo="true" mt="1519127655716" redirect="true"/>
-    <file name="adverator.html" crc="3772806649" seo="true" mt="1519127655716" redirect="true"/>
-    <file name="nintendogs-vr.html" crc="4036306246" seo="true" mt="1519127655716" redirect="true"/>
-    <file name="about.html" crc="3770475771" seo="true" mt="1519127655716" redirect="true"/>
-    <file name="hourai-teahouse.html" crc="4073665151" seo="true" mt="1519127655716" redirect="true"/>
+    <file name="index.html" crc="74620791" seo="true" mt="1519129965852" redirect="true"/>
+    <file name="jnto-kimono.html" crc="4106980763" seo="true" mt="1519129965852" redirect="true"/>
+    <file name="shin-megami-tensei.html" crc="208257141" seo="true" mt="1519129965852" redirect="true"/>
+    <file name="adobe-creative-cloud.html" crc="4286607103" seo="true" mt="1519129965852" redirect="true"/>
+    <file name="illustration.html" crc="3831122351" seo="true" mt="1519129980435" redirect="true"/>
+    <file name="ux---code.html" crc="4290771203" seo="true" mt="1519129965852" redirect="true"/>
+    <file name="design.html" crc="371930966" seo="true" mt="1519129965852" redirect="true"/>
+    <file name="character-development.html" crc="472492182" seo="true" mt="1519129965852" redirect="true"/>
+    <file name="terminus-of-reverie.html" crc="4262532866" seo="true" mt="1519129965852" redirect="true"/>
+    <file name="discovery.html" crc="3964029435" seo="true" mt="1519129965852" redirect="true"/>
+    <file name="ibm-watson.html" crc="3960736443" seo="true" mt="1519129965852" redirect="true"/>
+    <file name="tom-s.html" crc="3899185945" seo="true" mt="1519129965852" redirect="true"/>
+    <file name="nesquik.html" crc="313866438" seo="true" mt="1519129965852" redirect="true"/>
+    <file name="authorimpression.html" crc="3994374863" seo="true" mt="1519129965852" redirect="true"/>
+    <file name="sparky-ux.html" crc="435476663" seo="true" mt="1519129965852" redirect="true"/>
+    <file name="adverator.html" crc="4148701596" seo="true" mt="1519129965852" redirect="true"/>
+    <file name="nintendogs-vr.html" crc="523891338" seo="true" mt="1519129965852" redirect="true"/>
+    <file name="about.html" crc="3933798754" seo="true" mt="1519129965852" redirect="true"/>
+    <file name="hourai-teahouse.html" crc="3828398562" seo="true" mt="1519129965852" redirect="true"/>
   </folder>
-  <file name="index.html" crc="358915379" seo="true" mt="1519127655718" redirect="true"/>
-  <file name="jnto-kimono.html" crc="4073372718" seo="true" mt="1519127655718" redirect="true"/>
-  <file name="smt.html" crc="374977300" seo="true" mt="1519127655718" redirect="true"/>
-  <file name="adobe-creative-cloud.html" crc="4243566396" seo="true" mt="1519127655718" redirect="true"/>
-  <file name="illustration.html" crc="3992362282" seo="true" mt="1519127667601" redirect="true"/>
-  <file name="character-devlopment.html" crc="51193783" seo="true" mt="1519127655718" redirect="true"/>
-  <file name="guardians.html" crc="214932914" seo="true" mt="1519127655718" redirect="true"/>
-  <file name="clash-of-fates.html" crc="394979107" seo="true" mt="1519127655718" redirect="true"/>
-  <file name="gates-of-design.html" crc="3765455984" seo="true" mt="1519127655718" redirect="true"/>
-  <file name="reapers.html" crc="3924435452" seo="true" mt="1519127671145" redirect="true"/>
-  <file name="boss-inc.html" crc="326552362" seo="true" mt="1519127655718" redirect="true"/>
-  <file name="digital.html" crc="4089269537" seo="true" mt="1519127655718" redirect="true"/>
-  <file name="terminus-of-reverie.html" crc="295458183" seo="true" mt="1519127655718" redirect="true"/>
-  <file name="ibm-watson.html" crc="4108988652" seo="true" mt="1519127655718" redirect="true"/>
-  <file name="discovery-doors.html" crc="193361314" seo="true" mt="1519127655718" redirect="true"/>
-  <file name="tom-s.html" crc="443363896" seo="true" mt="1519127655718" redirect="true"/>
-  <file name="nesquik.html" crc="4038131538" seo="true" mt="1519127655718" redirect="true"/>
-  <file name="about.html" crc="4108921301" seo="true" mt="1519127655718" redirect="true"/>
-  <file name="ux---code.html" crc="4260277317" seo="true" mt="1519127655718" redirect="true"/>
-  <file name="adverator.html" crc="406118763" seo="true" mt="1519127655718" redirect="true"/>
-  <file name="authorimpression.html" crc="4023329156" seo="true" mt="1519127655718" redirect="true"/>
-  <file name="nintendogs-vr.html" crc="4084294627" seo="true" mt="1519127655718" redirect="true"/>
-  <file name="sparky-ux.html" crc="502312207" seo="true" mt="1519127655718" redirect="true"/>
-  <file name="hourai-teahouse-website.html" crc="4109899643" seo="true" mt="1519127655718" redirect="true"/>
+  <file name="index.html" crc="220980095" seo="true" mt="1519129965855" redirect="true"/>
+  <file name="jnto-kimono.html" crc="4171247944" seo="true" mt="1519129965855" redirect="true"/>
+  <file name="smt.html" crc="3877066167" seo="true" mt="1519129965855" redirect="true"/>
+  <file name="adobe-creative-cloud.html" crc="3986861482" seo="true" mt="1519129965855" redirect="true"/>
+  <file name="illustration.html" crc="3859322261" seo="true" mt="1519129992270" redirect="true"/>
+  <file name="character-devlopment.html" crc="152433952" seo="true" mt="1519129965855" redirect="true"/>
+  <file name="guardians.html" crc="190155508" seo="true" mt="1519129965855" redirect="true"/>
+  <file name="clash-of-fates.html" crc="3805659931" seo="true" mt="1519129965855" redirect="true"/>
+  <file name="gates-of-design.html" crc="3766690068" seo="true" mt="1519129965855" redirect="true"/>
+  <file name="reapers.html" crc="374334574" seo="true" mt="1519130011702" redirect="true"/>
+  <file name="boss-inc.html" crc="3846289378" seo="true" mt="1519129965855" redirect="true"/>
+  <file name="digital.html" crc="84652338" seo="true" mt="1519129965855" redirect="true"/>
+  <file name="terminus-of-reverie.html" crc="3899624859" seo="true" mt="1519129965855" redirect="true"/>
+  <file name="ibm-watson.html" crc="168947503" seo="true" mt="1519129965855" redirect="true"/>
+  <file name="discovery-doors.html" crc="3985722133" seo="true" mt="1519129965855" redirect="true"/>
+  <file name="tom-s.html" crc="3896832163" seo="true" mt="1519129965855" redirect="true"/>
+  <file name="nesquik.html" crc="3868981321" seo="true" mt="1519129965855" redirect="true"/>
+  <file name="about.html" crc="3851371628" seo="true" mt="1519129965855" redirect="true"/>
+  <file name="ux---code.html" crc="123149107" seo="true" mt="1519129965855" redirect="true"/>
+  <file name="adverator.html" crc="518512303" seo="true" mt="1519129965855" redirect="true"/>
+  <file name="authorimpression.html" crc="3885115202" seo="true" mt="1519129965855" redirect="true"/>
+  <file name="nintendogs-vr.html" crc="401361181" seo="true" mt="1519129965855" redirect="true"/>
+  <file name="sparky-ux.html" crc="84725153" seo="true" mt="1519129965855" redirect="true"/>
+  <file name="hourai-teahouse-website.html" crc="116987512" seo="true" mt="1519129965855" redirect="true"/>
 </manifest>
