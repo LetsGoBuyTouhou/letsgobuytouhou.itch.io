@@ -1,56 +1,56 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://www.tomorrowwillbesunny.com" resolutions="1x,2x" timestamp="1519133307372">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://www.tomorrowwillbesunny.com" resolutions="1x,2x" timestamp="1519212591614">
   <folder name="css">
     <file name="site_global.css" crc="3980088982"/>
-    <file name="master_a-master-copy-2.css" crc="4170935157" ref="adverator:adobe-creative-cloud:authorimpression:tom-s:illustration:discovery-doors:character-devlopment:boss-inc:sparky-ux:nintendogs-vr:hourai-teahouse-website:nesquik:about:gates-of-design:guardians:clash-of-fates:digital:reapers:ux---code:index:terminus-of-reverie:jnto-kimono:ibm-watson:smt"/>
-    <file name="nomq_preview_master_a-master-copy-2.css" crc="11297508" ref="adverator:adobe-creative-cloud:authorimpression:tom-s:illustration:discovery-doors:character-devlopment:boss-inc:sparky-ux:nintendogs-vr:hourai-teahouse-website:nesquik:about:gates-of-design:guardians:clash-of-fates:digital:reapers:ux---code:index:terminus-of-reverie:jnto-kimono:ibm-watson:smt"/>
-    <file name="adverator.css" crc="193" ref="adverator"/>
-    <file name="nomq_adverator.css" crc="4115005734" ref="adverator"/>
-    <file name="adobe-creative-cloud.css" crc="28504524" ref="adobe-creative-cloud"/>
-    <file name="nomq_adobe-creative-cloud.css" crc="32819027" ref="adobe-creative-cloud"/>
-    <file name="authorimpression.css" crc="3772753148" ref="authorimpression"/>
+    <file name="master_a-master-copy-2.css" crc="3771485775" ref="authorimpression:adobe-creative-cloud:nintendogs-vr:ibm-watson:sparky-ux:terminus-of-reverie:discovery-doors:illustration:jnto-kimono:tom-s:character-devlopment:nesquik:smt:index:guardians:about:clash-of-fates:reapers:gates-of-design:hourai-teahouse-website:boss-inc:ux---code:digital:adverator"/>
+    <file name="nomq_preview_master_a-master-copy-2.css" crc="191958723" ref="authorimpression:adobe-creative-cloud:nintendogs-vr:ibm-watson:sparky-ux:terminus-of-reverie:discovery-doors:illustration:jnto-kimono:tom-s:character-devlopment:nesquik:smt:index:guardians:about:clash-of-fates:reapers:gates-of-design:hourai-teahouse-website:boss-inc:ux---code:digital:adverator"/>
+    <file name="authorimpression.css" crc="4104820742" ref="authorimpression"/>
     <file name="nomq_authorimpression.css" crc="3938020491" ref="authorimpression"/>
-    <file name="tom-s.css" crc="3922120606" ref="tom-s"/>
-    <file name="nomq_tom-s.css" crc="223606833" ref="tom-s"/>
-    <file name="illustration.css" crc="3837073026" ref="illustration"/>
-    <file name="nomq_illustration.css" crc="4213580072" ref="illustration"/>
-    <file name="discovery-doors.css" crc="3842552057" ref="discovery-doors"/>
-    <file name="nomq_discovery-doors.css" crc="335001253" ref="discovery-doors"/>
-    <file name="character-devlopment.css" crc="4023195092" ref="character-devlopment"/>
-    <file name="nomq_character-devlopment.css" crc="4250914204" ref="character-devlopment"/>
-    <file name="boss-inc.css" crc="4238626999" ref="boss-inc"/>
-    <file name="nomq_boss-inc.css" crc="285914602" ref="boss-inc"/>
-    <file name="sparky-ux.css" crc="3839466886" ref="sparky-ux"/>
-    <file name="nomq_sparky-ux.css" crc="4182433403" ref="sparky-ux"/>
-    <file name="nintendogs-vr.css" crc="280938016" ref="nintendogs-vr"/>
+    <file name="adobe-creative-cloud.css" crc="4244970572" ref="adobe-creative-cloud"/>
+    <file name="nomq_adobe-creative-cloud.css" crc="32819027" ref="adobe-creative-cloud"/>
+    <file name="nintendogs-vr.css" crc="261645244" ref="nintendogs-vr"/>
     <file name="nomq_nintendogs-vr.css" crc="249452224" ref="nintendogs-vr"/>
-    <file name="hourai-teahouse-website.css" crc="3842529400" ref="hourai-teahouse-website"/>
-    <file name="nomq_hourai-teahouse-website.css" crc="511542432" ref="hourai-teahouse-website"/>
-    <file name="nesquik.css" crc="372573622" ref="nesquik"/>
-    <file name="nomq_nesquik.css" crc="398293968" ref="nesquik"/>
-    <file name="about.css" crc="346856097" ref="about"/>
-    <file name="nomq_about.css" crc="265949646" ref="about"/>
-    <file name="gates-of-design.css" crc="4272516031" ref="gates-of-design"/>
-    <file name="nomq_gates-of-design.css" crc="310163220" ref="gates-of-design"/>
-    <file name="guardians.css" crc="4245827081" ref="guardians"/>
-    <file name="nomq_guardians.css" crc="251676347" ref="guardians"/>
-    <file name="clash-of-fates.css" crc="3841775348" ref="clash-of-fates"/>
-    <file name="nomq_clash-of-fates.css" crc="3823359898" ref="clash-of-fates"/>
-    <file name="digital.css" crc="4127399552" ref="digital"/>
-    <file name="nomq_digital.css" crc="4242392819" ref="digital"/>
-    <file name="reapers.css" crc="30652017" ref="reapers"/>
-    <file name="nomq_reapers.css" crc="4109151039" ref="reapers"/>
-    <file name="ux---code.css" crc="3846096093" ref="ux---code"/>
-    <file name="nomq_ux---code.css" crc="3929614603" ref="ux---code"/>
-    <file name="index.css" crc="355403188" ref="index"/>
-    <file name="nomq_index.css" crc="425951229" ref="index"/>
-    <file name="terminus-of-reverie.css" crc="4058234675" ref="terminus-of-reverie"/>
-    <file name="nomq_terminus-of-reverie.css" crc="4196092446" ref="terminus-of-reverie"/>
-    <file name="jnto-kimono.css" crc="3862255987" ref="jnto-kimono"/>
-    <file name="nomq_jnto-kimono.css" crc="130919928" ref="jnto-kimono"/>
-    <file name="ibm-watson.css" crc="3932568211" ref="ibm-watson"/>
+    <file name="ibm-watson.css" crc="462447274" ref="ibm-watson"/>
     <file name="nomq_ibm-watson.css" crc="4115006843" ref="ibm-watson"/>
-    <file name="smt.css" crc="3941955203" ref="smt"/>
+    <file name="sparky-ux.css" crc="188793663" ref="sparky-ux"/>
+    <file name="nomq_sparky-ux.css" crc="4182433403" ref="sparky-ux"/>
+    <file name="terminus-of-reverie.css" crc="283409918" ref="terminus-of-reverie"/>
+    <file name="nomq_terminus-of-reverie.css" crc="4196092446" ref="terminus-of-reverie"/>
+    <file name="discovery-doors.css" crc="3765544721" ref="discovery-doors"/>
+    <file name="nomq_discovery-doors.css" crc="335001253" ref="discovery-doors"/>
+    <file name="illustration.css" crc="356800299" ref="illustration"/>
+    <file name="nomq_illustration.css" crc="3865431208" ref="illustration"/>
+    <file name="jnto-kimono.css" crc="3814387457" ref="jnto-kimono"/>
+    <file name="nomq_jnto-kimono.css" crc="130919928" ref="jnto-kimono"/>
+    <file name="tom-s.css" crc="3836876729" ref="tom-s"/>
+    <file name="nomq_tom-s.css" crc="223606833" ref="tom-s"/>
+    <file name="character-devlopment.css" crc="4017380708" ref="character-devlopment"/>
+    <file name="nomq_character-devlopment.css" crc="4250914204" ref="character-devlopment"/>
+    <file name="nesquik.css" crc="139856513" ref="nesquik"/>
+    <file name="nomq_nesquik.css" crc="398293968" ref="nesquik"/>
+    <file name="smt.css" crc="232428645" ref="smt"/>
     <file name="nomq_smt.css" crc="3974983155" ref="smt"/>
+    <file name="index.css" crc="3943450669" ref="index"/>
+    <file name="nomq_index.css" crc="425951229" ref="index"/>
+    <file name="guardians.css" crc="177209255" ref="guardians"/>
+    <file name="nomq_guardians.css" crc="251676347" ref="guardians"/>
+    <file name="about.css" crc="523808652" ref="about"/>
+    <file name="nomq_about.css" crc="3860758507" ref="about"/>
+    <file name="clash-of-fates.css" crc="3823647362" ref="clash-of-fates"/>
+    <file name="nomq_clash-of-fates.css" crc="3823359898" ref="clash-of-fates"/>
+    <file name="reapers.css" crc="4219323851" ref="reapers"/>
+    <file name="nomq_reapers.css" crc="4109151039" ref="reapers"/>
+    <file name="gates-of-design.css" crc="3941572997" ref="gates-of-design"/>
+    <file name="nomq_gates-of-design.css" crc="310163220" ref="gates-of-design"/>
+    <file name="hourai-teahouse-website.css" crc="49969677" ref="hourai-teahouse-website"/>
+    <file name="nomq_hourai-teahouse-website.css" crc="511542432" ref="hourai-teahouse-website"/>
+    <file name="boss-inc.css" crc="461039027" ref="boss-inc"/>
+    <file name="nomq_boss-inc.css" crc="285914602" ref="boss-inc"/>
+    <file name="ux---code.css" crc="3999199651" ref="ux---code"/>
+    <file name="nomq_ux---code.css" crc="3929614603" ref="ux---code"/>
+    <file name="digital.css" crc="132763594" ref="digital"/>
+    <file name="nomq_digital.css" crc="4242392819" ref="digital"/>
+    <file name="adverator.css" crc="448655772" ref="adverator"/>
+    <file name="nomq_adverator.css" crc="4115005734" ref="adverator"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>jnto-kimono:phone>shin-megami-tensei:phone>adobe-creative-cloud:phone>illustration:phone>ux---code:phone>design:phone>character-development:phone>terminus-of-reverie:phone>discovery:phone>ibm-watson:phone>tom-s:phone>nesquik:phone>authorimpression:phone>sparky-ux:phone>adverator:phone>nintendogs-vr:phone>about:phone>hourai-teahouse:index:jnto-kimono:smt:adobe-creative-cloud:illustration:character-devlopment:guardians:clash-of-fates:gates-of-design:reapers:boss-inc:digital:terminus-of-reverie:ibm-watson:discovery-doors:tom-s:nesquik:about:ux---code:adverator:authorimpression:nintendogs-vr:sparky-ux:hourai-teahouse-website"/>
@@ -455,10 +455,10 @@
     <file name="oksana_2x.png" crc="3879996677" seo="true" ref="phone>illustration">
       <caption webpage="illustration" alt=""/>
     </file>
-    <file name="vaporeon380x187.png" crc="197194242" seo="true" ref="phone>illustration">
+    <file name="vaporeon380x187.png" crc="4271694867" seo="true" ref="phone>illustration">
       <caption webpage="illustration" alt=""/>
     </file>
-    <file name="vaporeon380x187_2x.png" crc="4217931074" seo="true" ref="phone>illustration">
+    <file name="vaporeon380x187_2x.png" crc="3861325146" seo="true" ref="phone>illustration">
       <caption webpage="illustration" alt=""/>
     </file>
     <file name="doremy sweet-crop-u80578.png" crc="4283567961" seo="true" ref="phone>illustration">
@@ -712,21 +712,21 @@
     </file>
     <file name="vending-machine.gif" crc="322205428" seo="true" ref="phone>design:phone>nesquik:digital">
       <caption webpage="design" alt=""/>
+      <caption webpage="digital" alt=""/>
+      <caption webpage="digital" alt=""/>
+      <caption webpage="digital" alt=""/>
+      <caption webpage="digital" alt=""/>
+      <caption webpage="digital" alt=""/>
       <caption webpage="nesquik" alt=""/>
-      <caption webpage="digital" alt=""/>
-      <caption webpage="digital" alt=""/>
-      <caption webpage="digital" alt=""/>
-      <caption webpage="digital" alt=""/>
-      <caption webpage="digital" alt=""/>
     </file>
     <file name="vending-machine_2x.gif" crc="322205428" seo="true" ref="phone>design:phone>nesquik:digital">
       <caption webpage="design" alt=""/>
+      <caption webpage="digital" alt=""/>
+      <caption webpage="digital" alt=""/>
+      <caption webpage="digital" alt=""/>
+      <caption webpage="digital" alt=""/>
+      <caption webpage="digital" alt=""/>
       <caption webpage="nesquik" alt=""/>
-      <caption webpage="digital" alt=""/>
-      <caption webpage="digital" alt=""/>
-      <caption webpage="digital" alt=""/>
-      <caption webpage="digital" alt=""/>
-      <caption webpage="digital" alt=""/>
     </file>
     <file name="website-02.png" crc="3783007330" seo="true" ref="phone>design:digital">
       <caption webpage="design" alt=""/>
@@ -786,22 +786,22 @@
       <caption webpage="boss-inc" alt=""/>
       <caption webpage="boss-inc" alt=""/>
       <caption webpage="boss-inc" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="character-development" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
     </file>
     <file name="cooper 02_2x.gif" crc="281444982" seo="true" ref="phone>character-development:phone>terminus-of-reverie:terminus-of-reverie">
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="character-development" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
     </file>
     <file name="tyche174x236.png" crc="4664934" seo="true" ref="phone>character-development">
       <caption webpage="character-development" alt=""/>
@@ -882,17 +882,17 @@
       <caption webpage="terminus-of-reverie" alt=""/>
     </file>
     <file name="sandra 02.gif" crc="345650752" seo="true" ref="phone>terminus-of-reverie:boss-inc:terminus-of-reverie">
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="boss-inc" alt=""/>
       <caption webpage="boss-inc" alt=""/>
       <caption webpage="boss-inc" alt=""/>
       <caption webpage="boss-inc" alt=""/>
       <caption webpage="boss-inc" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
     </file>
     <file name="sandra 02_2x.gif" crc="345650752" seo="true" ref="phone>terminus-of-reverie:terminus-of-reverie">
       <caption webpage="terminus-of-reverie" alt=""/>
@@ -903,17 +903,17 @@
       <caption webpage="terminus-of-reverie" alt=""/>
     </file>
     <file name="catarina_anim.gif" crc="324885866" seo="true" ref="phone>terminus-of-reverie:boss-inc:terminus-of-reverie">
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="boss-inc" alt=""/>
       <caption webpage="boss-inc" alt=""/>
       <caption webpage="boss-inc" alt=""/>
       <caption webpage="boss-inc" alt=""/>
       <caption webpage="boss-inc" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
     </file>
     <file name="catarina_anim_2x.gif" crc="324885866" seo="true" ref="phone>terminus-of-reverie:terminus-of-reverie">
       <caption webpage="terminus-of-reverie" alt=""/>
@@ -924,17 +924,17 @@
       <caption webpage="terminus-of-reverie" alt=""/>
     </file>
     <file name="copper 04.gif" crc="67318864" seo="true" ref="phone>terminus-of-reverie:boss-inc:terminus-of-reverie">
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="boss-inc" alt=""/>
       <caption webpage="boss-inc" alt=""/>
       <caption webpage="boss-inc" alt=""/>
       <caption webpage="boss-inc" alt=""/>
       <caption webpage="boss-inc" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
     </file>
     <file name="copper 04_2x.gif" crc="67318864" seo="true" ref="phone>terminus-of-reverie:terminus-of-reverie">
       <caption webpage="terminus-of-reverie" alt=""/>
@@ -945,17 +945,17 @@
       <caption webpage="terminus-of-reverie" alt=""/>
     </file>
     <file name="catalin_anim.gif" crc="3760951130" seo="true" ref="phone>terminus-of-reverie:boss-inc:terminus-of-reverie">
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="boss-inc" alt=""/>
       <caption webpage="boss-inc" alt=""/>
       <caption webpage="boss-inc" alt=""/>
       <caption webpage="boss-inc" alt=""/>
       <caption webpage="boss-inc" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
     </file>
     <file name="catalin_anim_2x.gif" crc="3760951130" seo="true" ref="phone>terminus-of-reverie:terminus-of-reverie">
       <caption webpage="terminus-of-reverie" alt=""/>
@@ -966,17 +966,17 @@
       <caption webpage="terminus-of-reverie" alt=""/>
     </file>
     <file name="sparky-main_00000.gif" crc="484828514" seo="true" ref="phone>terminus-of-reverie:boss-inc:terminus-of-reverie">
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
+      <caption webpage="terminus-of-reverie" alt=""/>
       <caption webpage="boss-inc" alt=""/>
       <caption webpage="boss-inc" alt=""/>
       <caption webpage="boss-inc" alt=""/>
       <caption webpage="boss-inc" alt=""/>
       <caption webpage="boss-inc" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
-      <caption webpage="terminus-of-reverie" alt=""/>
     </file>
     <file name="sparky-main_00000_2x.gif" crc="484828514" seo="true" ref="phone>terminus-of-reverie">
       <caption webpage="terminus-of-reverie" alt=""/>
@@ -1129,7 +1129,7 @@
     <file name="billboard1_womansigning-crop-u222178.png" crc="373796683" seo="true" ref="phone>tom-s">
       <caption webpage="tom-s" alt=""/>
     </file>
-    <file name="billboard1_womansigning-crop-u222178_2x.png" crc="3941903851" seo="true" ref="phone>tom-s">
+    <file name="billboard1_womansigning-crop-u222178_2x.png" crc="3867541484" seo="true" ref="phone>tom-s">
       <caption webpage="tom-s" alt=""/>
     </file>
     <file name="twitter feed mobile images-u194093.png" crc="4094352508" ref="phone>tom-s"/>
@@ -1458,7 +1458,7 @@
     <file name="nintendogs vr 208-crop-u369132.png" crc="3798591559" seo="true" ref="phone>nintendogs-vr">
       <caption webpage="nintendogs-vr" alt=""/>
     </file>
-    <file name="nintendogs vr 208-crop-u369132_2x.png" crc="3964034151" seo="true" ref="phone>nintendogs-vr">
+    <file name="nintendogs vr 208-crop-u369132_2x.png" crc="4060445102" seo="true" ref="phone>nintendogs-vr">
       <caption webpage="nintendogs-vr" alt=""/>
     </file>
     <file name="20170623_032751381x325.jpg" crc="185700003" seo="true" ref="phone>nintendogs-vr">
@@ -3119,17 +3119,6 @@
     </file>
     <file name="hades_bw-u527659-fr.png" crc="4076703232" ref="illustration"/>
     <file name="hades_bw-u527659-fr_2x.png" crc="170930101" ref="illustration"/>
-    <file name="on the other side of the border, through the stained glass 2-u527669-fr.png" crc="4027013615" ref="illustration"/>
-    <file name="on the other side of the border, through the stained glass 2-u527669-fr_2x.png" crc="4108718022" ref="illustration"/>
-    <file name="dragon-s water girl-u527709-fr.png" crc="3937776789" ref="illustration"/>
-    <file name="dragon-s water girl-u527709-fr_2x.png" crc="499239508" ref="illustration"/>
-    <file name="playground-u527722-fr.png" crc="4286349641" ref="illustration"/>
-    <file name="shinki295x251.png" crc="4013750019" seo="true" ref="illustration">
-      <caption webpage="illustration" alt=""/>
-    </file>
-    <file name="shinki295x251_2x.png" crc="283309440" seo="true" ref="illustration">
-      <caption webpage="illustration" alt=""/>
-    </file>
     <file name="leona-recovered.png" crc="3836260349" ref="illustration">
       <caption webpage="illustration" alt=""/>
     </file>
@@ -3142,8 +3131,19 @@
     <file name="empire of spirit_2x.png" crc="128919742" ref="illustration">
       <caption webpage="illustration" alt=""/>
     </file>
-    <file name="vaporeon-u527963-fr.png" crc="4084153153" ref="illustration"/>
-    <file name="vaporeon-u527963-fr_2x.png" crc="3954444426" ref="illustration"/>
+    <file name="playground-u527722-fr.png" crc="4286349641" ref="illustration"/>
+    <file name="dragon-s water girl-u527709-fr.png" crc="3937776789" ref="illustration"/>
+    <file name="dragon-s water girl-u527709-fr_2x.png" crc="499239508" ref="illustration"/>
+    <file name="on the other side of the border, through the stained glass 2-u527669-fr.png" crc="4027013615" ref="illustration"/>
+    <file name="on the other side of the border, through the stained glass 2-u527669-fr_2x.png" crc="4108718022" ref="illustration"/>
+    <file name="shinki295x251.png" crc="4013750019" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="shinki295x251_2x.png" crc="283309440" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="vaporeon-u527963-fr.png" crc="293702298" ref="illustration"/>
+    <file name="vaporeon-u527963-fr_2x.png" crc="4236192448" ref="illustration"/>
     <file name="patchouli.png" crc="98424599" ref="illustration">
       <caption webpage="illustration" alt=""/>
     </file>
@@ -3170,19 +3170,19 @@
     </file>
     <file name="hades_bw-u527659-fr2.png" crc="3809802811" ref="illustration"/>
     <file name="hades_bw-u527659-fr_2x2.png" crc="4198575726" ref="illustration"/>
-    <file name="on the other side of the border, through the stained glass 2-u527669-fr2.png" crc="507172423" ref="illustration"/>
-    <file name="on the other side of the border, through the stained glass 2-u527669-fr_2x2.png" crc="4271584398" ref="illustration"/>
+    <file name="playground-u527722-fr2.png" crc="114182373" ref="illustration"/>
     <file name="dragon-s water girl-u527709-fr2.png" crc="4082058135" ref="illustration"/>
     <file name="dragon-s water girl-u527709-fr_2x2.png" crc="3761669363" ref="illustration"/>
-    <file name="playground-u527722-fr2.png" crc="114182373" ref="illustration"/>
+    <file name="on the other side of the border, through the stained glass 2-u527669-fr2.png" crc="507172423" ref="illustration"/>
+    <file name="on the other side of the border, through the stained glass 2-u527669-fr_2x2.png" crc="4271584398" ref="illustration"/>
     <file name="shinki249x212.png" crc="4125666320" seo="true" ref="illustration">
       <caption webpage="illustration" alt=""/>
     </file>
     <file name="shinki249x212_2x.png" crc="306246544" seo="true" ref="illustration">
       <caption webpage="illustration" alt=""/>
     </file>
-    <file name="vaporeon-u527963-fr2.png" crc="276595045" ref="illustration"/>
-    <file name="vaporeon-u527963-fr_2x2.png" crc="83270826" ref="illustration"/>
+    <file name="vaporeon-u527963-fr2.png" crc="3842096713" ref="illustration"/>
+    <file name="vaporeon-u527963-fr_2x2.png" crc="118433769" ref="illustration"/>
     <file name="doremy sweet-crop-u5276273.png" crc="3852050784" seo="true" ref="illustration">
       <caption webpage="illustration" alt=""/>
     </file>
@@ -3191,23 +3191,23 @@
     </file>
     <file name="hades_bw-u527659-fr3.png" crc="480553302" ref="illustration"/>
     <file name="hades_bw-u527659-fr_2x3.png" crc="4117018958" ref="illustration"/>
-    <file name="on the other side of the border, through the stained glass 2-u527669-fr3.png" crc="4139627608" ref="illustration"/>
-    <file name="on the other side of the border, through the stained glass 2-u527669-fr_2x3.png" crc="183587546" ref="illustration"/>
+    <file name="leona-recovered-u527740-fr.png" crc="4064058726" ref="illustration"/>
+    <file name="leona-recovered-u527740-fr_2x.png" crc="282766636" ref="illustration"/>
+    <file name="empire of spirit-u527958-fr.png" crc="4065829816" ref="illustration"/>
+    <file name="empire of spirit-u527958-fr_2x.png" crc="4152790595" ref="illustration"/>
+    <file name="playground-u527722-fr3.png" crc="4287219032" ref="illustration"/>
     <file name="dragon-s water girl-u527709-fr3.png" crc="496413734" ref="illustration"/>
     <file name="dragon-s water girl-u527709-fr_2x3.png" crc="4259542185" ref="illustration"/>
-    <file name="playground-u527722-fr3.png" crc="4287219032" ref="illustration"/>
+    <file name="on the other side of the border, through the stained glass 2-u527669-fr3.png" crc="4139627608" ref="illustration"/>
+    <file name="on the other side of the border, through the stained glass 2-u527669-fr_2x3.png" crc="183587546" ref="illustration"/>
     <file name="shinki224x191.png" crc="4055050366" seo="true" ref="illustration">
       <caption webpage="illustration" alt=""/>
     </file>
     <file name="shinki224x191_2x.png" crc="408357748" seo="true" ref="illustration">
       <caption webpage="illustration" alt=""/>
     </file>
-    <file name="leona-recovered-u527740-fr.png" crc="4064058726" ref="illustration"/>
-    <file name="leona-recovered-u527740-fr_2x.png" crc="282766636" ref="illustration"/>
-    <file name="empire of spirit-u527958-fr.png" crc="4065829816" ref="illustration"/>
-    <file name="empire of spirit-u527958-fr_2x.png" crc="4152790595" ref="illustration"/>
-    <file name="vaporeon-u527963-fr3.png" crc="131648693" ref="illustration"/>
-    <file name="vaporeon-u527963-fr_2x3.png" crc="84013776" ref="illustration"/>
+    <file name="vaporeon-u527963-fr3.png" crc="312334576" ref="illustration"/>
+    <file name="vaporeon-u527963-fr_2x3.png" crc="4261118601" ref="illustration"/>
     <file name="patchouli-u527993-fr.png" crc="4222008998" ref="illustration"/>
     <file name="patchouli-u527993-fr_2x.png" crc="3804686813" ref="illustration"/>
     <file name="oksana-u527998-fr.png" crc="421188302" ref="illustration"/>
@@ -3222,23 +3222,23 @@
     </file>
     <file name="hades_bw-u527659-fr4.png" crc="358385698" ref="illustration"/>
     <file name="hades_bw-u527659-fr_2x4.png" crc="216517587" ref="illustration"/>
-    <file name="on the other side of the border, through the stained glass 2-u527669-fr4.png" crc="279295265" ref="illustration"/>
-    <file name="on the other side of the border, through the stained glass 2-u527669-fr_2x4.png" crc="3917184176" ref="illustration"/>
+    <file name="leona-recovered-u527740-fr2.png" crc="58377749" ref="illustration"/>
+    <file name="leona-recovered-u527740-fr_2x2.png" crc="51844417" ref="illustration"/>
+    <file name="empire of spirit-u527958-fr2.png" crc="3794987059" ref="illustration"/>
+    <file name="empire of spirit-u527958-fr_2x2.png" crc="248298947" ref="illustration"/>
+    <file name="playground-u527722-fr4.png" crc="3770931515" ref="illustration"/>
     <file name="dragon-s water girl-u527709-fr4.png" crc="237120038" ref="illustration"/>
     <file name="dragon-s water girl-u527709-fr_2x4.png" crc="17244202" ref="illustration"/>
-    <file name="playground-u527722-fr4.png" crc="3770931515" ref="illustration"/>
+    <file name="on the other side of the border, through the stained glass 2-u527669-fr4.png" crc="279295265" ref="illustration"/>
+    <file name="on the other side of the border, through the stained glass 2-u527669-fr_2x4.png" crc="3917184176" ref="illustration"/>
     <file name="shinki180x154.png" crc="340311513" seo="true" ref="illustration">
       <caption webpage="illustration" alt=""/>
     </file>
     <file name="shinki180x154_2x.png" crc="3959034579" seo="true" ref="illustration">
       <caption webpage="illustration" alt=""/>
     </file>
-    <file name="leona-recovered-u527740-fr2.png" crc="58377749" ref="illustration"/>
-    <file name="leona-recovered-u527740-fr_2x2.png" crc="51844417" ref="illustration"/>
-    <file name="empire of spirit-u527958-fr2.png" crc="3794987059" ref="illustration"/>
-    <file name="empire of spirit-u527958-fr_2x2.png" crc="248298947" ref="illustration"/>
-    <file name="vaporeon-u527963-fr4.png" crc="69298730" ref="illustration"/>
-    <file name="vaporeon-u527963-fr_2x4.png" crc="351940995" ref="illustration"/>
+    <file name="vaporeon-u527963-fr4.png" crc="4178110595" ref="illustration"/>
+    <file name="vaporeon-u527963-fr_2x4.png" crc="172916552" ref="illustration"/>
     <file name="patchouli-u527993-fr2.png" crc="3803772415" ref="illustration"/>
     <file name="patchouli-u527993-fr_2x2.png" crc="192036781" ref="illustration"/>
     <file name="oksana-u527998-fr2.png" crc="4247919056" ref="illustration"/>
@@ -3255,6 +3255,12 @@
     <file name="hades_bw-u527659-fr_2x5.png" crc="326903876" ref="illustration"/>
     <file name="on the other side of the border, through the stained glass 2-u527669-fr5.png" crc="273718111" ref="illustration"/>
     <file name="on the other side of the border, through the stained glass 2-u527669-fr_2x5.png" crc="268168504" ref="illustration"/>
+    <file name="leona-recovered-u527740-fr3.png" crc="3928698207" ref="illustration"/>
+    <file name="leona-recovered-u527740-fr_2x3.png" crc="4227627243" ref="illustration"/>
+    <file name="empire of spirit-u527958-fr3.png" crc="3873943234" ref="illustration"/>
+    <file name="empire of spirit-u527958-fr_2x3.png" crc="3774568646" ref="illustration"/>
+    <file name="vaporeon-u527963-fr5.png" crc="441989727" ref="illustration"/>
+    <file name="vaporeon-u527963-fr_2x5.png" crc="3828011704" ref="illustration"/>
     <file name="playground-u527722-fr5.png" crc="159726998" ref="illustration"/>
     <file name="dragon-s water girl-u527709-fr5.png" crc="443125100" ref="illustration"/>
     <file name="dragon-s water girl-u527709-fr_2x5.png" crc="4013256844" ref="illustration"/>
@@ -3264,12 +3270,6 @@
     <file name="shinki146x124_2x.png" crc="282974908" seo="true" ref="illustration">
       <caption webpage="illustration" alt=""/>
     </file>
-    <file name="leona-recovered-u527740-fr3.png" crc="3928698207" ref="illustration"/>
-    <file name="leona-recovered-u527740-fr_2x3.png" crc="4227627243" ref="illustration"/>
-    <file name="empire of spirit-u527958-fr3.png" crc="3873943234" ref="illustration"/>
-    <file name="empire of spirit-u527958-fr_2x3.png" crc="3774568646" ref="illustration"/>
-    <file name="vaporeon-u527963-fr5.png" crc="4064820370" ref="illustration"/>
-    <file name="vaporeon-u527963-fr_2x5.png" crc="302728569" ref="illustration"/>
     <file name="patchouli-u527993-fr3.png" crc="3811896608" ref="illustration"/>
     <file name="patchouli-u527993-fr_2x3.png" crc="75434480" ref="illustration"/>
     <file name="oksana-u527998-fr3.png" crc="3893124802" ref="illustration"/>
@@ -11397,71 +11397,71 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="3809913455" ref="phone>index:phone>tom-s:phone>nesquik:phone>sparky-ux:phone>jnto-kimono:phone>authorimpression:phone>shin-megami-tensei:phone>adverator:phone>adobe-creative-cloud:phone>nintendogs-vr:phone>illustration:phone>ux---code:phone>design:phone>about:phone>character-development:phone>hourai-teahouse:phone>terminus-of-reverie:phone>discovery:phone>ibm-watson"/>
-      <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="phone>index:phone>tom-s:phone>nesquik:phone>sparky-ux:phone>jnto-kimono:phone>authorimpression:phone>shin-megami-tensei:phone>adverator:phone>adobe-creative-cloud:phone>nintendogs-vr:phone>illustration:phone>ux---code:phone>design:phone>about:phone>character-development:phone>hourai-teahouse:phone>terminus-of-reverie:phone>discovery:phone>ibm-watson"/>
-      <file name="index.css" crc="306468934" ref="phone>index"/>
-      <file name="tom-s.css" crc="536028106" ref="phone>tom-s"/>
-      <file name="nesquik.css" crc="300725998" ref="phone>nesquik"/>
+      <file name="master_a-master.css" crc="518134994" ref="phone>authorimpression:phone>sparky-ux:phone>adobe-creative-cloud:phone>adverator:phone>nintendogs-vr:phone>about:phone>illustration:phone>design:phone>hourai-teahouse:phone>ux---code:phone>character-development:phone>terminus-of-reverie:phone>discovery:phone>index:phone>ibm-watson:phone>jnto-kimono:phone>tom-s:phone>shin-megami-tensei:phone>nesquik"/>
+      <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="phone>authorimpression:phone>sparky-ux:phone>adobe-creative-cloud:phone>adverator:phone>nintendogs-vr:phone>about:phone>illustration:phone>design:phone>hourai-teahouse:phone>ux---code:phone>character-development:phone>terminus-of-reverie:phone>discovery:phone>index:phone>ibm-watson:phone>jnto-kimono:phone>tom-s:phone>shin-megami-tensei:phone>nesquik"/>
+      <file name="authorimpression.css" crc="330368998" ref="phone>authorimpression"/>
       <file name="sparky-ux.css" crc="3971399800" ref="phone>sparky-ux"/>
-      <file name="jnto-kimono.css" crc="246035821" ref="phone>jnto-kimono"/>
-      <file name="authorimpression.css" crc="3902265821" ref="phone>authorimpression"/>
-      <file name="shin-megami-tensei.css" crc="3931618205" ref="phone>shin-megami-tensei"/>
+      <file name="adobe-creative-cloud.css" crc="3828893811" ref="phone>adobe-creative-cloud"/>
       <file name="adverator.css" crc="337585582" ref="phone>adverator"/>
-      <file name="adobe-creative-cloud.css" crc="4278400623" ref="phone>adobe-creative-cloud"/>
       <file name="nintendogs-vr.css" crc="4038204999" ref="phone>nintendogs-vr"/>
-      <file name="illustration.css" crc="4138912754" ref="phone>illustration"/>
-      <file name="ux---code.css" crc="10641100" ref="phone>ux---code"/>
-      <file name="design.css" crc="109602344" ref="phone>design"/>
       <file name="about.css" crc="3922915512" ref="phone>about"/>
-      <file name="character-development.css" crc="329943964" ref="phone>character-development"/>
+      <file name="illustration.css" crc="4028865241" ref="phone>illustration"/>
+      <file name="design.css" crc="4200618005" ref="phone>design"/>
       <file name="hourai-teahouse.css" crc="3763331397" ref="phone>hourai-teahouse"/>
       <file name="nomq_hourai-teahouse.css" crc="3824530138" ref="phone>hourai-teahouse"/>
-      <file name="terminus-of-reverie.css" crc="3965972507" ref="phone>terminus-of-reverie"/>
+      <file name="ux---code.css" crc="10641100" ref="phone>ux---code"/>
+      <file name="character-development.css" crc="329943964" ref="phone>character-development"/>
+      <file name="terminus-of-reverie.css" crc="3886501593" ref="phone>terminus-of-reverie"/>
       <file name="discovery.css" crc="375065105" ref="phone>discovery"/>
-      <file name="ibm-watson.css" crc="4178499128" ref="phone>ibm-watson"/>
+      <file name="index.css" crc="4001673684" ref="phone>index"/>
+      <file name="ibm-watson.css" crc="324929649" ref="phone>ibm-watson"/>
+      <file name="jnto-kimono.css" crc="4170930306" ref="phone>jnto-kimono"/>
+      <file name="tom-s.css" crc="536028106" ref="phone>tom-s"/>
+      <file name="shin-megami-tensei.css" crc="3931618205" ref="phone>shin-megami-tensei"/>
+      <file name="nesquik.css" crc="300725998" ref="phone>nesquik"/>
     </folder>
-    <file name="index.html" crc="228922893" seo="true" mt="1519129965852" redirect="true"/>
-    <file name="jnto-kimono.html" crc="4005300153" seo="true" mt="1519129965852" redirect="true"/>
-    <file name="shin-megami-tensei.html" crc="34074181" seo="true" mt="1519129965852" redirect="true"/>
-    <file name="adobe-creative-cloud.html" crc="39139515" seo="true" mt="1519129965852" redirect="true"/>
-    <file name="illustration.html" crc="3836721019" seo="true" mt="1519129980435" redirect="true"/>
-    <file name="ux---code.html" crc="495898842" seo="true" mt="1519129965852" redirect="true"/>
-    <file name="design.html" crc="234999059" seo="true" mt="1519129965852" redirect="true"/>
-    <file name="character-development.html" crc="4005049535" seo="true" mt="1519129965852" redirect="true"/>
-    <file name="terminus-of-reverie.html" crc="4180132819" seo="true" mt="1519129965852" redirect="true"/>
-    <file name="discovery.html" crc="4006627222" seo="true" mt="1519129965852" redirect="true"/>
-    <file name="ibm-watson.html" crc="437482610" seo="true" mt="1519129965852" redirect="true"/>
-    <file name="tom-s.html" crc="3838364809" seo="true" mt="1519129965852" redirect="true"/>
-    <file name="nesquik.html" crc="4241137749" seo="true" mt="1519129965852" redirect="true"/>
-    <file name="authorimpression.html" crc="441582348" seo="true" mt="1519129965852" redirect="true"/>
-    <file name="sparky-ux.html" crc="10909125" seo="true" mt="1519129965852" redirect="true"/>
-    <file name="adverator.html" crc="87122877" seo="true" mt="1519129965852" redirect="true"/>
-    <file name="nintendogs-vr.html" crc="316611837" seo="true" mt="1519129965852" redirect="true"/>
-    <file name="about.html" crc="4045093629" seo="true" mt="1519129965852" redirect="true"/>
-    <file name="hourai-teahouse.html" crc="3763426590" seo="true" mt="1519129965852" redirect="true"/>
+    <file name="index.html" crc="489133474" seo="true" mt="1519129965852" redirect="true"/>
+    <file name="jnto-kimono.html" crc="3978119572" seo="true" mt="1519129965852" redirect="true"/>
+    <file name="shin-megami-tensei.html" crc="4220444783" seo="true" mt="1519129965852" redirect="true"/>
+    <file name="adobe-creative-cloud.html" crc="3849879419" seo="true" mt="1519129965852" redirect="true"/>
+    <file name="illustration.html" crc="4143418049" seo="true" mt="1519129980435" redirect="true"/>
+    <file name="ux---code.html" crc="4152591141" seo="true" mt="1519129965852" redirect="true"/>
+    <file name="design.html" crc="3859102884" seo="true" mt="1519129965852" redirect="true"/>
+    <file name="character-development.html" crc="3965668882" seo="true" mt="1519129965852" redirect="true"/>
+    <file name="terminus-of-reverie.html" crc="3906795503" seo="true" mt="1519129965852" redirect="true"/>
+    <file name="discovery.html" crc="126574683" seo="true" mt="1519129965852" redirect="true"/>
+    <file name="ibm-watson.html" crc="3790940286" seo="true" mt="1519129965852" redirect="true"/>
+    <file name="tom-s.html" crc="125389764" seo="true" mt="1519129965852" redirect="true"/>
+    <file name="nesquik.html" crc="4176482882" seo="true" mt="1519129965852" redirect="true"/>
+    <file name="authorimpression.html" crc="187987071" seo="true" mt="1519129965852" redirect="true"/>
+    <file name="sparky-ux.html" crc="3797069358" seo="true" mt="1519129965852" redirect="true"/>
+    <file name="adverator.html" crc="166668826" seo="true" mt="1519129965852" redirect="true"/>
+    <file name="nintendogs-vr.html" crc="3985071397" seo="true" mt="1519129965852" redirect="true"/>
+    <file name="about.html" crc="4265643067" seo="true" mt="1519129965852" redirect="true"/>
+    <file name="hourai-teahouse.html" crc="361120947" seo="true" mt="1519129965852" redirect="true"/>
   </folder>
-  <file name="index.html" crc="536062864" seo="true" mt="1519129965855" redirect="true"/>
-  <file name="jnto-kimono.html" crc="4097323448" seo="true" mt="1519129965855" redirect="true"/>
-  <file name="smt.html" crc="3984910145" seo="true" mt="1519129965855" redirect="true"/>
-  <file name="adobe-creative-cloud.html" crc="4167198680" seo="true" mt="1519129965855" redirect="true"/>
-  <file name="illustration.html" crc="3858612801" seo="true" mt="1519129992270" redirect="true"/>
-  <file name="character-devlopment.html" crc="36144675" seo="true" mt="1519129965855" redirect="true"/>
-  <file name="guardians.html" crc="162844124" seo="true" mt="1519129965855" redirect="true"/>
-  <file name="clash-of-fates.html" crc="4057572416" seo="true" mt="1519129965855" redirect="true"/>
-  <file name="gates-of-design.html" crc="176770481" seo="true" mt="1519129965855" redirect="true"/>
-  <file name="reapers.html" crc="75081991" seo="true" mt="1519130011702" redirect="true"/>
-  <file name="boss-inc.html" crc="408856501" seo="true" mt="1519129965855" redirect="true"/>
-  <file name="digital.html" crc="38129126" seo="true" mt="1519129965855" redirect="true"/>
-  <file name="terminus-of-reverie.html" crc="4271651634" seo="true" mt="1519129965855" redirect="true"/>
-  <file name="ibm-watson.html" crc="399425738" seo="true" mt="1519129965855" redirect="true"/>
-  <file name="discovery-doors.html" crc="321598559" seo="true" mt="1519129965855" redirect="true"/>
-  <file name="tom-s.html" crc="63610036" seo="true" mt="1519129965855" redirect="true"/>
-  <file name="nesquik.html" crc="4258513727" seo="true" mt="1519129965855" redirect="true"/>
-  <file name="about.html" crc="194846058" seo="true" mt="1519129965855" redirect="true"/>
-  <file name="ux---code.html" crc="334949842" seo="true" mt="1519132540827" redirect="true"/>
-  <file name="adverator.html" crc="3819968287" seo="true" mt="1519129965855" redirect="true"/>
-  <file name="authorimpression.html" crc="3852143195" seo="true" mt="1519129965855" redirect="true"/>
-  <file name="nintendogs-vr.html" crc="4181353578" seo="true" mt="1519129965855" redirect="true"/>
-  <file name="sparky-ux.html" crc="271995392" seo="true" mt="1519129965855" redirect="true"/>
-  <file name="hourai-teahouse-website.html" crc="50832010" seo="true" mt="1519129965855" redirect="true"/>
+  <file name="index.html" crc="216099350" seo="true" mt="1519129965855" redirect="true"/>
+  <file name="jnto-kimono.html" crc="3875115034" seo="true" mt="1519129965855" redirect="true"/>
+  <file name="smt.html" crc="3870538335" seo="true" mt="1519129965855" redirect="true"/>
+  <file name="adobe-creative-cloud.html" crc="204621016" seo="true" mt="1519129965855" redirect="true"/>
+  <file name="illustration.html" crc="198739310" seo="true" mt="1519211845153" redirect="true"/>
+  <file name="character-devlopment.html" crc="464316362" seo="true" mt="1519129965855" redirect="true"/>
+  <file name="guardians.html" crc="284674511" seo="true" mt="1519129965855" redirect="true"/>
+  <file name="clash-of-fates.html" crc="12091878" seo="true" mt="1519129965855" redirect="true"/>
+  <file name="gates-of-design.html" crc="227725005" seo="true" mt="1519129965855" redirect="true"/>
+  <file name="reapers.html" crc="3798497207" seo="true" mt="1519130011702" redirect="true"/>
+  <file name="boss-inc.html" crc="4194202157" seo="true" mt="1519129965855" redirect="true"/>
+  <file name="digital.html" crc="3978573022" seo="true" mt="1519129965855" redirect="true"/>
+  <file name="terminus-of-reverie.html" crc="4057172519" seo="true" mt="1519129965855" redirect="true"/>
+  <file name="ibm-watson.html" crc="4286479231" seo="true" mt="1519129965855" redirect="true"/>
+  <file name="discovery-doors.html" crc="4000265252" seo="true" mt="1519129965855" redirect="true"/>
+  <file name="tom-s.html" crc="3902579030" seo="true" mt="1519129965855" redirect="true"/>
+  <file name="nesquik.html" crc="15505489" seo="true" mt="1519129965855" redirect="true"/>
+  <file name="about.html" crc="386676680" seo="true" mt="1519211576800" redirect="true"/>
+  <file name="ux---code.html" crc="497110544" seo="true" mt="1519132540827" redirect="true"/>
+  <file name="adverator.html" crc="113538047" seo="true" mt="1519129965855" redirect="true"/>
+  <file name="authorimpression.html" crc="4095603825" seo="true" mt="1519129965855" redirect="true"/>
+  <file name="nintendogs-vr.html" crc="275673228" seo="true" mt="1519129965855" redirect="true"/>
+  <file name="sparky-ux.html" crc="3765058077" seo="true" mt="1519129965855" redirect="true"/>
+  <file name="hourai-teahouse-website.html" crc="4069092798" seo="true" mt="1519129965855" redirect="true"/>
 </manifest>
