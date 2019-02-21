@@ -1,0 +1,108 @@
+@charset "UTF-8";
+
+/* CSS Document */
+
+p {font-family: 'Open Sans', sans-serif; font-size: 14px;  color: #2b2521;}
+
+a {font-family: 'Open Sans', sans-serif; font-size: 14px; color: #2b2521;}
+    a:hover{color:red; text-decoration: underline;}
+
+h1{font-family: 'Open Sans', sans-serif;  color: #2b2521;}
+
+h2{font-family: 'Open Sans', sans-serif;  color: #2b2521;}
+
+h3{font-family: 'Open Sans', sans-serif; color: #2b2521;}
+
+.bold{font-family: 'Open Sans'; font-weight: 800;}
+
+nav {border-bottom: 7px red solid;}
+
+#mobNav{ float: right; height: 1px; overflow: hidden; width: 1px; visibility: hidden;}
+
+#artDirector{float:left; display:inline-block; margin: auto 50px; font-size: 24px; height: 200px;}
+    #artDirector p {font-size: 30px; margin-top: -10px; text-align: left;}
+
+#contactLinks {float:right; margin: auto 30px; height: 200px;}
+    #contactLinks a{display: block; margin-bottom: px;}
+
+#navLinks { margin: 50px auto; text-align: center; }
+    #navLinks a{margin:  20px 30px; display: inline-block;}
+    #navLinks a:active{text-decoration: underline;}
+
+#subnavLinks{visibility: collapse;}
+
+.active, .navLinks a{text-decoration: underline;}
+
+#mobnav{visibility:collapse; float: right; display: inline-block; width: 1px; height: 1px; overflow: hidden;}
+.mobNavLine{ visibility: hidden; background-color: red; border-radius: 5px; height: 10px; width: 40px; margin:5px;}
+
+.backBtn{visibility: hidden; height: 1px; width: 1px; overflow: hidden; display: inline-block;}
+
+.wrapper{margin: 0 auto;	padding-top:90px;}
+
+.container {margin: 0 auto; text-align: center;}
+
+.illus{text-align: center;
+    height: 300px;
+	padding: 40px;
+    display: inline-block;}
+.illus img {height:inherit; width: inherit;}
+
+.threeRowContent{
+    text-align: center;
+	width: 300px;
+    height: 200px;
+	padding: 10px 18px 60px;
+    display: inline-block;
+}
+    .threeRowContent img{width: inherit; height: inherit;}
+
+.twoRowContent{
+    text-align: center;
+	width: 300px;
+    height: 200px;
+	padding: 10px 18px 60px;
+    display: inline-block;
+}
+    .twoRowContent img {width: inherit; height: inherit;}
+
+.projName{font-weight: 400;}
+	.projName:hover{color: red;}
+.projDescription{}
+
+@media screen and (max-width: 880px){
+    #navLinks{display:block; margin: 20px auto; clear: both;}
+    #artDirector, #contactLinks{margin:  30px 20px; height: 70px; }
+}
+
+
+@media screen and (max-width: 500px){
+
+.illus{height: auto; width:90%; padding-top:  30px;; margin: 0;}
+
+ nav{position: fixed;  width:100%; background-color: white; display: block;}
+    
+
+#mobNav{visibility: visible; float: right; display: inline-block; width: 50px; height: 50px; margin: 10px 10px 30px;}
+.mobNavLine{ visibility: visible;}
+    
+    
+    #navLinks{float: right;  height: 70px;overflow: hidden; margin: 0 auto; padding: 0; clear: none; display: inline-block; z-index: 10; }
+        #navLinks a {display: block; clear: both; padding: 30px 30px; margin: 0; }
+    #navLinks:hover{height: 500px; width: 200px; }
+    
+
+    #artDirector{display: inline-block; margin: 0 0 ; padding: 10px; height: 50px; width: auto; font-size: 14px;}
+    #artDirector .bold {font-size: 17px; margin-top: -5px;}
+    
+    #contactLinks {visibility:collapse; width: 1px; height: 1px; overflow: hidden; padding: 0; margin:
+    -2000px;}
+
+    .wrapper{padding-top: 100px;}
+    
+    
+    
+}
+
+
+
