@@ -13,6 +13,8 @@ h2{font-family: 'Open Sans', sans-serif;  color: #2b2521;}
 
 h3{font-family: 'Open Sans', sans-serif; color: #2b2521;}
 
+h4{font-family: 'Open Sans', sans-serif; color: #2b2521; font-size: 14px; margin:  0 auto; padding: 0px 50px 40px; text-align: center;}
+
 .bold{font-family: 'Open Sans'; font-weight: 800;}
 
 nav {border-bottom: 7px red solid;}
@@ -48,10 +50,11 @@ nav {border-bottom: 7px red solid;}
     display: inline-block;}
 .illus img {height:inherit; width: inherit;}
 
+.midImg{height: 500px; padding: 40px; display: inline-block;}
+
 .threeRowContent{
     text-align: center;
 	width: 300px;
-    height: 200px;
 	padding: 10px 18px 60px;
     display: inline-block;
 }
@@ -60,7 +63,6 @@ nav {border-bottom: 7px red solid;}
 .twoRowContent{
     text-align: center;
 	width: 300px;
-    height: 200px;
 	padding: 10px 18px 60px;
     display: inline-block;
 }
@@ -73,10 +75,14 @@ nav {border-bottom: 7px red solid;}
 @media screen and (max-width: 880px){
     #navLinks{display:block; margin: 20px auto; clear: both;}
     #artDirector, #contactLinks{margin:  30px 20px; height: 70px; }
+    
+    .midImg{height: 300px;}
 }
 
 
 @media screen and (max-width: 500px){
+    
+    .midImg{height: auto; width:90%; padding-top:  30px;; margin: 0;}
 
 .illus{height: auto; width:90%; padding-top:  30px;; margin: 0;}
 
