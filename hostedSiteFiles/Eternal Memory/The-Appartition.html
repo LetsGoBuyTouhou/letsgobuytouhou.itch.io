@@ -1,0 +1,131 @@
+
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Eternal Memory</title>
+<link rel="stylesheet" href="code/reset.css">
+<link rel="stylesheet" href="code/Forgotten.css">
+<link href="https://fonts.googleapis.com/css?family=Gloria+Hallelujah" rel="stylesheet">
+<script src="code/jquery.min.js"></script>
+	
+</head>
+
+<body>
+	
+    
+<img class="foreground" src="assets/landscapes/fg-stateOfPastTimes.png">
+    
+<img class="landscape" src="assets/landscapes/bg-stateOfPastTimes.png">    
+
+<img class="kana kanaP1" src="assets/sprites/Kana_idle.gif">
+	
+/*<img class="echo" src="assets/graphics/exit.svg">
+    
+<div id="overworld">
+    
+<img id="kaguya" src="assets/sprites/Kaguya_idle.gif">
+</div>     
+
+
+<div id="wrapper"> 
+
+<p class="pInfo"></p>
+<div id="overlay">
+<div class="textbox inactiveBox"><p class="dia"></p></div>
+</div>
+
+</div>
+	
+<script src="gameScript.js"></script> 
+<script>
+	
+	var KanaIsActive = 1;
+	
+    kana.click(dialogue_up);
+	
+	$(".kanaP1").click(function(){
+		$(".kanaP1").addClass("activeGhost");
+		kana.removeClass("kanaP1");
+	});
+		
+	
+
+$(document).keydown(function(){
+	
+	var pCheck = $(document).scrollLeft();
+		if (KanaIsActive == 1){
+			if (pCheck < 400){kaguyaDia(); dia.text("O' spirit - Will you come with me and entertain my curiosity for a moment.")};
+	
+			if (pCheck >= 600){kanaDia();dia.text("Wait wait! Oh my, hello Miss. I guess I drifted off again. It's been happening a lot lately.")};
+			
+			if (pCheck >= 800){kanaDia();dia.text("It's been happening a lot lately.")};
+			
+			if (pCheck >= 900){kaguyaDia(); dia.text("What has brought you to this state?")};
+	
+			if (pCheck >= 1100){kanaDia(); dia.text("Spirit? Right. Right.")};
+			
+			if (pCheck >= 1200){kanaDia(); dia.text("Sort of.")};
+			
+			if (pCheck >= 1500){kanaDia(); dia.text("Poltergeists only exist from the emotions and memories of the living.")};			
+						
+			if (pCheck >= 1600){kanaDia(); dia.text("As for me, all who knew me have passed through the Yama or forgotten.")};
+			
+			if (pCheck >= 1800){kaguyaDia(); dia.text("Dead or alive - There is no killer as renouned as loneliness.")};
+			
+			if (pCheck >= 1900){kaguyaDia(); dia.text("So I've seen.")};
+			
+			if (pCheck >= 2000){kaguyaDia(); dia.text("There are those that, if only - just once-")};
+			
+			if (pCheck >= 2150){kaguyaDia(); dia.text("- someone payed them mind... ")};
+	
+			if(pCheck >= 2300){
+				kanaDia();
+				dia.text("...I don't want to go..."); kana.removeClass("activeGhost");KanaIsActive=2;
+				kana.addClass("kanaP2");
+			};
+			
+			
+			
+		};
+
+			/*kana.attr("src","")*/
+		
+			
+			if(pCheck>=2500 && KanaIsActive == 2){KanaIsActive=3; dialogue_down();}
+
+	
+	}) ;
+	
+	
+		
+		kana.click(function(){
+		if(KanaIsActive == 3) {
+			
+			dia.text("Miss - I do not know you. But can you keep me in mind a little longer?");
+				
+	
+			
+			setTimeout (function(){kaguyaDia(); dia.text("Because the stories of those people always turn out the most interesting, I like to make sure they get to live them.")}, 5000);	
+			
+			
+			setTimeout (function(){textbox.removeClass("H"); dia.text("Game End")}, 10000);
+			
+	
+		
+		}
+		});
+
+	
+	$(".echo").click(function(){
+		
+			$("#wrapper").animate({height: 0, borderWidth: 500}, 1200);
+		
+	});
+
+	
+    
+</script>
+	
+</body>
+</html>
