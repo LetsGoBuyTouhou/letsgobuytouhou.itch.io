@@ -44,6 +44,8 @@ nav {border-bottom: 7px red solid; }
 
 #subnavLinks{visibility: collapse;}
 
+.credts{margin 0 aut0;}
+
 .homeContactLinks {display: none; height: 1px; width: 1px;}
 
 .currentPage {margin: 0 auto; width: 80%;}
@@ -67,6 +69,7 @@ nav {border-bottom: 7px red solid; }
 
 .midImg, .lrgImg, .fullImg {margin: 0; padding: 10px; display: inline-block; vertical-align: top; overflow: hidden;}
     .midImg img, .lrgImg img, .fullImg img {width: 100%; height: 100%; }
+	.midImg p, .lrgImg p, .fullImg p {margin-bottom: 15px;} 
 
 .smallImg{width: 30px; height: auto;}
 
