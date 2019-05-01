@@ -15,11 +15,15 @@ h3{font-family: 'Open Sans', sans-serif; color: #2b2521;}
 
 h4{font-family: 'Open Sans', sans-serif; color: #2b2521; font-size: 14px; margin:  0 auto; padding: 0px 50px 40px; text-align: center;}
 
-.pageInfo{margin: 0 auto; text-align: center; margin: 0 0 30px;}
+.pageInfo{margin: 0 auto; text-align: center; margin: 0 0 30px; max-width: 800px;}
+
+.credts{margin: -20 auto 30; text-align: center; display: block; margin-top: -30px;}
+	.credits p {text-align: center;}
+
 
 .wrapper{margin: 0 auto; padding: 90px 0; width: 90%;}
 
-.container {margin: 0 auto; text-align: center; width: 100%;}
+.container {margin: 0 auto; text-align: center; width: 100%; margin-top: 20px;}
 
 .bold{font-family: 'Open Sans'; font-weight: 800;}
 
@@ -44,7 +48,6 @@ nav {border-bottom: 7px red solid; }
 
 #subnavLinks{visibility: collapse;}
 
-.credts{margin 0 aut0;}
 
 .homeContactLinks {display: none; height: 1px; width: 1px;}
 
