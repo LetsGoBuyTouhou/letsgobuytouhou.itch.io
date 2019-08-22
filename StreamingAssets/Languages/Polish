@@ -1,0 +1,181 @@
+generic
+	name=Polski
+	gamename=NitorInc.
+	incomplete=UWAGA: Gra nie została całkowicie przetłumaczona na język polski. Część tekstu może być po angielsku.
+stage
+	control
+		key=UŻYJ KLAWY
+		mouse=UŻYJ MYCHY
+	speedup=SZYBCIEJ!
+	boss=BOSS
+	levelup=LEVEL UP!
+	pause=Pauza
+		resume=Kontynuuj {0}
+	quit=Wyjdź {0}
+	retry=Ponów {0}
+	gameover=Koniec gry!
+		score=Twój wynik: {0}
+		highscore=Najlepszy wynik: {0}
+		newhighscore=Nowy rekord!
+menu
+	yes=Tak
+	no=Nie
+	ok=OK
+	back=Powrót
+	backalt=Wróć
+	confirm=Potwierdź
+	cancel=Anuluj
+	on=Włącz
+	off=Wyłącz
+	play=Graj
+	main
+		story=Tryb fabularny
+			description=Graj w tryb fabularny bez końca! Uzyskaj najlepszy wynik!
+		compilation=Tryb arcade
+		practice=Trening
+			description=Szlifuj swoje umiejętności w mikrograch i uzyskuj jak najwyższe wyniki żeby pochwalić się kolegom.
+		quit=Zakończ grę
+			prompt=Czy na pewno chcesz zakończyć {0}?
+		settings=Ustawienia
+		credits=Współtwórcy
+	gamemode=Wybierz tryb rozgrywki!
+		locked1=Zablokowane! Przejdź {0} aby odblokować.
+		locked2=Zablokowane! Uzyskaj {0} punktów lub więcej w {1} aby odblokować.
+		highscore=Najlepszy wynik: {0}
+		compilationmode
+			description=Spróbuj swoich sił w niekończącym się maratonie mikrogier! Brak etapów z bossami.
+		compilation=Kompendium Kappy
+			description=Tryb arcade normalny: graj we wszystkie mikrogry, w losowej kolejności.
+		compilationfast=Maksymalna prędkość
+			description=SUPER MEGA SZYBKO!!
+		compilationmystery=(Potrzebna dokumentacja)
+			description=Ups, zgubliśmy plany do tego trybu. Brak wskazówek!
+		compilationhard=Ogórkowe piekło
+			description=Tylko najtrudniejsze gry! Tylko jedno życie! Jak długo przetrwasz?
+	settings
+		resolution=Rozdzielczość ekranu
+		fullscreen=Pełny ekran
+		language=Język
+		graphics=Jakość grafiki
+			0=Najszybsza
+			1=Szybka
+			2=Zwykła
+			3=Dobra
+			4=Piękna
+			5=Fantastyczna
+		volume=Głośność
+			master=Ogólna
+			music=Muzyka
+			sfx=Efekty dźwiękowe
+			voice=Głos
+	microgamecredits
+		art=Grafika: {0}
+		code=Kod gry: {0}
+		music=Muzyka: {0}
+	splash
+		introa=To demo gry jest pochodnym dziełem Touhou Project (東方Project), stworzonym przez ZUN.
+		introb=Wiele fanów tej serii razem pracowało nad kodowaniem, muzyką, grafiką i innymi aspektami wszystkich mikrogier.
+		introc=Jeżeli znasz angielski i chciałbyś przyłączyć się do pracy nad pełną grą, odwiedź {0}\nAlbo po prostu rozpuść wieści o grze!
+		webglwarning=Jeżeli doświadczysz jakichś problemów z odtwarzaczem przeglądarkowym, spróbuj pobrać grę z poniżej podanych linków.
+nitori
+	storyintro=Wygląda na to, że mamy nowego klienta.\nZobaczmy jak poradzisz sobie z moimi grami.\nLepiej nie mrugaj za dużo bo nie nadążysz!
+	storyfinished=Całkiem nieźle, nerdzie.\nJednak nie jesteś tu jedynie by zwiedzać.\nA teraz wypróbuj {0} dla prawdziwego wyzwania!
+	compilationfinished=No no, jestem pod wrażeniem!\nCiekawe czy dasz sobie radę w pełnej grze!\nTo jedynie początek {0}!
+microgame
+	FreezeFrogs
+		command=Zamróź!
+		igname=Mroźne Żaby
+	Slingshot
+		command=Strzelaj!
+		igname=Głowa Do Góry
+	ChenFood
+		command=Nie daj się zjeść!
+		igname=Kocia Ucieczka
+	Spider
+		command=Nakarm!
+		igname=Pora Obiadowa
+	Donation
+		command=Zbierz 3!
+		igname=Łapanie Monet
+	Wrench
+		command=Przymocuj!
+		igname=Warsztat Kappy
+	Potion
+		command=Wrzuć!
+		ingredients=Składniki
+		igname=Problematyczna Alchemia
+	GhostFood
+		command=Zjedz i żuj!
+		igname=Widmowa Wyżerka
+	Spaceship
+		command=Wystrzel!
+		igname=Czarodziejski Program Widm
+	CupShuffle
+		command=Skup się!
+		commandb=Wybierz!
+		igname=Gra w Kubki
+	TraceShape
+		command=Wypełnij!
+		igname=Malowanie z Nitori
+	RockBand
+		command=Daj czadu!
+		igname=SubWOOFer
+	ChenBike
+		command=Trąb!
+		igname=Co Do Jasnej Trąby!?
+	MasterSparkCode
+		command=Rzuć zaklęcie!
+		igname=Ćwiczenia na Strzelnicy
+	OkuuFire
+		command=Wyreguluj!
+		igname=Wszystko pod kontrolą
+	YukariCake
+		command=Podkradnij!
+		igname=Ochota na Słodkości
+	RemiCover
+		command=Zakryj cieniem!
+		igname=Słabość Wampira
+	SuikaShake
+		command=Strząśnij!
+		igname=Wstrząśnięte, nie zmieszane
+	TouhouSort
+		command=Posortuj według {0}!
+		hat=nakrycia głowy
+		wing=typu skrzydeł
+		ear=uszu
+		igname=Touhou Sorter
+	FlanGrab
+		command=Obroń!
+		igname=Obrona posiadłości
+	PaperThief
+		command=Dotrzyj do celu!
+		commandb=Uważaj!
+		commandc=Zestrzel!
+		commandd=Pokonaj ją!
+		igname=W pogoni za ogórkiem
+	KogasaScare
+		igname=Bój Się
+credits
+	intro={0} powstało dzięki niżej wymienionym fanom!
+	kapptain=Kierunek twórczy, Programista, "Kappitan" drużyny
+	leadart=Głowny artysta, Projektant postaci
+	UI=Grafika w menu i między mikrogrami
+	menumusic=Muzyka na ekranie startowym/w menu
+	stagemusic=Muzyka między mikrogrami
+	microgame
+		management=Zarządzanie mikrogrami
+		managementalt=Zarządzanie kolaboracją
+		code=Programowanie mikrogier
+		art=Grafika w mikrograch
+		music=Muzyka w mikrograch
+	localization=Lokalizatorzy
+		management=Zarządzanie lokalizacją
+	sfx=Efekty dźwiękowe
+	voice=Głos Nitori
+	trailer=Trailer wersji próbnej
+	socialmedia=Promowanie/Portale społecznościowe
+	touhou=Oparte na Touhou Project, autorstwa ZUN
+	thanks=Specjalne podziękowania
+		discord=Serwer Discord Touhou Project
+		playtesters=Wszystkim testującym grę
+		fans=I wszystkim fanom za rozgłos!

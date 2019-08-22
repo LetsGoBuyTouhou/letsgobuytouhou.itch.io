@@ -1,0 +1,39 @@
+generic
+	name=Srpski
+	incomplete=UPOZORENJE: Nije sav tekst preveden na Srpskohrvatski. Neki tekst je ostao u Engleskom.
+stage
+	control
+		key=KORISTI TASTATURU
+		mouse=KORISTI MIŠ
+	speedup=UBRZAJ!
+	boss=BOSS NIVO
+	levelup=NIVO VIŠE
+	pause=Igra Pauzirana
+		resume=Nastavi {0}
+	quit=Izadji {0}
+	retry=Ponovi {0}
+	gameover=Kraj Igre!
+		score=Poeni: {0}
+		highscore=Rekord: {0}
+		newhighscore=Novi rekord!
+microgame
+	FreezeFrogs
+		command=Zamrzni!
+	Slingshot
+		command=Ispali!
+	Spider
+		command=Nahrani!
+	Donation
+		command=Sakupi 3!
+	Wrench
+		command=Pričvrsti!
+	Potion
+		command=Ubaci!
+	GhostFood
+		command=Ćapi i sažvaći!
+	Spaceship
+		command=Ispali!
+	TraceShape
+		command=Ispuni!
+	MasterSparkCode
+		command=Baci čaroliju!

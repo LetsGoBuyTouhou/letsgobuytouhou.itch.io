@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "NitorInc Demo WebGL.data.unityweb",
+"asmCodeUrl": "NitorInc Demo WebGL.asm.code.unityweb",
+"asmMemoryUrl": "NitorInc Demo WebGL.asm.memory.unityweb",
+"asmFrameworkUrl": "NitorInc Demo WebGL.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}

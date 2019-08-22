@@ -1,0 +1,143 @@
+    body {background-color: #2b2733; font-family: 'Orbitron', sans-serif,"Arial Black", Gadget, sans-serif; font-weight: 900;}       
+        
+        .logo{height: 150px; margin-top: 50px;}
+            #h{float: right;}
+                h1{
+                    line-height: 120%;
+                padding-top: 20px;
+                font-size:18px; 
+                text-align: left; 
+                color: white;
+                padding-left: 100px;
+            }
+            .logo img {float:left; height: 100px; margin-right: 10%}
+
+        div 
+        {
+            margin: 30px;
+            display: block;
+	        text-align:center;
+            font-weight: 900;
+            clear: both;
+        }
+
+        .shadow
+        {box-shadow: 0px 0px 102px -2px  rgba(12,12,13,0.28)}
+        
+        a {text-decoration: none;}
+            a img { cursor: pointer}
+        
+        .top {width:70%; margin: 0 auto; }
+
+        iframe {
+            float:left;
+            border: 4px solid white; border-radius: 15px;
+        }    
+
+        .btn {
+            border-radius: 100px; 
+            width: 17%; height: auto; 
+            margin: 40px 10px 40px auto;
+            border:1px solid white; 
+            display: block;
+            background-color: #adf72b;
+            }
+            #compOS {width: 17%; height: auto; display: block;  margin: -40px 10px 20px auto;}
+            .btn:hover, .btn:active {border:1px solid #adf72b; opacity: .9; background-color: #96eefb;}
+
+        .bottom {background-image: url(images/Aqua_bg_flat.png); background-size:cover;   margin-top: 100px; overflow: hidden; border-bottom: 10px solid #cacaca}
+        
+        .social{
+            height: 50px; padding: 30px; margin: 10px 0 10px auto;
+        }
+            .social:hover, .social:active{opacity: .7;}
+        
+        .join {
+        font-size: 20px;
+        background: white; 
+        margin: 0 auto;
+        margin-bottom: 50px;
+        border: 1px dashed #adf72b; 
+        align-content:center;
+        padding: 20px;
+        width: 35%;
+        display: block;
+        color: #2b2733;
+        }
+            .join:hover{ background-image: url(images/nitoOK.gif); background-position: bottom left; background-size: contain; background-repeat: no-repeat;}
+
+#sp{height: 1px; display: block;}
+    #sp h3{margin: -3000; overflow: hidden; font-size: 1px;}
+
+@media only screen and (min-width: 1600px){
+    #compOS, .btn{margin-right: auto;}
+    
+}
+
+@media only screen and (max-width: 1370px){
+       iframe{height:365px; width:650px;}
+        #sp{height: 0; display: block;}  
+}
+
+@media only screen and (min-height: 1000px){
+    .join {margin-bottom: 300px;}
+}
+
+@media only screen and (max-width: 1180px){
+       iframe{height:337px; width:600px;}
+}
+
+@media only screen and (max-width: 1090px){
+        iframe{height:309px; width:550px;}
+  
+       
+}
+
+@media only screen and (max-width: 970px){
+     iframe{height:281px; width:500px;}
+      .social{height: 40px; padding: 10px;}
+    
+  
+}  
+
+
+@media only screen and (max-width: 840px){
+    .logo img{display: block; float: none; clear: both;}
+    .logo {margin-bottom: 20px;}
+    h1{padding: 0;}
+ 
+}
+
+@media only screen and (max-width: 900px){
+     iframe{height:225px; width:400px;}
+}
+
+
+@media only screen and (max-width: 750px){
+     iframe{height:185px; width:330px;}
+    .bottom{margin-top: 70px}
+}
+    
+    
+@media only screen and (max-width: 621px){
+    
+    body{font-weight:500}
+    h1{font-size:15px; display: block; margin: 0 auto; padding: 20px 0; width: 80%; line-height: 120%;}
+    #h{padding: 0;float: none;}
+    .logo{margin: 20px auto; float:none;}
+    .logo img {float: none; margin: 0 auto;}
+    iframe{height:213px; width:380px; float:none; border: none; margin: 20px;}
+    .btn{width:25%; margin: 20px 10px; display: inline;}
+    .btn:active{background-image:none;}
+    #compOS{display:none;}
+    .bottom{background-image: url(images/bg_1.jpg); margin-top:10px;}
+    .social{height: 40px; padding: 10px;}
+    .top, .bottom {padding: 0; margin: 0 auto; width:100%;}
+    .join {font-size: 15px;}
+    .join:active{background-image: none;}
+}
+
+@media only screen and (max-width: 440px){  iframe{height:200px; width:90%;}}
+          
+          
+          

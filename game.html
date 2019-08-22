@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<link rel="stylesheet" href="https://use.typekit.net/zbt3alj.css">
+    <meta charset="utf-8">
+    
+    
+    <style>
+        #c {
+            display: block;
+	        text-align:center;
+	        margin:auto
+        }
+        
+        .logo {margin-left: .5%; margin-top: .5%; height: 80px; width: auto;}
+
+        
+      body {background-image: url(images/bg_1.jpg); overflow: hidden; background-size:cover}
+        
+        body img, body h1 {display: block;
+        }
+        
+        body a img {width: 300px; margin-top: 50px;}
+        body a:hover {opacity: 70%;cursor:pointer;}
+        
+        @media screen and (max-width: 480px){
+        
+            
+            .logo {width: 60%; height: auto;margin: 
+        }
+        
+    </style>
+  <head>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>NitorInc. Demo | Web Player</title>
+    <link rel="shortcut icon" href="TemplateData/favicon.ico">
+    <link rel="stylesheet" href="TemplateData/style.css">
+    <script src="TemplateData/UnityProgress.js"></script>  
+    <script src="Build/UnityLoader.js"></script>
+    <script>
+      var gameInstance = UnityLoader.instantiate("gameContainer", "Build/NitorInc Demo WebGL.json", {onProgress: UnityProgress});
+    </script>
+  </head>
+  <body>
+    <div class="webgl-content">
+      <div id="gameContainer" style="width: 960px; height: 720px"></div>
+    </div>
+      
+      <a href="index.html"><img class="logo" src="images/LogoNitorIncSubtitle.png"></a>
+      
+
+      
+      <div id="pagemain">
+
+     
+      </div>
+      
+  </body>
+</html>

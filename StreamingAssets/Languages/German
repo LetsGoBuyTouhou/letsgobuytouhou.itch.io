@@ -1,0 +1,179 @@
+generic
+	name=Deutsch
+	gamename=NitorInc.
+	incomplete=Achtung: Das Spiel ist noch nicht komplett übersetzt worden. Deshalb kann es sein, dass ein paar Dinge noch in Englisch sind.
+stage
+	control
+		key=BENUTZE DIE TASTATUR
+		mouse=BENUTZE DIE MAUS
+	speedup=SCHNELLER!
+	boss=BOSS LEVEL!
+	levelup=NEUER LEVEL!
+	pause=Spiel pausiert
+		resume=Fortsetzen {0}
+	quit=Verlassen {0}
+	retry=Erneut versuchen {0}
+	gameover=Spiel vorbei!
+		score=Deine Punktzahl: {0}
+		highscore=Höchstpunktzahl: {0}
+		newhighscore=Neuer Rekord!
+menu
+	yes=Ja
+	no=Nein
+	ok=O.K
+	back=Zurück
+	backalt=Zurück
+	confirm=Bestätigen
+	cancel=Abbrechen
+	on=Ein
+	off=Aus
+	play=Spielen
+	main
+		story=Story Modus
+		compilation=Arcade Modus
+		practice=Übungsraum
+		quit=Spiel Verlassen
+			prompt=Bist du dir sicher, dass du {0} verlassen möchtest?
+		settings=Optionen
+		credits=Mitwirkende
+	gamemode=Wähle einen Spielmodus!
+		locked1=Gesperrt! Schließe {0} ab, um das Spiel freizuschalten!
+		locked2=Gesperrt! Erreiche {0} oder mehr Punkte in {1} zum Freischalten
+		highscore=Höchstpunktzahl: {0}
+		compilationmode
+			description=Versuche so viele Minispiele wie möglich zu absolvieren (Keine Boss Level)!
+		compilation=Kappa Handbuch
+			description=Normaler Arcade Modus, in welchem du Minispiele in zufälliger Reihenfolge spielst.
+		compilationfast=Maximale Kappazität
+			description=SUPER DUPER SCHNELL! Alle Minispiele in zufälliger Reihenfolge auf höchster Schwierigkeitsstufe.
+		compilationmystery=(Dokumentation wird benötigt)
+			description=Ups, wir haben die Blaupausen hierfür verloren! Kein Kommando oder Kontrollbefehl!
+		compilationhard=Gurken Hölle
+			description=Alle Spiele auf der schwersten Stufe! Nur ein Leben! Wie lange kannst du es aushalten?
+	settings
+		resolution=Bildgröße
+		fullscreen=Vollbildmodus
+		language=Sprache
+		graphics=Grafikqualität
+			0=Am schnellsten
+			1=Schnell
+			2=Einfach
+			3=Gut
+			4=Schön
+			5=Fantastisch
+		volume=Lautstärke
+			master=Gesamtlautstärke
+			music=Musik
+			sfx=Soundeffekte
+			voice=Sprecherlautstärke
+	microgamecredits
+		art=Künstler: {0}
+		code=Code: {0}
+		music=Musik: {0}
+	splash
+		introa=Diese Spieldemo basiert auf dem von ZUN geschaffenen Touhou Project (東方Project).
+		introb=Viele Fans der Spielereihe haben sich zusammengetan und Code, Grafiken sowie vieles weitere beigesteuert, um diese Minispiel-Kollektion zusammen zu stellen.
+		introc=Wenn du Englisch sprechen kannst und zu der Vollversion etwas beitragen möchtest, besuche bitte {0} oder erzähle anderen von uns!
+		webglwarning=Sollte der Web Player dir Probleme bereiten, versuche einen der etwas weiter unten verlinkten Downloads.
+nitori
+	storyintro=Sieht so aus als ob wir einen neuen Kunden haben.\nMal schauen, ob du meine Marken-Spiele bewältigen kannst.\nHalt die Augen offen!
+	storyfinished=Gut gemacht, Nerd.\nIch schätze du bist nicht nur ein Schaufenstergucker.\nJetzt versuche mal den {0}, um wirklich herausgefordert zu werden!
+	compilationfinished=Verdammt, ich bin beeindruckt!\nWarte nur auf die Vollversion des Spiels,\n{0} hat gerade erst angefangen!
+microgame
+	FreezeFrogs
+		command=Friere ein!
+		igname=Frostige Frösche
+	Slingshot
+		command=Schleudere!
+		igname=Kopf hoch
+	ChenFood
+		command=Werde nicht gegessen!
+		igname=Katzenjagd
+	Spider
+		command=Füttere!
+		igname=Spinnenfütterung
+	Donation
+		command=Sammle 3!
+		igname=Ka-Tschingko
+	Wrench
+		command=Mache Fest!
+		igname=Kapparateur
+	Potion
+		command=Reinwerfen!
+		ingredients=Zutaten
+		igname=Verzwickte Alchemie
+	GhostFood
+		command=Essen und kauen!
+		igname=Geisterspeisung
+	Spaceship
+		command=Abheben!
+		igname=Youkai Raumfahrtsprogramm
+	CupShuffle
+		command=Achtgeben!
+		commandb=Entscheide!
+		igname=Hütchenspiel
+	TraceShape
+		command=Ausmalen!
+		igname=Dingen neuen Anstrich verpassen
+	RockBand
+		command=Rocke!
+		igname=Subwoofer
+	ChenBike
+		command=Hupe!
+		igname=Weggehupt
+	MasterSparkCode
+		command=Entfessele!
+		igname=Zielübung
+	OkuuFire
+		command=Regeln!
+		igname=Alles unter Okuuntrolle
+	YukariCake
+		command=Klaue!
+		igname=Dessert Patrouille
+	RemiCover
+		command=Spende Schatten!
+		igname=Schwäche der Vampire
+	SuikaShake
+		command=Abschütteln!
+		igname=Geschüttelt, nicht gerührt
+	TouhouSort
+		command=Sortiere nach {0}!
+		hat=Kopfbedeckung
+		wing=Flügeltyp
+		ear=Ohren
+		igname=Mädchen aller art
+	FlanGrab
+		command=Beschütze!
+		igname=Villa Wachdienst
+	PaperThief
+		command=Erreiche das Ziel!
+		commandb=Pass auf!
+		commandc=Abschießen!
+		commandd=Mach sie fertig!
+		igname=Die Gurkenjagd
+	KogasaScare
+		igname=Fürchte den Youkai
+credits
+	intro={0} wurde durch folgende Fans möglich gemacht!
+	kapptain=Kreativdirektor, Programmierer, Team "Kappitän"
+	leadart=Lead Artist, Character Designer
+	UI=Menü und Hintergrund Grafiken
+	menumusic=Titel und Hauptmenü Musik
+	stagemusic=Spielemusik
+	microgame
+		management=Minispiel Management
+		managementalt=Kollaboration Management
+		code=Minispiel Code
+		art=Minispiel Artist
+		music=Minispiel Musik
+	localization=Übersetzer
+		management=Lokalisierungs Management
+	sfx=Soundeffekte
+	voice=Nitoris Synchronsprecherin
+	trailer=Demo Trailer
+	socialmedia=Social Media
+	touhou=Basierend auf dem Touhou Project von ZUN
+	thanks=Besonderer Dank
+		discord=Der Touhou Project Discord Server
+		playtesters=Unsere Spieletester
+		fans=Und alle Fans, die uns dabei geholfen haben das Wort zu verbreiten!
